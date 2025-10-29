@@ -1,0 +1,2377 @@
+country_name,product,flow,,year,Date,Price
+Australia,Crude oil,Industrial Production,,2021,04-07-2012,320.118773
+Austria,Crude oil,Industrial Production,,2021,30-04-2024,289.2820785
+Belgium,Crude oil,Industrial Production,,2021,09-07-2006,693.8201214
+Canada,Crude oil,Industrial Production,,2021,29-07-2003,545.0129117
+Chile,Crude oil,Industrial Production,,2021,17-04-2008,195.9038777
+Czech Republic,Crude oil,Industrial Production,,2021,07-01-2015,194.7610155
+Denmark,Crude oil,Industrial Production,,2021,27-12-2010,348.5853478
+Estonia,Crude oil,Industrial Production,,2021,14-02-2007,993.4396319
+Finland,Crude oil,Industrial Production,,2021,09-10-2011,452.7663385
+France,Crude oil,Industrial Production,,2021,09-03-2009,995.3639248
+Germany,Crude oil,Industrial Production,,2021,28-06-2005,653.1185793
+Greece,Crude oil,Industrial Production,,2021,26-10-2005,811.2295379
+Hungary,Crude oil,Industrial Production,,2021,03-11-2019,474.660289
+Iceland,Crude oil,Industrial Production,,2021,23-05-2005,772.9296322
+Ireland,Crude oil,Industrial Production,,2021,12-11-2005,374.3662031
+Israel,Crude oil,Industrial Production,,2021,01-02-2021,222.8857896
+Italy,Crude oil,Industrial Production,,2021,06-01-2013,869.4081708
+Japan,Crude oil,Industrial Production,,2021,16-09-2022,786.1558947
+South Korea,Crude oil,Industrial Production,,2021,03-05-2018,605.5570097
+Latvia,Crude oil,Industrial Production,,2021,08-08-2019,527.8096827
+Lithuania,Crude oil,Industrial Production,,2021,04-08-2025,322.8116635
+Luxembourg,Crude oil,Industrial Production,,2021,22-08-2008,644.9114815
+Mexico,Crude oil,Industrial Production,,2021,12-02-2019,878.1944621
+Netherlands,Crude oil,Industrial Production,,2021,26-02-2021,107.3257629
+Norway,Crude oil,Industrial Production,,2021,03-09-2021,592.939747
+New Zealand,Crude oil,Industrial Production,,2021,10-10-2018,892.5716484
+Poland,Crude oil,Industrial Production,,2021,29-11-2022,585.9348417
+Portugal,Crude oil,Industrial Production,,2021,10-05-2016,228.6410773
+Slovakia,Crude oil,Industrial Production,,2021,11-03-2017,313.0651571
+Slovenia,Crude oil,Industrial Production,,2021,21-04-2011,724.6243343
+Spain,Crude oil,Industrial Production,,2021,01-05-2010,936.6126495
+Sweden,Crude oil,Industrial Production,,2021,01-06-2008,932.188323
+Switzerland,Crude oil,Industrial Production,,2021,20-01-2001,204.1503119
+Türkiye,Crude oil,Industrial Production,,2021,09-08-2003,718.0076164
+United Kingdom,Crude oil,Industrial Production,,2021,01-08-2001,513.6005574
+United States,Crude oil,Industrial Production,,2021,27-01-2011,303.8550434
+Australia,Crude oil,Industrial Production,,2021,30-05-2011,507.6314729
+Austria,Crude oil,Industrial Production,,2021,17-02-2011,237.9168004
+Belgium,Crude oil,Industrial Production,,2021,06-06-2025,226.7529658
+Canada,Crude oil,Industrial Production,,2021,21-05-2001,317.4656373
+Chile,Crude oil,Industrial Production,,2021,19-05-2010,882.7494487
+Czech Republic,Crude oil,Industrial Production,,2021,04-10-2008,108.8221952
+Denmark,Crude oil,Industrial Production,,2021,06-02-2003,572.9192846
+Estonia,Crude oil,Industrial Production,,2021,01-07-2011,234.2083493
+Finland,Crude oil,Industrial Production,,2021,08-08-2025,490.2787879
+France,Crude oil,Industrial Production,,2021,01-07-2013,963.6086426
+Germany,Crude oil,Industrial Production,,2021,26-04-2016,851.1750533
+Greece,Crude oil,Industrial Production,,2021,18-05-2017,205.4113792
+Hungary,Crude oil,Industrial Production,,2021,03-08-2007,471.0094648
+Iceland,Crude oil,Industrial Production,,2021,07-06-2013,692.5597811
+Ireland,Crude oil,Industrial Production,,2021,10-05-2006,743.192696
+Israel,Crude oil,Industrial Production,,2021,08-05-2010,668.4278299
+Italy,Crude oil,Industrial Production,,2021,05-04-2022,969.5857628
+Japan,Crude oil,Industrial Production,,2021,05-03-2022,305.0668244
+South Korea,Crude oil,Industrial Production,,2021,10-11-2013,384.1767802
+Latvia,Crude oil,Industrial Production,,2021,19-04-2022,898.2000836
+Lithuania,Crude oil,Industrial Production,,2021,09-05-2016,127.3165162
+Luxembourg,Crude oil,Industrial Production,,2021,26-01-2018,765.3566155
+Mexico,Crude oil,Industrial Production,,2021,04-11-2001,401.551665
+Netherlands,Crude oil,Industrial Production,,2021,06-07-2009,559.1627861
+Norway,Crude oil,Industrial Production,,2021,15-12-2018,432.0033823
+New Zealand,Crude oil,Industrial Production,,2021,02-02-2009,210.2650025
+Poland,Crude oil,Industrial Production,,2021,22-02-2023,474.3579174
+Portugal,Crude oil,Industrial Production,,2021,14-11-2007,220.6552578
+Slovakia,Crude oil,Industrial Production,,2021,11-04-2021,450.3925507
+Slovenia,Crude oil,Industrial Production,,2021,13-11-2020,276.2773226
+Spain,Crude oil,Industrial Production,,2021,27-05-2018,629.1324801
+Sweden,Crude oil,Industrial Production,,2021,25-07-2018,881.4552187
+Switzerland,Crude oil,Industrial Production,,2021,06-07-2016,994.291148
+Türkiye,Crude oil,Industrial Production,,2021,14-05-2019,405.2059212
+United Kingdom,Crude oil,Industrial Production,,2021,16-10-2017,998.0696516
+United States,Crude oil,Industrial Production,,2021,22-02-2002,856.4897869
+Australia,Liquified Petroleum Gas,Net Deliveries,,2021,01-07-2005,630.9477191
+Austria,Liquified Petroleum Gas,Net Deliveries,,2021,21-09-2014,269.0163578
+Belgium,Liquified Petroleum Gas,Net Deliveries,,2021,24-07-2011,333.1642442
+Canada,Liquified Petroleum Gas,Net Deliveries,,2021,28-03-2023,666.1361262
+Chile,Liquified Petroleum Gas,Net Deliveries,,2021,05-07-2010,479.2736802
+Czech Republic,Liquified Petroleum Gas,Net Deliveries,,2021,03-04-2025,587.5959766
+Denmark,Liquified Petroleum Gas,Net Deliveries,,2021,20-03-2005,235.5103848
+Estonia,Liquified Petroleum Gas,Net Deliveries,,2021,11-03-2004,588.3881531
+Finland,Liquified Petroleum Gas,Net Deliveries,,2021,11-10-2008,687.7483502
+France,Liquified Petroleum Gas,Net Deliveries,,2021,29-10-2006,135.7273494
+Germany,Liquified Petroleum Gas,Net Deliveries,,2021,25-11-2008,521.8111077
+Greece,Liquified Petroleum Gas,Net Deliveries,,2021,28-11-2003,923.4222923
+Hungary,Liquified Petroleum Gas,Net Deliveries,,2021,04-01-2014,528.5151375
+Iceland,Liquified Petroleum Gas,Net Deliveries,,2021,20-01-2009,398.75515
+Ireland,Liquified Petroleum Gas,Net Deliveries,,2021,30-05-2018,907.6430585
+Israel,Liquified Petroleum Gas,Net Deliveries,,2021,07-09-2018,683.3726952
+Italy,Liquified Petroleum Gas,Net Deliveries,,2021,14-10-2003,414.2198495
+Japan,Liquified Petroleum Gas,Net Deliveries,,2021,13-06-2014,520.7728326
+South Korea,Liquified Petroleum Gas,Net Deliveries,,2021,24-07-2011,809.1940744
+Latvia,Liquified Petroleum Gas,Net Deliveries,,2021,30-12-2021,574.7055763
+Lithuania,Liquified Petroleum Gas,Net Deliveries,,2021,13-05-2006,961.1595764
+Luxembourg,Liquified Petroleum Gas,Net Deliveries,,2021,26-01-2004,604.3726071
+Mexico,Liquified Petroleum Gas,Net Deliveries,,2021,20-01-2020,831.5285387
+Netherlands,Liquified Petroleum Gas,Net Deliveries,,2021,04-04-2019,599.7769718
+Norway,Liquified Petroleum Gas,Net Deliveries,,2021,13-03-2013,205.2719285
+New Zealand,Liquified Petroleum Gas,Net Deliveries,,2021,09-06-2015,613.5893229
+Poland,Liquified Petroleum Gas,Net Deliveries,,2021,11-07-2010,388.39517
+Portugal,Liquified Petroleum Gas,Net Deliveries,,2021,11-09-2010,170.3570021
+Slovakia,Liquified Petroleum Gas,Net Deliveries,,2021,11-07-2003,899.2197837
+Slovenia,Liquified Petroleum Gas,Net Deliveries,,2021,19-04-2025,654.4789376
+Spain,Liquified Petroleum Gas,Net Deliveries,,2021,03-08-2014,457.3674357
+Sweden,Liquified Petroleum Gas,Net Deliveries,,2021,16-08-2015,460.9309159
+Switzerland,Liquified Petroleum Gas,Net Deliveries,,2021,26-10-2020,363.8852668
+Türkiye,Liquified Petroleum Gas,Net Deliveries,,2021,29-03-2015,409.6280261
+United Kingdom,Liquified Petroleum Gas,Net Deliveries,,2021,30-01-2021,697.0602201
+United States,Liquified Petroleum Gas,Net Deliveries,,2021,04-08-2013,342.2167794
+Australia,Liquified Petroleum Gas,Net Deliveries,,2021,22-09-2019,793.4614845
+Austria,Liquified Petroleum Gas,Net Deliveries,,2021,10-09-2018,129.8087921
+Belgium,Liquified Petroleum Gas,Net Deliveries,,2021,06-10-2025,669.9661139
+Canada,Liquified Petroleum Gas,Net Deliveries,,2021,12-03-2016,930.3443055
+Chile,Liquified Petroleum Gas,Net Deliveries,,2021,26-10-2011,102.4313823
+Czech Republic,Liquified Petroleum Gas,Net Deliveries,,2021,21-05-2010,545.0994574
+Denmark,Liquified Petroleum Gas,Net Deliveries,,2021,01-12-2007,214.4093876
+Estonia,Liquified Petroleum Gas,Net Deliveries,,2021,04-12-2018,776.7757297
+Finland,Liquified Petroleum Gas,Net Deliveries,,2021,03-11-2016,537.0518343
+France,Liquified Petroleum Gas,Net Deliveries,,2021,20-01-2010,129.4462474
+Germany,Liquified Petroleum Gas,Net Deliveries,,2021,16-12-2005,610.5127212
+Greece,Liquified Petroleum Gas,Net Deliveries,,2021,27-08-2023,437.4743645
+Hungary,Liquified Petroleum Gas,Net Deliveries,,2021,24-08-2005,981.1626479
+Iceland,Liquified Petroleum Gas,Net Deliveries,,2021,14-06-2025,795.558766
+Ireland,Liquified Petroleum Gas,Net Deliveries,,2021,25-10-2014,505.799148
+Israel,Liquified Petroleum Gas,Net Deliveries,,2021,06-08-2009,791.3818306
+Italy,Liquified Petroleum Gas,Net Deliveries,,2021,03-11-2015,668.525142
+Japan,Liquified Petroleum Gas,Net Deliveries,,2021,04-06-2006,732.7165647
+South Korea,Liquified Petroleum Gas,Net Deliveries,,2021,12-09-2007,630.0821052
+Latvia,Liquified Petroleum Gas,Net Deliveries,,2021,12-07-2004,791.0031366
+Lithuania,Liquified Petroleum Gas,Net Deliveries,,2021,21-12-2021,201.7639555
+Luxembourg,Liquified Petroleum Gas,Net Deliveries,,2021,17-04-2015,402.2236446
+Mexico,Liquified Petroleum Gas,Net Deliveries,,2021,11-07-2007,455.945311
+Netherlands,Liquified Petroleum Gas,Net Deliveries,,2021,10-10-2017,477.0485215
+Norway,Liquified Petroleum Gas,Net Deliveries,,2021,11-12-2014,585.9022743
+New Zealand,Liquified Petroleum Gas,Net Deliveries,,2021,11-10-2022,520.9754214
+Poland,Liquified Petroleum Gas,Net Deliveries,,2021,10-12-2007,115.1929338
+Portugal,Liquified Petroleum Gas,Net Deliveries,,2021,27-08-2006,729.8089491
+Slovakia,Liquified Petroleum Gas,Net Deliveries,,2021,07-01-2018,224.1652386
+Slovenia,Liquified Petroleum Gas,Net Deliveries,,2021,14-03-2020,526.8268773
+Spain,Liquified Petroleum Gas,Net Deliveries,,2021,18-11-2001,764.3429822
+Sweden,Liquified Petroleum Gas,Net Deliveries,,2021,02-06-2025,130.0180264
+Switzerland,Liquified Petroleum Gas,Net Deliveries,,2021,21-07-2006,711.8022704
+Türkiye,Liquified Petroleum Gas,Net Deliveries,,2021,10-05-2004,955.783812
+United Kingdom,Liquified Petroleum Gas,Net Deliveries,,2021,15-02-2006,459.3140815
+United States,Liquified Petroleum Gas,Net Deliveries,,2021,26-09-2012,382.2323734
+Australia,Naphtha,Net Deliveries,,2021,06-11-2008,141.0917261
+Austria,Naphtha,Net Deliveries,,2021,03-07-2017,932.3490341
+Belgium,Naphtha,Net Deliveries,,2021,18-10-2016,945.4845195
+Canada,Naphtha,Net Deliveries,,2021,08-07-2007,192.5670973
+Chile,Naphtha,Net Deliveries,,2021,31-08-2003,670.2660965
+Czech Republic,Naphtha,Net Deliveries,,2021,09-10-2003,135.7622651
+Denmark,Naphtha,Net Deliveries,,2021,20-10-2011,949.9265106
+Estonia,Naphtha,Net Deliveries,,2021,21-11-2023,853.7848081
+Finland,Naphtha,Net Deliveries,,2021,15-03-2018,519.7098568
+France,Naphtha,Net Deliveries,,2021,10-02-2018,309.6832138
+Germany,Naphtha,Net Deliveries,,2021,13-03-2016,610.3426098
+Greece,Naphtha,Net Deliveries,,2021,22-04-2020,138.3622158
+Hungary,Naphtha,Net Deliveries,,2021,01-12-2019,600.9391445
+Iceland,Naphtha,Net Deliveries,,2021,05-04-2009,217.4854588
+Ireland,Naphtha,Net Deliveries,,2021,16-11-2001,282.2480129
+Israel,Naphtha,Net Deliveries,,2021,16-02-2024,813.9959311
+Italy,Naphtha,Net Deliveries,,2021,15-04-2020,323.0065983
+Japan,Naphtha,Net Deliveries,,2021,21-03-2023,298.469569
+South Korea,Naphtha,Net Deliveries,,2021,13-05-2010,379.208469
+Latvia,Naphtha,Net Deliveries,,2021,15-11-2012,852.4485857
+Lithuania,Naphtha,Net Deliveries,,2021,28-10-2005,472.8734372
+Luxembourg,Naphtha,Net Deliveries,,2021,07-07-2009,556.2331143
+Mexico,Naphtha,Net Deliveries,,2021,23-02-2002,481.020282
+Netherlands,Naphtha,Net Deliveries,,2021,13-12-2018,775.2729654
+Norway,Naphtha,Net Deliveries,,2021,02-03-2004,742.6766482
+New Zealand,Naphtha,Net Deliveries,,2021,18-04-2007,942.6329733
+Poland,Naphtha,Net Deliveries,,2021,08-08-2001,198.3098206
+Portugal,Naphtha,Net Deliveries,,2021,13-02-2014,723.4498247
+Slovakia,Naphtha,Net Deliveries,,2021,12-07-2014,761.0344398
+Slovenia,Naphtha,Net Deliveries,,2021,01-03-2014,559.3363435
+Spain,Naphtha,Net Deliveries,,2021,25-03-2019,815.3825128
+Sweden,Naphtha,Net Deliveries,,2021,21-11-2024,574.9902213
+Switzerland,Naphtha,Net Deliveries,,2021,21-04-2025,384.2073028
+Türkiye,Naphtha,Net Deliveries,,2021,11-10-2020,817.0992678
+United Kingdom,Naphtha,Net Deliveries,,2021,10-02-2003,407.484574
+United States,Naphtha,Net Deliveries,,2021,14-10-2022,284.1896744
+Australia,Naphtha,Net Deliveries,,2021,23-06-2025,530.9265
+Austria,Naphtha,Net Deliveries,,2021,10-08-2010,379.1220973
+Belgium,Naphtha,Net Deliveries,,2021,29-12-2013,721.5986368
+Canada,Naphtha,Net Deliveries,,2021,20-11-2007,743.9090431
+Chile,Naphtha,Net Deliveries,,2021,17-02-2002,821.2148149
+Czech Republic,Naphtha,Net Deliveries,,2021,06-04-2001,147.942747
+Denmark,Naphtha,Net Deliveries,,2021,05-01-2019,384.2144623
+Estonia,Naphtha,Net Deliveries,,2021,26-07-2004,504.9979717
+Finland,Naphtha,Net Deliveries,,2021,01-01-2016,823.3654543
+France,Naphtha,Net Deliveries,,2021,27-09-2013,114.9415665
+Germany,Naphtha,Net Deliveries,,2021,04-06-2010,175.0441673
+Greece,Naphtha,Net Deliveries,,2021,19-01-2017,422.3976437
+Hungary,Naphtha,Net Deliveries,,2021,27-12-2019,475.485445
+Iceland,Naphtha,Net Deliveries,,2021,02-12-2007,532.6231871
+Ireland,Naphtha,Net Deliveries,,2021,28-01-2010,283.5058271
+Israel,Naphtha,Net Deliveries,,2021,16-04-2024,439.0114347
+Italy,Naphtha,Net Deliveries,,2021,30-06-2009,341.3263263
+Japan,Naphtha,Net Deliveries,,2021,14-02-2007,348.4446064
+South Korea,Naphtha,Net Deliveries,,2021,20-01-2011,308.5508299
+Latvia,Naphtha,Net Deliveries,,2021,31-08-2023,400.2437481
+Lithuania,Naphtha,Net Deliveries,,2021,03-01-2017,996.4071196
+Luxembourg,Naphtha,Net Deliveries,,2021,16-11-2020,181.5695143
+Mexico,Naphtha,Net Deliveries,,2021,20-03-2023,892.5796516
+Netherlands,Naphtha,Net Deliveries,,2021,16-06-2020,450.3354221
+Norway,Naphtha,Net Deliveries,,2021,11-02-2025,613.8038795
+New Zealand,Naphtha,Net Deliveries,,2021,27-09-2014,957.8798774
+Poland,Naphtha,Net Deliveries,,2021,07-03-2024,961.4072076
+Portugal,Naphtha,Net Deliveries,,2021,30-09-2016,402.3956133
+Slovakia,Naphtha,Net Deliveries,,2021,24-02-2002,253.4457814
+Slovenia,Naphtha,Net Deliveries,,2021,04-06-2020,364.8470813
+Spain,Naphtha,Net Deliveries,,2021,30-03-2015,234.7115454
+Sweden,Naphtha,Net Deliveries,,2021,05-06-2011,745.4955581
+Switzerland,Naphtha,Net Deliveries,,2021,29-12-2013,571.5944101
+Türkiye,Naphtha,Net Deliveries,,2021,19-04-2012,962.5813121
+United Kingdom,Naphtha,Net Deliveries,,2021,16-08-2021,963.4617923
+United States,Naphtha,Net Deliveries,,2021,18-03-2002,508.9507833
+Australia,Total gas oil production,Net Deliveries,,2021,27-06-2021,317.6482635
+Austria,Total gas oil production,Net Deliveries,,2021,01-07-2008,805.6317644
+Belgium,Total gas oil production,Net Deliveries,,2021,24-03-2020,735.6416404
+Canada,Total gas oil production,Net Deliveries,,2021,03-05-2004,261.5019894
+Chile,Total gas oil production,Net Deliveries,,2021,22-09-2020,239.0424229
+Czech Republic,Total gas oil production,Net Deliveries,,2021,29-02-2008,773.1098815
+Denmark,Total gas oil production,Net Deliveries,,2021,19-03-2022,625.7194241
+Estonia,Total gas oil production,Net Deliveries,,2021,14-08-2019,171.4472889
+Finland,Total gas oil production,Net Deliveries,,2021,19-06-2011,108.5964738
+France,Total gas oil production,Net Deliveries,,2021,23-11-2018,329.4987423
+Germany,Total gas oil production,Net Deliveries,,2021,27-07-2025,675.7165434
+Greece,Total gas oil production,Net Deliveries,,2021,11-04-2004,585.7480273
+Hungary,Total gas oil production,Net Deliveries,,2021,25-03-2012,238.262848
+Iceland,Total gas oil production,Net Deliveries,,2021,29-04-2016,895.5533268
+Ireland,Total gas oil production,Net Deliveries,,2021,20-04-2008,531.8054742
+Israel,Total gas oil production,Net Deliveries,,2021,19-12-2018,588.1546304
+Italy,Total gas oil production,Net Deliveries,,2021,26-10-2003,204.4620413
+Japan,Total gas oil production,Net Deliveries,,2021,15-10-2022,221.8507539
+South Korea,Total gas oil production,Net Deliveries,,2021,10-02-2018,373.8020878
+Latvia,Total gas oil production,Net Deliveries,,2021,03-06-2014,993.2575538
+Lithuania,Total gas oil production,Net Deliveries,,2021,18-12-2025,499.3868899
+Luxembourg,Total gas oil production,Net Deliveries,,2021,07-03-2025,595.4422805
+Mexico,Total gas oil production,Net Deliveries,,2021,15-08-2007,168.9045351
+Netherlands,Total gas oil production,Net Deliveries,,2021,10-01-2023,705.3141907
+Norway,Total gas oil production,Net Deliveries,,2021,27-06-2002,784.448341
+New Zealand,Total gas oil production,Net Deliveries,,2021,04-05-2018,365.3593135
+Poland,Total gas oil production,Net Deliveries,,2021,28-10-2006,560.423586
+Portugal,Total gas oil production,Net Deliveries,,2021,01-04-2015,890.0983925
+Slovakia,Total gas oil production,Net Deliveries,,2021,22-05-2004,265.3578539
+Slovenia,Total gas oil production,Net Deliveries,,2021,07-12-2025,216.3614794
+Spain,Total gas oil production,Net Deliveries,,2021,03-03-2022,845.8614247
+Sweden,Total gas oil production,Net Deliveries,,2021,10-10-2011,762.268063
+Switzerland,Total gas oil production,Net Deliveries,,2021,29-05-2012,853.3036553
+Türkiye,Total gas oil production,Net Deliveries,,2021,28-09-2010,184.6145733
+United Kingdom,Total gas oil production,Net Deliveries,,2021,13-06-2004,189.3508056
+United States,Total gas oil production,Net Deliveries,,2021,30-07-2017,455.294769
+Australia,Total gas oil production,Net Deliveries,,2021,10-04-2003,540.8252073
+Austria,Total gas oil production,Net Deliveries,,2021,20-01-2015,616.4490889
+Belgium,Total gas oil production,Net Deliveries,,2021,22-04-2012,767.7832602
+Canada,Total gas oil production,Net Deliveries,,2021,18-07-2014,794.2811248
+Chile,Total gas oil production,Net Deliveries,,2021,11-08-2011,417.7138739
+Czech Republic,Total gas oil production,Net Deliveries,,2021,14-08-2011,879.710929
+Denmark,Total gas oil production,Net Deliveries,,2021,16-02-2007,457.8896046
+Estonia,Total gas oil production,Net Deliveries,,2021,10-12-2010,996.8421875
+Finland,Total gas oil production,Net Deliveries,,2021,07-02-2004,610.5260704
+France,Total gas oil production,Net Deliveries,,2021,19-09-2010,527.3431186
+Germany,Total gas oil production,Net Deliveries,,2021,24-10-2001,823.6838814
+Greece,Total gas oil production,Net Deliveries,,2021,28-10-2020,589.9211144
+Hungary,Total gas oil production,Net Deliveries,,2021,31-01-2018,808.0937524
+Iceland,Total gas oil production,Net Deliveries,,2021,05-07-2021,512.3522507
+Ireland,Total gas oil production,Net Deliveries,,2021,19-01-2023,720.1659565
+Israel,Total gas oil production,Net Deliveries,,2021,08-04-2015,128.5125903
+Italy,Total gas oil production,Net Deliveries,,2021,10-07-2005,666.3260067
+Japan,Total gas oil production,Net Deliveries,,2021,30-01-2019,830.4657748
+South Korea,Total gas oil production,Net Deliveries,,2021,30-03-2011,303.2458177
+Latvia,Total gas oil production,Net Deliveries,,2021,11-11-2001,897.3632302
+Lithuania,Total gas oil production,Net Deliveries,,2021,05-11-2010,706.1173686
+Luxembourg,Total gas oil production,Net Deliveries,,2021,13-05-2014,816.636751
+Mexico,Total gas oil production,Net Deliveries,,2021,19-01-2007,752.7956334
+Netherlands,Total gas oil production,Net Deliveries,,2021,07-02-2017,429.1421626
+Norway,Total gas oil production,Net Deliveries,,2021,03-03-2017,839.3127434
+New Zealand,Total gas oil production,Net Deliveries,,2021,13-07-2009,985.0581179
+Poland,Total gas oil production,Net Deliveries,,2021,07-08-2007,463.2995543
+Portugal,Total gas oil production,Net Deliveries,,2021,07-11-2024,233.4771338
+Slovakia,Total gas oil production,Net Deliveries,,2021,02-07-2005,993.4102843
+Slovenia,Total gas oil production,Net Deliveries,,2021,11-09-2007,367.3328792
+Spain,Total gas oil production,Net Deliveries,,2021,09-11-2005,374.5614795
+Sweden,Total gas oil production,Net Deliveries,,2021,03-02-2001,455.9357595
+Switzerland,Total gas oil production,Net Deliveries,,2021,22-06-2016,367.8346388
+Türkiye,Total gas oil production,Net Deliveries,,2021,10-08-2001,351.9690749
+United Kingdom,Total gas oil production,Net Deliveries,,2021,16-02-2004,220.0224987
+United States,Total gas oil production,Net Deliveries,,2021,11-02-2020,438.8350283
+Australia,Total kerosene production,Net Deliveries,,2021,06-10-2023,646.3422989
+Austria,Total kerosene production,Net Deliveries,,2021,26-10-2011,843.3774867
+Belgium,Total kerosene production,Net Deliveries,,2021,24-10-2022,178.6555395
+Canada,Total kerosene production,Net Deliveries,,2021,22-07-2025,676.1864307
+Chile,Total kerosene production,Net Deliveries,,2021,19-05-2004,619.247818
+Czech Republic,Total kerosene production,Net Deliveries,,2021,28-06-2010,997.3585176
+Denmark,Total kerosene production,Net Deliveries,,2021,15-04-2006,921.3329051
+Estonia,Total kerosene production,Net Deliveries,,2021,09-10-2020,708.2607674
+Finland,Total kerosene production,Net Deliveries,,2021,06-07-2023,801.1214914
+France,Total kerosene production,Net Deliveries,,2021,29-11-2020,562.8251944
+Germany,Total kerosene production,Net Deliveries,,2021,01-02-2005,847.6205586
+Greece,Total kerosene production,Net Deliveries,,2021,29-10-2018,312.5403136
+Hungary,Total kerosene production,Net Deliveries,,2021,19-08-2004,564.5761127
+Iceland,Total kerosene production,Net Deliveries,,2021,18-12-2008,505.8056925
+Ireland,Total kerosene production,Net Deliveries,,2021,17-06-2015,430.4280819
+Israel,Total kerosene production,Net Deliveries,,2021,07-03-2025,384.4932343
+Italy,Total kerosene production,Net Deliveries,,2021,20-03-2008,803.6931532
+Japan,Total kerosene production,Net Deliveries,,2021,28-10-2013,390.68822
+South Korea,Total kerosene production,Net Deliveries,,2021,01-08-2012,735.7479877
+Latvia,Total kerosene production,Net Deliveries,,2021,10-07-2013,853.9216039
+Lithuania,Total kerosene production,Net Deliveries,,2021,24-03-2023,690.035961
+Luxembourg,Total kerosene production,Net Deliveries,,2021,01-07-2012,934.1929781
+Mexico,Total kerosene production,Net Deliveries,,2021,24-06-2025,738.7810906
+Netherlands,Total kerosene production,Net Deliveries,,2021,03-06-2022,642.1171808
+Norway,Total kerosene production,Net Deliveries,,2021,11-05-2002,712.3044651
+New Zealand,Total kerosene production,Net Deliveries,,2021,01-02-2014,963.9910514
+Poland,Total kerosene production,Net Deliveries,,2021,14-12-2020,585.0415954
+Portugal,Total kerosene production,Net Deliveries,,2021,21-12-2012,350.6469012
+Slovakia,Total kerosene production,Net Deliveries,,2021,17-11-2022,952.219091
+Slovenia,Total kerosene production,Net Deliveries,,2021,15-04-2001,198.6479027
+Spain,Total kerosene production,Net Deliveries,,2021,27-10-2024,962.1390362
+Sweden,Total kerosene production,Net Deliveries,,2021,21-02-2003,393.1291781
+Switzerland,Total kerosene production,Net Deliveries,,2021,09-01-2017,241.9397718
+Türkiye,Total kerosene production,Net Deliveries,,2021,29-11-2021,565.4623598
+United Kingdom,Total kerosene production,Net Deliveries,,2021,07-04-2006,932.2552729
+United States,Total kerosene production,Net Deliveries,,2021,11-08-2013,356.4078073
+Australia,Total kerosene production,Net Deliveries,,2021,15-07-2024,686.2471874
+Austria,Total kerosene production,Net Deliveries,,2021,11-11-2016,581.0866856
+Belgium,Total kerosene production,Net Deliveries,,2021,02-04-2016,457.6436075
+Canada,Total kerosene production,Net Deliveries,,2021,23-05-2005,938.017814
+Chile,Total kerosene production,Net Deliveries,,2021,15-03-2005,457.5984551
+Czech Republic,Total kerosene production,Net Deliveries,,2021,16-10-2025,670.9694974
+Denmark,Total kerosene production,Net Deliveries,,2021,23-05-2001,767.1973384
+Estonia,Total kerosene production,Net Deliveries,,2021,25-02-2019,884.0146221
+Finland,Total kerosene production,Net Deliveries,,2021,05-02-2020,669.5934063
+France,Total kerosene production,Net Deliveries,,2021,10-03-2024,230.5013763
+Germany,Total kerosene production,Net Deliveries,,2021,18-04-2001,498.3776732
+Greece,Total kerosene production,Net Deliveries,,2021,01-04-2021,490.1478445
+Hungary,Total kerosene production,Net Deliveries,,2021,21-01-2023,891.4640749
+Iceland,Total kerosene production,Net Deliveries,,2021,07-10-2010,830.3304105
+Ireland,Total kerosene production,Net Deliveries,,2021,10-06-2001,575.5866103
+Israel,Total kerosene production,Net Deliveries,,2021,13-10-2016,596.06499
+Italy,Total kerosene production,Net Deliveries,,2021,09-04-2008,180.2114109
+Japan,Total kerosene production,Net Deliveries,,2021,08-12-2023,263.899778
+South Korea,Total kerosene production,Net Deliveries,,2021,07-02-2003,406.5395473
+Latvia,Total kerosene production,Net Deliveries,,2021,10-08-2016,600.9120316
+Lithuania,Total kerosene production,Net Deliveries,,2021,27-03-2004,376.1242552
+Luxembourg,Total kerosene production,Net Deliveries,,2021,04-06-2001,953.9049036
+Mexico,Total kerosene production,Net Deliveries,,2021,15-05-2005,332.2303428
+Netherlands,Total kerosene production,Net Deliveries,,2021,20-05-2025,144.8426954
+Norway,Total kerosene production,Net Deliveries,,2021,11-01-2014,462.9707788
+New Zealand,Total kerosene production,Net Deliveries,,2021,22-11-2006,209.7519564
+Poland,Total kerosene production,Net Deliveries,,2021,15-04-2014,513.3409689
+Portugal,Total kerosene production,Net Deliveries,,2021,24-03-2007,214.22406
+Slovakia,Total kerosene production,Net Deliveries,,2021,10-02-2001,811.647186
+Slovenia,Total kerosene production,Net Deliveries,,2021,05-10-2017,445.2097214
+Spain,Total kerosene production,Net Deliveries,,2021,06-03-2002,333.1882571
+Sweden,Total kerosene production,Net Deliveries,,2021,20-08-2013,585.08387
+Switzerland,Total kerosene production,Net Deliveries,,2021,18-06-2004,890.0216666
+Türkiye,Total kerosene production,Net Deliveries,,2021,07-11-2008,497.6347431
+United Kingdom,Total kerosene production,Net Deliveries,,2021,16-11-2023,506.2700764
+United States,Total kerosene production,Net Deliveries,,2021,19-09-2015,188.2074577
+Australia,Gasoline and diesel,Net Deliveries,,2021,06-08-2009,878.9573243
+Austria,Gasoline and diesel,Net Deliveries,,2021,31-07-2019,268.9194013
+Belgium,Gasoline and diesel,Net Deliveries,,2021,13-10-2008,407.8734444
+Canada,Gasoline and diesel,Net Deliveries,,2021,22-03-2001,975.4147999
+Chile,Gasoline and diesel,Net Deliveries,,2021,12-07-2003,136.1399568
+Czech Republic,Gasoline and diesel,Net Deliveries,,2021,14-12-2023,644.1134765
+Denmark,Gasoline and diesel,Net Deliveries,,2021,25-02-2018,206.653315
+Estonia,Gasoline and diesel,Net Deliveries,,2021,07-05-2003,853.9608401
+Finland,Gasoline and diesel,Net Deliveries,,2021,15-10-2013,475.6535802
+France,Gasoline and diesel,Net Deliveries,,2021,18-05-2012,101.3106681
+Germany,Gasoline and diesel,Net Deliveries,,2021,08-12-2002,436.0888815
+Greece,Gasoline and diesel,Net Deliveries,,2021,01-05-2010,527.1618912
+Hungary,Gasoline and diesel,Net Deliveries,,2021,21-07-2003,914.1928925
+Iceland,Gasoline and diesel,Net Deliveries,,2021,23-05-2011,550.016879
+Ireland,Gasoline and diesel,Net Deliveries,,2021,09-01-2014,995.4729083
+Israel,Gasoline and diesel,Net Deliveries,,2021,26-03-2021,805.2640669
+Italy,Gasoline and diesel,Net Deliveries,,2021,20-05-2005,273.6066316
+Japan,Gasoline and diesel,Net Deliveries,,2021,31-08-2001,874.2385199
+South Korea,Gasoline and diesel,Net Deliveries,,2021,21-12-2006,123.2627562
+Latvia,Gasoline and diesel,Net Deliveries,,2021,20-12-2018,276.549737
+Lithuania,Gasoline and diesel,Net Deliveries,,2021,21-08-2007,414.83201
+Luxembourg,Gasoline and diesel,Net Deliveries,,2021,07-10-2002,460.1483066
+Mexico,Gasoline and diesel,Net Deliveries,,2021,20-11-2001,214.2819328
+Netherlands,Gasoline and diesel,Net Deliveries,,2021,23-03-2015,758.467323
+Norway,Gasoline and diesel,Net Deliveries,,2021,31-12-2020,106.0840196
+New Zealand,Gasoline and diesel,Net Deliveries,,2021,17-05-2016,639.6411609
+Poland,Gasoline and diesel,Net Deliveries,,2021,09-08-2022,642.3144717
+Portugal,Gasoline and diesel,Net Deliveries,,2021,22-03-2021,298.227244
+Slovakia,Gasoline and diesel,Net Deliveries,,2021,23-08-2006,917.4891465
+Slovenia,Gasoline and diesel,Net Deliveries,,2021,08-05-2006,439.2894742
+Spain,Gasoline and diesel,Net Deliveries,,2021,08-03-2003,925.3311691
+Sweden,Gasoline and diesel,Net Deliveries,,2021,22-12-2011,106.1041966
+Switzerland,Gasoline and diesel,Net Deliveries,,2021,13-03-2008,372.5086383
+Türkiye,Gasoline and diesel,Net Deliveries,,2021,25-07-2010,899.0804455
+United Kingdom,Gasoline and diesel,Net Deliveries,,2021,22-04-2008,308.7980363
+United States,Gasoline and diesel,Net Deliveries,,2021,25-02-2018,103.4305195
+Australia,Gasoline and diesel,Net Deliveries,,2021,28-08-2009,188.9212874
+Austria,Gasoline and diesel,Net Deliveries,,2021,06-08-2017,738.9590397
+Belgium,Gasoline and diesel,Net Deliveries,,2021,22-03-2025,894.6453724
+Canada,Gasoline and diesel,Net Deliveries,,2021,03-11-2022,731.0366839
+Chile,Gasoline and diesel,Net Deliveries,,2021,26-07-2025,562.8937276
+Czech Republic,Gasoline and diesel,Net Deliveries,,2021,29-09-2018,201.3419957
+Denmark,Gasoline and diesel,Net Deliveries,,2021,18-09-2016,874.7441736
+Estonia,Gasoline and diesel,Net Deliveries,,2021,17-09-2008,732.0921747
+Finland,Gasoline and diesel,Net Deliveries,,2021,03-08-2015,335.3953389
+France,Gasoline and diesel,Net Deliveries,,2021,20-09-2005,539.0011786
+Germany,Gasoline and diesel,Net Deliveries,,2021,22-03-2006,750.3176378
+Greece,Gasoline and diesel,Net Deliveries,,2021,29-10-2018,268.1469228
+Hungary,Gasoline and diesel,Net Deliveries,,2021,21-09-2020,331.1711094
+Iceland,Gasoline and diesel,Net Deliveries,,2021,02-06-2006,929.7541334
+Ireland,Gasoline and diesel,Net Deliveries,,2021,31-12-2008,682.5852296
+Israel,Gasoline and diesel,Net Deliveries,,2021,15-02-2024,346.3029779
+Italy,Gasoline and diesel,Net Deliveries,,2021,31-10-2014,180.901723
+Japan,Gasoline and diesel,Net Deliveries,,2021,12-09-2023,749.6841674
+South Korea,Gasoline and diesel,Net Deliveries,,2021,12-05-2017,404.8452172
+Latvia,Gasoline and diesel,Net Deliveries,,2021,19-04-2004,448.4189076
+Lithuania,Gasoline and diesel,Net Deliveries,,2021,14-12-2002,108.0609099
+Luxembourg,Gasoline and diesel,Net Deliveries,,2021,25-03-2019,805.4648257
+Mexico,Gasoline and diesel,Net Deliveries,,2021,22-10-2014,948.5020238
+Netherlands,Gasoline and diesel,Net Deliveries,,2021,07-02-2020,988.4984382
+Norway,Gasoline and diesel,Net Deliveries,,2021,08-10-2002,566.5680888
+New Zealand,Gasoline and diesel,Net Deliveries,,2021,08-03-2010,941.9171063
+Poland,Gasoline and diesel,Net Deliveries,,2021,29-08-2008,730.6183435
+Portugal,Gasoline and diesel,Net Deliveries,,2021,11-07-2010,504.9919587
+Slovakia,Gasoline and diesel,Net Deliveries,,2021,01-10-2023,835.7015716
+Slovenia,Gasoline and diesel,Net Deliveries,,2021,07-03-2008,246.4848663
+Spain,Gasoline and diesel,Net Deliveries,,2021,15-09-2019,993.5915169
+Sweden,Gasoline and diesel,Net Deliveries,,2021,20-05-2009,366.2527479
+Switzerland,Gasoline and diesel,Net Deliveries,,2021,04-06-2021,638.9968492
+Türkiye,Gasoline and diesel,Net Deliveries,,2021,04-08-2004,587.4959655
+United Kingdom,Gasoline and diesel,Net Deliveries,,2021,08-10-2007,261.8706428
+United States,Gasoline and diesel,Net Deliveries,,2021,26-07-2012,116.6717447
+Australia,Residual fuel oil,Net Deliveries,,2021,13-12-2025,948.8008141
+Austria,Residual fuel oil,Net Deliveries,,2021,10-10-2013,341.6451925
+Belgium,Residual fuel oil,Net Deliveries,,2021,11-06-2018,702.5522013
+Canada,Residual fuel oil,Net Deliveries,,2021,08-12-2001,965.5837667
+Chile,Residual fuel oil,Net Deliveries,,2021,02-08-2002,375.9683854
+Czech Republic,Residual fuel oil,Net Deliveries,,2021,23-10-2017,437.7109999
+Denmark,Residual fuel oil,Net Deliveries,,2021,03-02-2010,807.562421
+Estonia,Residual fuel oil,Net Deliveries,,2021,24-09-2024,735.5321781
+Finland,Residual fuel oil,Net Deliveries,,2021,29-08-2010,297.7238661
+France,Residual fuel oil,Net Deliveries,,2021,13-12-2009,833.4840251
+Germany,Residual fuel oil,Net Deliveries,,2021,17-05-2021,220.3032789
+Greece,Residual fuel oil,Net Deliveries,,2021,03-02-2010,976.8793782
+Hungary,Residual fuel oil,Net Deliveries,,2021,12-01-2013,963.5100694
+Iceland,Residual fuel oil,Net Deliveries,,2021,04-09-2003,389.8988303
+Ireland,Residual fuel oil,Net Deliveries,,2021,06-02-2015,709.1431127
+Israel,Residual fuel oil,Net Deliveries,,2021,16-10-2021,289.0977403
+Italy,Residual fuel oil,Net Deliveries,,2021,20-05-2017,539.9224686
+Japan,Residual fuel oil,Net Deliveries,,2021,27-02-2003,903.6698773
+South Korea,Residual fuel oil,Net Deliveries,,2021,08-07-2013,785.4533052
+Latvia,Residual fuel oil,Net Deliveries,,2021,03-03-2023,853.1921328
+Lithuania,Residual fuel oil,Net Deliveries,,2021,23-08-2017,955.0200678
+Luxembourg,Residual fuel oil,Net Deliveries,,2021,12-08-2021,685.1887927
+Mexico,Residual fuel oil,Net Deliveries,,2021,27-03-2008,253.6296189
+Netherlands,Residual fuel oil,Net Deliveries,,2021,22-01-2016,277.3292509
+Norway,Residual fuel oil,Net Deliveries,,2021,10-03-2004,694.1207177
+New Zealand,Residual fuel oil,Net Deliveries,,2021,27-04-2020,548.3528778
+Poland,Residual fuel oil,Net Deliveries,,2021,29-05-2017,678.2108486
+Portugal,Residual fuel oil,Net Deliveries,,2021,02-12-2006,571.7163198
+Slovakia,Residual fuel oil,Net Deliveries,,2021,14-07-2001,655.8441434
+Slovenia,Residual fuel oil,Net Deliveries,,2021,15-07-2025,900.07361
+Spain,Residual fuel oil,Net Deliveries,,2021,23-10-2025,114.7418852
+Sweden,Residual fuel oil,Net Deliveries,,2021,03-12-2018,957.8838746
+Switzerland,Residual fuel oil,Net Deliveries,,2021,19-07-2009,771.7966281
+Türkiye,Residual fuel oil,Net Deliveries,,2021,20-02-2011,681.7829846
+United Kingdom,Residual fuel oil,Net Deliveries,,2021,10-04-2015,459.8330873
+United States,Residual fuel oil,Net Deliveries,,2021,15-03-2019,969.2658603
+Australia,Residual fuel oil,Net Deliveries,,2021,05-08-2009,819.0964204
+Austria,Residual fuel oil,Net Deliveries,,2021,20-11-2009,893.2515915
+Belgium,Residual fuel oil,Net Deliveries,,2021,19-11-2009,113.0121172
+Canada,Residual fuel oil,Net Deliveries,,2021,03-04-2006,613.7801043
+Chile,Residual fuel oil,Net Deliveries,,2021,20-04-2010,606.2792431
+Czech Republic,Residual fuel oil,Net Deliveries,,2021,09-07-2017,292.1089753
+Denmark,Residual fuel oil,Net Deliveries,,2021,14-02-2025,867.123087
+Estonia,Residual fuel oil,Net Deliveries,,2021,13-10-2011,837.8638858
+Finland,Residual fuel oil,Net Deliveries,,2021,09-06-2023,445.1539021
+France,Residual fuel oil,Net Deliveries,,2021,02-12-2012,813.9583487
+Germany,Residual fuel oil,Net Deliveries,,2021,04-09-2020,181.4041569
+Greece,Residual fuel oil,Net Deliveries,,2021,02-10-2001,468.5910726
+Hungary,Residual fuel oil,Net Deliveries,,2021,21-09-2002,367.8619151
+Iceland,Residual fuel oil,Net Deliveries,,2021,03-05-2010,225.8782105
+Ireland,Residual fuel oil,Net Deliveries,,2021,21-04-2011,808.0038179
+Israel,Residual fuel oil,Net Deliveries,,2021,13-03-2004,831.5468066
+Italy,Residual fuel oil,Net Deliveries,,2021,07-07-2012,819.3360571
+Japan,Residual fuel oil,Net Deliveries,,2021,20-11-2014,945.6471591
+South Korea,Residual fuel oil,Net Deliveries,,2021,15-04-2023,684.1058018
+Latvia,Residual fuel oil,Net Deliveries,,2021,06-01-2021,132.6815354
+Lithuania,Residual fuel oil,Net Deliveries,,2021,03-05-2014,517.3795979
+Luxembourg,Residual fuel oil,Net Deliveries,,2021,05-07-2018,474.7662152
+Mexico,Residual fuel oil,Net Deliveries,,2021,21-06-2011,851.9141128
+Netherlands,Residual fuel oil,Net Deliveries,,2021,15-09-2024,868.4208922
+Norway,Residual fuel oil,Net Deliveries,,2021,24-03-2024,783.6684418
+New Zealand,Residual fuel oil,Net Deliveries,,2021,01-10-2007,463.0615667
+Poland,Residual fuel oil,Net Deliveries,,2021,14-02-2004,829.3819954
+Portugal,Residual fuel oil,Net Deliveries,,2021,03-06-2009,151.0063891
+Slovakia,Residual fuel oil,Net Deliveries,,2021,31-01-2023,568.2448263
+Slovenia,Residual fuel oil,Net Deliveries,,2021,20-01-2010,220.1294105
+Spain,Residual fuel oil,Net Deliveries,,2021,10-12-2015,171.8561627
+Sweden,Residual fuel oil,Net Deliveries,,2021,16-02-2006,710.5047228
+Switzerland,Residual fuel oil,Net Deliveries,,2021,09-09-2017,590.9916496
+Türkiye,Residual fuel oil,Net Deliveries,,2021,08-07-2009,709.0625725
+United Kingdom,Residual fuel oil,Net Deliveries,,2021,10-02-2013,417.5989961
+United States,Residual fuel oil,Net Deliveries,,2021,16-12-2025,657.391265
+Australia,Other oil products,Net Deliveries,,2021,01-04-2002,307.5754628
+Austria,Other oil products,Net Deliveries,,2021,01-12-2025,310.8807189
+Belgium,Other oil products,Net Deliveries,,2021,27-12-2013,779.0602042
+Canada,Other oil products,Net Deliveries,,2021,24-06-2004,576.9013746
+Chile,Other oil products,Net Deliveries,,2021,05-04-2024,821.0094221
+Czech Republic,Other oil products,Net Deliveries,,2021,02-03-2024,193.3075006
+Denmark,Other oil products,Net Deliveries,,2021,07-11-2011,805.5932224
+Estonia,Other oil products,Net Deliveries,,2021,15-04-2012,894.0631892
+Finland,Other oil products,Net Deliveries,,2021,18-11-2018,508.0120904
+France,Other oil products,Net Deliveries,,2021,15-02-2019,975.8724757
+Germany,Other oil products,Net Deliveries,,2021,02-03-2005,313.7831083
+Greece,Other oil products,Net Deliveries,,2021,06-07-2008,456.3301572
+Hungary,Other oil products,Net Deliveries,,2021,21-04-2005,237.466944
+Iceland,Other oil products,Net Deliveries,,2021,01-04-2011,291.9203323
+Ireland,Other oil products,Net Deliveries,,2021,25-04-2019,575.4984173
+Israel,Other oil products,Net Deliveries,,2021,06-01-2009,101.1416847
+Italy,Other oil products,Net Deliveries,,2021,17-09-2021,996.3070895
+Japan,Other oil products,Net Deliveries,,2021,28-03-2015,796.5480798
+South Korea,Other oil products,Net Deliveries,,2021,22-10-2025,440.3677599
+Latvia,Other oil products,Net Deliveries,,2021,26-03-2022,493.2953353
+Lithuania,Other oil products,Net Deliveries,,2021,30-10-2008,391.3761593
+Luxembourg,Other oil products,Net Deliveries,,2021,11-05-2014,524.2086587
+Mexico,Other oil products,Net Deliveries,,2021,19-09-2007,499.2112726
+Netherlands,Other oil products,Net Deliveries,,2021,05-04-2019,486.878382
+Norway,Other oil products,Net Deliveries,,2021,03-08-2016,363.9552295
+New Zealand,Other oil products,Net Deliveries,,2021,04-10-2010,708.6516478
+Poland,Other oil products,Net Deliveries,,2021,21-01-2006,740.0285117
+Portugal,Other oil products,Net Deliveries,,2021,03-04-2020,743.230167
+Slovakia,Other oil products,Net Deliveries,,2021,19-09-2021,752.2822458
+Slovenia,Other oil products,Net Deliveries,,2021,10-03-2007,582.2790369
+Spain,Other oil products,Net Deliveries,,2021,16-07-2013,787.6454832
+Sweden,Other oil products,Net Deliveries,,2021,18-05-2016,736.9313703
+Switzerland,Other oil products,Net Deliveries,,2021,18-04-2016,665.9542002
+Türkiye,Other oil products,Net Deliveries,,2021,04-06-2011,610.7196117
+United Kingdom,Other oil products,Net Deliveries,,2021,26-09-2019,576.3121072
+United States,Other oil products,Net Deliveries,,2021,01-03-2012,816.6657441
+Australia,Other oil products,Net Deliveries,,2021,11-12-2021,461.9793087
+Austria,Other oil products,Net Deliveries,,2021,25-09-2019,768.8535475
+Belgium,Other oil products,Net Deliveries,,2021,19-06-2020,598.0946647
+Canada,Other oil products,Net Deliveries,,2021,13-05-2004,627.6458646
+Chile,Other oil products,Net Deliveries,,2021,03-11-2008,285.6923703
+Czech Republic,Other oil products,Net Deliveries,,2021,06-11-2008,978.5192006
+Denmark,Other oil products,Net Deliveries,,2021,21-04-2014,508.5415082
+Estonia,Other oil products,Net Deliveries,,2021,23-10-2017,808.8430978
+Finland,Other oil products,Net Deliveries,,2021,03-11-2017,966.6533534
+France,Other oil products,Net Deliveries,,2021,25-06-2015,450.8698174
+Germany,Other oil products,Net Deliveries,,2021,01-03-2001,858.9745262
+Greece,Other oil products,Net Deliveries,,2021,31-01-2016,426.3741928
+Hungary,Other oil products,Net Deliveries,,2021,25-07-2019,928.2467637
+Iceland,Other oil products,Net Deliveries,,2021,20-01-2005,513.6336135
+Ireland,Other oil products,Net Deliveries,,2021,15-09-2014,289.5571346
+Israel,Other oil products,Net Deliveries,,2021,22-07-2023,671.8649524
+Italy,Other oil products,Net Deliveries,,2021,18-06-2025,210.3152499
+Japan,Other oil products,Net Deliveries,,2021,18-05-2005,726.0680701
+South Korea,Other oil products,Net Deliveries,,2021,07-12-2013,479.9145997
+Latvia,Other oil products,Net Deliveries,,2021,24-02-2001,721.8143892
+Lithuania,Other oil products,Net Deliveries,,2021,20-08-2024,378.6974889
+Luxembourg,Other oil products,Net Deliveries,,2021,23-03-2003,480.3020745
+Mexico,Other oil products,Net Deliveries,,2021,27-03-2019,256.0759664
+Netherlands,Other oil products,Net Deliveries,,2021,02-04-2016,924.1552956
+Norway,Other oil products,Net Deliveries,,2021,07-07-2005,582.8695175
+New Zealand,Other oil products,Net Deliveries,,2021,30-08-2002,245.3365869
+Poland,Other oil products,Net Deliveries,,2021,12-04-2025,549.6529526
+Portugal,Other oil products,Net Deliveries,,2021,22-07-2005,909.929514
+Slovakia,Other oil products,Net Deliveries,,2021,02-11-2011,172.3577281
+Slovenia,Other oil products,Net Deliveries,,2021,13-01-2011,495.5492397
+Spain,Other oil products,Net Deliveries,,2021,28-10-2020,664.1735806
+Sweden,Other oil products,Net Deliveries,,2021,24-07-2017,399.3805719
+Switzerland,Other oil products,Net Deliveries,,2021,06-05-2024,768.7109337
+Türkiye,Other oil products,Net Deliveries,,2021,22-06-2025,276.633767
+United Kingdom,Other oil products,Net Deliveries,,2021,26-02-2012,706.5874886
+United States,Other oil products,Net Deliveries,,2021,17-06-2016,928.5053587
+Australia,Total oil products production,Net Deliveries,,2021,17-07-2003,397.2270373
+Austria,Total oil products production,Net Deliveries,,2021,11-08-2017,192.5780735
+Belgium,Total oil products production,Net Deliveries,,2021,04-10-2018,389.9677941
+Canada,Total oil products production,Net Deliveries,,2021,06-08-2017,364.361279
+Chile,Total oil products production,Net Deliveries,,2021,19-07-2003,184.9397913
+Czech Republic,Total oil products production,Net Deliveries,,2021,07-02-2016,708.792243
+Denmark,Total oil products production,Net Deliveries,,2021,13-03-2025,731.4373588
+Estonia,Total oil products production,Net Deliveries,,2021,31-03-2023,968.4718867
+Finland,Total oil products production,Net Deliveries,,2021,19-02-2003,165.8364537
+France,Total oil products production,Net Deliveries,,2021,24-11-2003,419.9629947
+Germany,Total oil products production,Net Deliveries,,2021,25-09-2024,596.450783
+Greece,Total oil products production,Net Deliveries,,2021,05-05-2006,585.0468725
+Hungary,Total oil products production,Net Deliveries,,2021,10-12-2018,598.1835564
+Iceland,Total oil products production,Net Deliveries,,2021,05-04-2019,186.1580857
+Ireland,Total oil products production,Net Deliveries,,2021,28-03-2015,232.3083444
+Israel,Total oil products production,Net Deliveries,,2021,02-02-2008,179.68423
+Italy,Total oil products production,Net Deliveries,,2021,09-02-2017,471.2023729
+Japan,Total oil products production,Net Deliveries,,2021,29-01-2019,260.0659755
+South Korea,Total oil products production,Net Deliveries,,2021,17-02-2004,729.2539463
+Latvia,Total oil products production,Net Deliveries,,2021,25-04-2014,523.1660388
+Lithuania,Total oil products production,Net Deliveries,,2021,03-03-2001,509.5296053
+Luxembourg,Total oil products production,Net Deliveries,,2021,11-04-2002,825.0919405
+Mexico,Total oil products production,Net Deliveries,,2021,05-02-2015,389.4139276
+Netherlands,Total oil products production,Net Deliveries,,2021,05-10-2008,406.968387
+Norway,Total oil products production,Net Deliveries,,2021,07-11-2025,381.8091789
+New Zealand,Total oil products production,Net Deliveries,,2021,23-03-2012,674.8323317
+Poland,Total oil products production,Net Deliveries,,2021,24-12-2008,951.2148412
+Portugal,Total oil products production,Net Deliveries,,2021,13-05-2005,318.7041966
+Slovakia,Total oil products production,Net Deliveries,,2021,07-02-2015,588.5597703
+Slovenia,Total oil products production,Net Deliveries,,2021,05-08-2001,167.5160159
+Spain,Total oil products production,Net Deliveries,,2021,01-08-2020,159.6120043
+Sweden,Total oil products production,Net Deliveries,,2021,01-07-2012,422.7448936
+Switzerland,Total oil products production,Net Deliveries,,2021,15-01-2003,170.2751393
+Türkiye,Total oil products production,Net Deliveries,,2021,31-03-2017,120.0678645
+United Kingdom,Total oil products production,Net Deliveries,,2021,29-01-2010,451.1988045
+United States,Total oil products production,Net Deliveries,,2021,15-06-2004,785.1728774
+Australia,Total oil products production,Net Deliveries,,2021,18-03-2005,577.976723
+Austria,Total oil products production,Net Deliveries,,2021,22-08-2002,650.0874169
+Belgium,Total oil products production,Net Deliveries,,2021,24-08-2022,204.2712032
+Canada,Total oil products production,Net Deliveries,,2021,06-10-2023,590.6581801
+Chile,Total oil products production,Net Deliveries,,2021,26-08-2011,250.8652882
+Czech Republic,Total oil products production,Net Deliveries,,2021,11-06-2023,686.2811355
+Denmark,Total oil products production,Net Deliveries,,2021,10-08-2003,156.2903277
+Estonia,Total oil products production,Net Deliveries,,2021,18-12-2003,614.7182141
+Finland,Total oil products production,Net Deliveries,,2021,06-08-2007,345.2110773
+France,Total oil products production,Net Deliveries,,2021,11-09-2017,143.9602615
+Germany,Total oil products production,Net Deliveries,,2021,09-03-2006,115.8061055
+Greece,Total oil products production,Net Deliveries,,2021,07-07-2016,952.7129601
+Hungary,Total oil products production,Net Deliveries,,2021,23-01-2021,947.7166053
+Iceland,Total oil products production,Net Deliveries,,2021,24-03-2007,301.4455121
+Ireland,Total oil products production,Net Deliveries,,2021,12-02-2005,842.347801
+Israel,Total oil products production,Net Deliveries,,2021,07-08-2006,983.3250938
+Italy,Total oil products production,Net Deliveries,,2021,19-05-2004,545.1585834
+Japan,Total oil products production,Net Deliveries,,2021,30-05-2008,966.4651292
+South Korea,Total oil products production,Net Deliveries,,2021,05-11-2016,443.3277695
+Latvia,Total oil products production,Net Deliveries,,2021,26-09-2024,756.2527325
+Lithuania,Total oil products production,Net Deliveries,,2021,21-05-2003,912.9854096
+Luxembourg,Total oil products production,Net Deliveries,,2021,28-04-2009,284.9606862
+Mexico,Total oil products production,Net Deliveries,,2021,24-05-2022,849.5198165
+Netherlands,Total oil products production,Net Deliveries,,2021,06-07-2006,820.825761
+Norway,Total oil products production,Net Deliveries,,2021,07-11-2016,864.519255
+New Zealand,Total oil products production,Net Deliveries,,2021,10-01-2021,783.0353573
+Poland,Total oil products production,Net Deliveries,,2021,06-05-2023,412.9157885
+Portugal,Total oil products production,Net Deliveries,,2021,13-10-2001,162.2453504
+Slovakia,Total oil products production,Net Deliveries,,2021,07-10-2015,224.4057177
+Slovenia,Total oil products production,Net Deliveries,,2021,24-08-2015,854.0332928
+Spain,Total oil products production,Net Deliveries,,2021,28-11-2011,426.4150682
+Sweden,Total oil products production,Net Deliveries,,2021,15-03-2021,909.7877329
+Switzerland,Total oil products production,Net Deliveries,,2021,08-03-2012,314.8558971
+Türkiye,Total oil products production,Net Deliveries,,2021,23-08-2004,877.1407857
+United Kingdom,Total oil products production,Net Deliveries,,2021,24-04-2025,820.5090393
+United States,Total oil products production,Net Deliveries,,2021,11-10-2008,418.3973009
+Australia,Total oil production,Consumption Pattern,,2021,18-09-2024,474.8260165
+Austria,Total oil production,Consumption Pattern,,2021,12-06-2011,828.2945285
+Belgium,Total oil production,Consumption Pattern,,2021,23-09-2021,712.8138365
+Canada,Total oil production,Consumption Pattern,,2021,16-02-2022,407.1370873
+Chile,Total oil production,Consumption Pattern,,2021,13-09-2019,243.6666142
+Czech Republic,Total oil production,Consumption Pattern,,2021,23-11-2009,509.228945
+Denmark,Total oil production,Consumption Pattern,,2021,13-10-2006,391.4921903
+Estonia,Total oil production,Consumption Pattern,,2021,23-07-2017,420.6171212
+Finland,Total oil production,Consumption Pattern,,2021,22-01-2018,163.0502753
+France,Total oil production,Consumption Pattern,,2021,10-09-2018,545.0988477
+Germany,Total oil production,Consumption Pattern,,2021,30-12-2006,856.117112
+Greece,Total oil production,Consumption Pattern,,2021,07-04-2011,727.852646
+Hungary,Total oil production,Consumption Pattern,,2021,08-11-2013,755.3679247
+Iceland,Total oil production,Consumption Pattern,,2021,20-03-2017,887.3854402
+Ireland,Total oil production,Consumption Pattern,,2021,19-06-2025,904.0135797
+Israel,Total oil production,Consumption Pattern,,2021,03-10-2022,928.6623126
+Italy,Total oil production,Consumption Pattern,,2021,29-09-2005,300.282778
+Japan,Total oil production,Consumption Pattern,,2021,23-05-2020,656.7976109
+South Korea,Total oil production,Consumption Pattern,,2021,14-05-2019,634.3760413
+Latvia,Total oil production,Consumption Pattern,,2021,18-02-2007,707.1063509
+Lithuania,Total oil production,Consumption Pattern,,2021,30-09-2011,305.4693011
+Luxembourg,Total oil production,Consumption Pattern,,2021,07-04-2007,655.6468422
+Mexico,Total oil production,Consumption Pattern,,2021,09-10-2015,135.0022022
+Netherlands,Total oil production,Consumption Pattern,,2021,05-03-2024,874.0185309
+Norway,Total oil production,Consumption Pattern,,2021,03-11-2006,109.4621459
+New Zealand,Total oil production,Consumption Pattern,,2021,04-08-2020,271.9200929
+Poland,Total oil production,Consumption Pattern,,2021,04-04-2024,540.7389684
+Portugal,Total oil production,Consumption Pattern,,2021,07-02-2014,126.9500828
+Slovakia,Total oil production,Consumption Pattern,,2021,28-06-2013,906.7428266
+Slovenia,Total oil production,Consumption Pattern,,2021,26-08-2006,221.9031305
+Spain,Total oil production,Consumption Pattern,,2021,29-08-2007,825.5426597
+Sweden,Total oil production,Consumption Pattern,,2021,13-02-2025,422.5902303
+Switzerland,Total oil production,Consumption Pattern,,2021,28-01-2011,913.3127729
+Türkiye,Total oil production,Consumption Pattern,,2021,22-10-2005,430.9107768
+United Kingdom,Total oil production,Consumption Pattern,,2021,22-02-2020,148.7698152
+United States,Total oil production,Consumption Pattern,,2021,24-01-2014,365.2480787
+Australia,Total oil production,Consumption Pattern,,2021,16-09-2004,832.0877191
+Austria,Total oil production,Consumption Pattern,,2021,19-04-2010,236.9694384
+Belgium,Total oil production,Consumption Pattern,,2021,30-10-2001,323.8378647
+Canada,Total oil production,Consumption Pattern,,2021,09-05-2009,226.7490107
+Chile,Total oil production,Consumption Pattern,,2021,17-05-2005,977.5965397
+Czech Republic,Total oil production,Consumption Pattern,,2021,13-09-2022,567.9126651
+Denmark,Total oil production,Consumption Pattern,,2021,28-06-2006,200.9410679
+Estonia,Total oil production,Consumption Pattern,,2021,29-05-2007,490.6093796
+Finland,Total oil production,Consumption Pattern,,2021,21-11-2021,281.995747
+France,Total oil production,Consumption Pattern,,2021,07-05-2015,946.8351014
+Germany,Total oil production,Consumption Pattern,,2021,06-05-2017,544.6523753
+Greece,Total oil production,Consumption Pattern,,2021,14-07-2005,467.744222
+Hungary,Total oil production,Consumption Pattern,,2021,28-12-2023,882.7426214
+Iceland,Total oil production,Consumption Pattern,,2021,18-03-2018,711.4988055
+Ireland,Total oil production,Consumption Pattern,,2021,13-03-2016,962.6787694
+Israel,Total oil production,Consumption Pattern,,2021,18-02-2012,958.6198222
+Italy,Total oil production,Consumption Pattern,,2021,02-02-2025,790.9137832
+Japan,Total oil production,Consumption Pattern,,2021,27-02-2024,609.192058
+South Korea,Total oil production,Consumption Pattern,,2021,23-06-2019,380.514833
+Latvia,Total oil production,Consumption Pattern,,2021,15-05-2009,748.5627721
+Lithuania,Total oil production,Consumption Pattern,,2021,02-02-2007,256.6877795
+Luxembourg,Total oil production,Consumption Pattern,,2021,04-03-2021,807.8803407
+Mexico,Total oil production,Consumption Pattern,,2021,04-05-2012,528.1456062
+Netherlands,Total oil production,Consumption Pattern,,2021,24-12-2001,338.380092
+Norway,Total oil production,Consumption Pattern,,2021,30-04-2016,901.9210339
+New Zealand,Total oil production,Consumption Pattern,,2021,23-10-2019,498.7944451
+Poland,Total oil production,Consumption Pattern,,2021,22-01-2012,846.2915861
+Portugal,Total oil production,Consumption Pattern,,2021,20-03-2006,164.0580996
+Slovakia,Total oil production,Consumption Pattern,,2021,12-05-2025,945.5730833
+Slovenia,Total oil production,Consumption Pattern,,2021,22-12-2012,909.1143845
+Spain,Total oil production,Consumption Pattern,,2021,01-04-2012,992.5038947
+Sweden,Total oil production,Consumption Pattern,,2021,03-02-2006,348.7352219
+Switzerland,Total oil production,Consumption Pattern,,2021,27-12-2012,764.8678192
+Türkiye,Total oil production,Consumption Pattern,,2021,26-09-2023,420.0238483
+United Kingdom,Total oil production,Consumption Pattern,,2021,18-07-2008,213.3885391
+United States,Total oil production,Consumption Pattern,,2021,31-07-2014,882.1629685
+Australia,Crude oil,Consumption Pattern,,2021,10-07-2004,475.9167393
+Austria,Crude oil,Consumption Pattern,,2021,03-02-2012,571.1010555
+Belgium,Crude oil,Consumption Pattern,,2021,28-02-2014,287.2414094
+Canada,Crude oil,Consumption Pattern,,2021,03-04-2015,821.8159803
+Chile,Crude oil,Consumption Pattern,,2021,23-04-2001,350.384913
+Czech Republic,Crude oil,Consumption Pattern,,2021,26-09-2020,589.3835782
+Denmark,Crude oil,Consumption Pattern,,2021,22-08-2021,620.0336576
+Estonia,Crude oil,Consumption Pattern,,2021,08-09-2021,385.3295863
+Finland,Crude oil,Consumption Pattern,,2021,01-06-2005,811.6180523
+France,Crude oil,Consumption Pattern,,2021,30-04-2007,364.4460533
+Germany,Crude oil,Consumption Pattern,,2021,18-08-2015,251.368863
+Greece,Crude oil,Consumption Pattern,,2021,24-04-2018,288.3234722
+Hungary,Crude oil,Consumption Pattern,,2021,08-02-2011,659.7457331
+Iceland,Crude oil,Consumption Pattern,,2021,15-12-2010,329.9172581
+Ireland,Crude oil,Consumption Pattern,,2021,08-04-2005,629.7767884
+Israel,Crude oil,Consumption Pattern,,2021,25-10-2014,736.7424704
+Italy,Crude oil,Consumption Pattern,,2021,15-12-2007,593.520529
+Japan,Crude oil,Consumption Pattern,,2021,16-12-2019,744.0397267
+South Korea,Crude oil,Consumption Pattern,,2021,08-09-2009,787.1209093
+Latvia,Crude oil,Consumption Pattern,,2021,23-08-2023,760.5695239
+Lithuania,Crude oil,Consumption Pattern,,2021,11-03-2010,572.2017349
+Luxembourg,Crude oil,Consumption Pattern,,2021,29-11-2019,210.4309376
+Mexico,Crude oil,Consumption Pattern,,2021,04-02-2004,405.7515018
+Netherlands,Crude oil,Consumption Pattern,,2021,14-05-2017,293.3219665
+Norway,Crude oil,Consumption Pattern,,2021,17-11-2011,540.1436878
+New Zealand,Crude oil,Consumption Pattern,,2021,31-08-2019,793.8810625
+Poland,Crude oil,Consumption Pattern,,2021,05-07-2015,283.6132929
+Portugal,Crude oil,Consumption Pattern,,2021,02-06-2024,208.301062
+Slovakia,Crude oil,Consumption Pattern,,2021,06-10-2002,565.2471957
+Slovenia,Crude oil,Consumption Pattern,,2021,09-03-2013,382.0798435
+Spain,Crude oil,Consumption Pattern,,2021,16-02-2024,762.8069331
+Sweden,Crude oil,Consumption Pattern,,2021,10-11-2015,891.019149
+Switzerland,Crude oil,Consumption Pattern,,2021,13-11-2020,997.3557476
+Türkiye,Crude oil,Consumption Pattern,,2021,22-08-2004,696.1023107
+United Kingdom,Crude oil,Consumption Pattern,,2021,30-04-2002,339.4069773
+United States,Crude oil,Consumption Pattern,,2021,03-02-2023,371.2371485
+Australia,Crude oil,Consumption Pattern,,2021,29-05-2015,413.4660045
+Austria,Crude oil,Consumption Pattern,,2021,07-03-2015,898.7830871
+Belgium,Crude oil,Consumption Pattern,,2021,27-11-2002,231.8242582
+Canada,Crude oil,Consumption Pattern,,2021,11-03-2022,948.2923896
+Chile,Crude oil,Consumption Pattern,,2021,18-06-2020,937.7713168
+Czech Republic,Crude oil,Consumption Pattern,,2021,19-08-2012,944.3233572
+Denmark,Crude oil,Consumption Pattern,,2021,02-06-2007,205.3442765
+Estonia,Crude oil,Consumption Pattern,,2021,12-07-2017,951.4880681
+Finland,Crude oil,Consumption Pattern,,2021,26-01-2013,734.8581166
+France,Crude oil,Consumption Pattern,,2021,14-01-2013,905.5397714
+Germany,Crude oil,Consumption Pattern,,2021,09-06-2004,915.3352098
+Greece,Crude oil,Consumption Pattern,,2021,10-05-2001,513.3202693
+Hungary,Crude oil,Consumption Pattern,,2021,09-05-2007,325.7761719
+Iceland,Crude oil,Consumption Pattern,,2021,28-05-2010,915.3429655
+Ireland,Crude oil,Consumption Pattern,,2021,12-05-2020,417.6620287
+Israel,Crude oil,Consumption Pattern,,2021,05-12-2013,917.072702
+Italy,Crude oil,Consumption Pattern,,2021,25-02-2012,397.5460612
+Japan,Crude oil,Consumption Pattern,,2021,08-09-2014,574.1308649
+South Korea,Crude oil,Consumption Pattern,,2021,20-05-2006,898.0301447
+Latvia,Crude oil,Consumption Pattern,,2021,15-07-2018,588.6720952
+Lithuania,Crude oil,Consumption Pattern,,2021,24-08-2022,811.6823253
+Luxembourg,Crude oil,Consumption Pattern,,2021,23-03-2006,996.4436216
+Mexico,Crude oil,Consumption Pattern,,2021,04-03-2025,774.3987346
+Netherlands,Crude oil,Consumption Pattern,,2021,14-04-2011,876.5726389
+Norway,Crude oil,Consumption Pattern,,2021,09-05-2024,228.9670193
+New Zealand,Crude oil,Consumption Pattern,,2021,22-05-2012,936.0169047
+Poland,Crude oil,Consumption Pattern,,2021,12-04-2001,930.2052622
+Portugal,Crude oil,Consumption Pattern,,2021,28-12-2013,499.5872764
+Slovakia,Crude oil,Consumption Pattern,,2021,11-11-2023,122.194892
+Slovenia,Crude oil,Consumption Pattern,,2021,12-02-2006,991.3980845
+Spain,Crude oil,Consumption Pattern,,2021,03-06-2019,980.0194653
+Sweden,Crude oil,Consumption Pattern,,2021,11-03-2013,656.9398174
+Switzerland,Crude oil,Consumption Pattern,,2021,22-06-2018,318.6748088
+Türkiye,Crude oil,Consumption Pattern,,2021,15-04-2006,770.2280009
+United Kingdom,Crude oil,Consumption Pattern,,2021,13-01-2014,361.2529093
+United States,Crude oil,Consumption Pattern,,2021,13-10-2001,493.9857166
+Australia,Total oil products production,Consumption Pattern,,2021,15-03-2004,435.6941405
+Austria,Total oil products production,Consumption Pattern,,2021,30-05-2007,406.7536089
+Belgium,Total oil products production,Consumption Pattern,,2021,25-06-2019,857.8332498
+Canada,Total oil products production,Consumption Pattern,,2021,14-07-2003,115.8795489
+Chile,Total oil products production,Consumption Pattern,,2021,14-08-2015,461.7023577
+Czech Republic,Total oil products production,Consumption Pattern,,2021,25-05-2013,296.5024794
+Denmark,Total oil products production,Consumption Pattern,,2021,06-06-2005,141.1196625
+Estonia,Total oil products production,Consumption Pattern,,2021,03-10-2009,876.1787658
+Finland,Total oil products production,Consumption Pattern,,2021,01-10-2010,350.8107534
+France,Total oil products production,Consumption Pattern,,2021,19-12-2022,784.8122685
+Germany,Total oil products production,Consumption Pattern,,2021,14-04-2002,186.1779145
+Greece,Total oil products production,Consumption Pattern,,2021,07-03-2008,358.1591965
+Hungary,Total oil products production,Consumption Pattern,,2021,02-05-2024,251.3586781
+Iceland,Total oil products production,Consumption Pattern,,2021,28-05-2010,933.42404
+Ireland,Total oil products production,Consumption Pattern,,2021,10-01-2001,873.3625466
+Israel,Total oil products production,Consumption Pattern,,2021,22-07-2005,780.0594857
+Italy,Total oil products production,Consumption Pattern,,2021,07-07-2022,157.6921254
+Japan,Total oil products production,Consumption Pattern,,2021,11-09-2015,812.8397452
+South Korea,Total oil products production,Consumption Pattern,,2021,19-05-2022,812.7879743
+Latvia,Total oil products production,Consumption Pattern,,2021,24-08-2025,861.1751188
+Lithuania,Total oil products production,Consumption Pattern,,2021,20-03-2001,842.9549901
+Luxembourg,Total oil products production,Consumption Pattern,,2021,24-06-2013,788.970331
+Mexico,Total oil products production,Consumption Pattern,,2021,02-03-2006,914.726201
+Netherlands,Total oil products production,Consumption Pattern,,2021,21-11-2017,914.3934312
+Norway,Total oil products production,Consumption Pattern,,2021,27-05-2025,319.9732988
+New Zealand,Total oil products production,Consumption Pattern,,2021,04-06-2014,497.7220708
+Poland,Total oil products production,Consumption Pattern,,2021,07-01-2023,603.8358308
+Portugal,Total oil products production,Consumption Pattern,,2021,08-11-2010,956.2915285
+Slovakia,Total oil products production,Consumption Pattern,,2021,03-12-2018,249.9713544
+Slovenia,Total oil products production,Consumption Pattern,,2021,26-11-2001,653.3138062
+Spain,Total oil products production,Consumption Pattern,,2021,29-12-2024,434.0398708
+Sweden,Total oil products production,Consumption Pattern,,2021,21-09-2007,554.4138664
+Switzerland,Total oil products production,Consumption Pattern,,2021,27-07-2013,806.5432477
+Türkiye,Total oil products production,Consumption Pattern,,2021,18-12-2023,768.4423762
+United Kingdom,Total oil products production,Consumption Pattern,,2021,05-06-2020,364.607512
+United States,Total oil products production,Consumption Pattern,,2021,04-05-2023,911.8661175
+Australia,Total oil products production,Consumption Pattern,,2021,12-10-2023,723.1693998
+Austria,Total oil products production,Consumption Pattern,,2021,11-01-2011,300.3819816
+Belgium,Total oil products production,Consumption Pattern,,2021,27-08-2003,240.7770994
+Canada,Total oil products production,Consumption Pattern,,2021,19-04-2015,776.9013809
+Chile,Total oil products production,Consumption Pattern,,2021,04-10-2014,473.0230505
+Czech Republic,Total oil products production,Consumption Pattern,,2021,20-05-2019,988.7990147
+Denmark,Total oil products production,Consumption Pattern,,2021,05-04-2006,168.2313251
+Estonia,Total oil products production,Consumption Pattern,,2021,06-09-2008,439.0920693
+Finland,Total oil products production,Consumption Pattern,,2021,03-10-2016,880.1525016
+France,Total oil products production,Consumption Pattern,,2021,15-02-2011,838.1807905
+Germany,Total oil products production,Consumption Pattern,,2021,25-12-2023,956.2547898
+Greece,Total oil products production,Consumption Pattern,,2021,23-05-2010,908.8077738
+Hungary,Total oil products production,Consumption Pattern,,2021,05-03-2024,330.444532
+Iceland,Total oil products production,Consumption Pattern,,2021,03-06-2021,273.2836159
+Ireland,Total oil products production,Consumption Pattern,,2021,16-11-2006,907.0784238
+Israel,Total oil products production,Consumption Pattern,,2021,04-08-2009,441.1765549
+Italy,Total oil products production,Consumption Pattern,,2021,08-08-2008,487.7341625
+Japan,Total oil products production,Consumption Pattern,,2021,13-02-2021,676.9118732
+South Korea,Total oil products production,Consumption Pattern,,2021,03-03-2003,999.8526765
+Latvia,Total oil products production,Consumption Pattern,,2021,25-12-2016,425.4750365
+Lithuania,Total oil products production,Consumption Pattern,,2021,24-11-2017,420.8974778
+Luxembourg,Total oil products production,Consumption Pattern,,2021,07-10-2021,236.8295485
+Mexico,Total oil products production,Consumption Pattern,,2021,29-12-2002,608.1587734
+Netherlands,Total oil products production,Consumption Pattern,,2021,27-05-2024,623.5948586
+Norway,Total oil products production,Consumption Pattern,,2021,21-10-2001,161.5253135
+New Zealand,Total oil products production,Consumption Pattern,,2021,06-11-2011,792.7028587
+Poland,Total oil products production,Consumption Pattern,,2021,15-06-2004,430.184612
+Portugal,Total oil products production,Consumption Pattern,,2021,03-07-2004,469.9731921
+Slovakia,Total oil products production,Consumption Pattern,,2021,28-12-2001,870.980217
+Slovenia,Total oil products production,Consumption Pattern,,2021,11-08-2010,932.4318004
+Spain,Total oil products production,Consumption Pattern,,2021,09-09-2022,840.3760999
+Sweden,Total oil products production,Consumption Pattern,,2021,20-03-2018,583.6713906
+Switzerland,Total oil products production,Consumption Pattern,,2021,01-02-2009,333.7933904
+Türkiye,Total oil products production,Consumption Pattern,,2021,16-03-2005,466.3633999
+United Kingdom,Total oil products production,Consumption Pattern,,2021,29-03-2014,871.1729176
+United States,Total oil products production,Consumption Pattern,,2021,26-07-2006,796.3369784
+Australia,Total gas oil production,Consumption Pattern,,2021,07-02-2008,837.6193423
+Austria,Total gas oil production,Consumption Pattern,,2021,04-05-2022,828.254804
+Belgium,Total gas oil production,Consumption Pattern,,2021,22-03-2017,423.4750328
+Canada,Total gas oil production,Consumption Pattern,,2021,29-08-2010,267.8344856
+Chile,Total gas oil production,Consumption Pattern,,2021,22-03-2017,280.9788503
+Czech Republic,Total gas oil production,Consumption Pattern,,2021,10-08-2018,712.9245471
+Denmark,Total gas oil production,Consumption Pattern,,2021,28-06-2020,223.7153505
+Estonia,Total gas oil production,Consumption Pattern,,2021,26-11-2017,729.1424961
+Finland,Total gas oil production,Consumption Pattern,,2021,04-10-2020,178.4288395
+France,Total gas oil production,Consumption Pattern,,2021,12-11-2021,265.7953041
+Germany,Total gas oil production,Consumption Pattern,,2021,06-09-2015,710.9078633
+Greece,Total gas oil production,Consumption Pattern,,2021,09-01-2006,602.1532143
+Hungary,Total gas oil production,Consumption Pattern,,2021,11-01-2018,225.2758769
+Iceland,Total gas oil production,Consumption Pattern,,2021,22-02-2010,985.5036686
+Ireland,Total gas oil production,Consumption Pattern,,2021,15-03-2009,196.1520672
+Israel,Total gas oil production,Consumption Pattern,,2021,18-04-2012,666.4989642
+Italy,Total gas oil production,Consumption Pattern,,2021,28-06-2014,797.6262556
+Japan,Total gas oil production,Consumption Pattern,,2021,29-03-2024,660.4675693
+South Korea,Total gas oil production,Consumption Pattern,,2021,12-12-2005,975.7970487
+Latvia,Total gas oil production,Consumption Pattern,,2021,07-08-2005,144.0852388
+Lithuania,Total gas oil production,Consumption Pattern,,2021,04-12-2006,243.8010832
+Luxembourg,Total gas oil production,Consumption Pattern,,2021,31-12-2015,755.2978306
+Mexico,Total gas oil production,Consumption Pattern,,2021,04-03-2009,821.2833047
+Netherlands,Total gas oil production,Consumption Pattern,,2021,02-01-2018,780.7741241
+Norway,Total gas oil production,Consumption Pattern,,2021,26-04-2013,571.270538
+New Zealand,Total gas oil production,Consumption Pattern,,2021,28-02-2019,899.2561702
+Poland,Total gas oil production,Consumption Pattern,,2021,29-08-2018,576.136365
+Portugal,Total gas oil production,Consumption Pattern,,2021,15-08-2020,405.9340175
+Slovakia,Total gas oil production,Consumption Pattern,,2021,13-09-2008,851.1855374
+Slovenia,Total gas oil production,Consumption Pattern,,2021,11-09-2019,568.5321636
+Spain,Total gas oil production,Consumption Pattern,,2021,26-12-2024,252.3665519
+Sweden,Total gas oil production,Consumption Pattern,,2021,24-06-2021,502.0353492
+Switzerland,Total gas oil production,Consumption Pattern,,2021,19-06-2018,689.3723682
+Türkiye,Total gas oil production,Consumption Pattern,,2021,29-04-2021,211.1322548
+United Kingdom,Total gas oil production,Consumption Pattern,,2021,27-09-2006,938.163153
+United States,Total gas oil production,Consumption Pattern,,2021,22-01-2003,400.5781067
+Australia,Total gas oil production,Consumption Pattern,,2021,27-07-2004,430.6774401
+Austria,Total gas oil production,Consumption Pattern,,2021,12-11-2018,938.3475122
+Belgium,Total gas oil production,Consumption Pattern,,2021,09-12-2007,516.5614905
+Canada,Total gas oil production,Consumption Pattern,,2021,28-03-2024,194.6659832
+Chile,Total gas oil production,Consumption Pattern,,2021,12-02-2022,987.8507873
+Czech Republic,Total gas oil production,Consumption Pattern,,2021,04-03-2005,448.9215893
+Denmark,Total gas oil production,Consumption Pattern,,2021,19-05-2005,410.4740834
+Estonia,Total gas oil production,Consumption Pattern,,2021,08-11-2003,757.2691891
+Finland,Total gas oil production,Consumption Pattern,,2021,25-10-2004,576.7768714
+France,Total gas oil production,Consumption Pattern,,2021,25-05-2009,235.6035008
+Germany,Total gas oil production,Consumption Pattern,,2021,21-10-2019,753.1962295
+Greece,Total gas oil production,Consumption Pattern,,2021,10-02-2009,955.3839514
+Hungary,Total gas oil production,Consumption Pattern,,2021,23-01-2020,537.5974317
+Iceland,Total gas oil production,Consumption Pattern,,2021,27-11-2019,286.1103358
+Ireland,Total gas oil production,Consumption Pattern,,2021,16-08-2023,393.3267403
+Israel,Total gas oil production,Consumption Pattern,,2021,23-02-2006,633.2943348
+Italy,Total gas oil production,Consumption Pattern,,2021,03-02-2007,195.4243831
+Japan,Total gas oil production,Consumption Pattern,,2021,07-04-2012,896.3116669
+South Korea,Total gas oil production,Consumption Pattern,,2021,24-09-2025,902.9060198
+Latvia,Total gas oil production,Consumption Pattern,,2021,10-10-2001,988.9678911
+Lithuania,Total gas oil production,Consumption Pattern,,2021,13-09-2012,515.9829029
+Luxembourg,Total gas oil production,Consumption Pattern,,2021,28-05-2024,638.8910665
+Mexico,Total gas oil production,Consumption Pattern,,2021,28-05-2019,355.6932367
+Netherlands,Total gas oil production,Consumption Pattern,,2021,28-04-2023,755.9867554
+Norway,Total gas oil production,Consumption Pattern,,2021,28-05-2010,966.4416374
+New Zealand,Total gas oil production,Consumption Pattern,,2021,24-08-2014,827.5339529
+Poland,Total gas oil production,Consumption Pattern,,2021,13-11-2015,238.0089904
+Portugal,Total gas oil production,Consumption Pattern,,2021,31-12-2016,585.5782421
+Slovakia,Total gas oil production,Consumption Pattern,,2021,21-09-2019,271.8723372
+Slovenia,Total gas oil production,Consumption Pattern,,2021,06-10-2021,737.7460786
+Spain,Total gas oil production,Consumption Pattern,,2021,19-07-2003,529.6709816
+Sweden,Total gas oil production,Consumption Pattern,,2021,22-07-2022,852.4669211
+Switzerland,Total gas oil production,Consumption Pattern,,2021,18-10-2018,387.8804572
+Türkiye,Total gas oil production,Consumption Pattern,,2021,30-01-2019,959.4798351
+United Kingdom,Total gas oil production,Consumption Pattern,,2021,05-06-2002,190.2403445
+United States,Total gas oil production,Consumption Pattern,,2021,08-11-2024,383.0527484
+Australia,Middle distillates,Consumption Pattern,,2021,29-07-2017,814.9056702
+Austria,Middle distillates,Consumption Pattern,,2021,28-06-2012,683.7263456
+Belgium,Middle distillates,Consumption Pattern,,2021,23-03-2025,191.6906537
+Canada,Middle distillates,Consumption Pattern,,2021,11-12-2016,648.1757765
+Chile,Middle distillates,Consumption Pattern,,2021,24-09-2024,600.8760569
+Czech Republic,Middle distillates,Consumption Pattern,,2021,04-08-2020,574.8844259
+Denmark,Middle distillates,Consumption Pattern,,2021,07-01-2010,849.9503391
+Estonia,Middle distillates,Consumption Pattern,,2021,27-05-2008,200.7506123
+Finland,Middle distillates,Consumption Pattern,,2021,06-05-2020,445.4081578
+France,Middle distillates,Consumption Pattern,,2021,25-07-2008,322.6309205
+Germany,Middle distillates,Consumption Pattern,,2021,06-10-2014,129.9975544
+Greece,Middle distillates,Consumption Pattern,,2021,02-07-2024,537.4567546
+Hungary,Middle distillates,Consumption Pattern,,2021,16-02-2016,218.3555249
+Iceland,Middle distillates,Consumption Pattern,,2021,18-03-2023,257.6703493
+Ireland,Middle distillates,Consumption Pattern,,2021,30-04-2006,450.2717075
+Israel,Middle distillates,Consumption Pattern,,2021,06-01-2023,892.5074988
+Italy,Middle distillates,Consumption Pattern,,2021,18-06-2024,562.1251236
+Japan,Middle distillates,Consumption Pattern,,2021,27-01-2012,839.6227483
+South Korea,Middle distillates,Consumption Pattern,,2021,06-10-2005,961.9972111
+Latvia,Middle distillates,Consumption Pattern,,2021,16-07-2025,800.2252976
+Lithuania,Middle distillates,Consumption Pattern,,2021,29-10-2013,954.0950401
+Luxembourg,Middle distillates,Consumption Pattern,,2021,20-01-2008,402.6608398
+Mexico,Middle distillates,Consumption Pattern,,2021,30-08-2006,781.418994
+Netherlands,Middle distillates,Consumption Pattern,,2021,17-08-2015,379.3491389
+Norway,Middle distillates,Consumption Pattern,,2021,29-06-2012,315.0167148
+New Zealand,Middle distillates,Consumption Pattern,,2021,31-01-2008,361.8293643
+Poland,Middle distillates,Consumption Pattern,,2021,03-04-2021,700.2017505
+Portugal,Middle distillates,Consumption Pattern,,2021,03-11-2005,234.9383748
+Slovakia,Middle distillates,Consumption Pattern,,2021,07-01-2004,487.4485117
+Slovenia,Middle distillates,Consumption Pattern,,2021,13-05-2010,682.2614427
+Spain,Middle distillates,Consumption Pattern,,2021,15-04-2011,324.4090643
+Sweden,Middle distillates,Consumption Pattern,,2021,09-11-2016,531.1305873
+Switzerland,Middle distillates,Consumption Pattern,,2021,13-08-2013,161.1189345
+Türkiye,Middle distillates,Consumption Pattern,,2021,13-12-2016,811.0715239
+United Kingdom,Middle distillates,Consumption Pattern,,2021,10-09-2013,356.9281165
+United States,Middle distillates,Consumption Pattern,,2021,19-10-2020,573.2874042
+Australia,Middle distillates,Consumption Pattern,,2021,04-05-2005,171.5906241
+Austria,Middle distillates,Consumption Pattern,,2021,28-12-2007,959.4870891
+Belgium,Middle distillates,Consumption Pattern,,2021,03-06-2010,666.211941
+Canada,Middle distillates,Consumption Pattern,,2021,23-01-2009,156.4205719
+Chile,Middle distillates,Consumption Pattern,,2021,09-06-2013,963.8804819
+Czech Republic,Middle distillates,Consumption Pattern,,2021,05-08-2004,517.2028958
+Denmark,Middle distillates,Consumption Pattern,,2021,21-11-2016,401.3721669
+Estonia,Middle distillates,Consumption Pattern,,2021,22-07-2009,289.4540651
+Finland,Middle distillates,Consumption Pattern,,2021,19-01-2020,352.9177962
+France,Middle distillates,Consumption Pattern,,2021,03-01-2006,765.8934197
+Germany,Middle distillates,Consumption Pattern,,2021,04-04-2022,281.659366
+Greece,Middle distillates,Consumption Pattern,,2021,08-03-2015,789.8244387
+Hungary,Middle distillates,Consumption Pattern,,2021,30-05-2022,250.3280457
+Iceland,Middle distillates,Consumption Pattern,,2021,03-02-2002,255.2023147
+Ireland,Middle distillates,Consumption Pattern,,2021,27-01-2012,529.3052643
+Israel,Middle distillates,Consumption Pattern,,2021,05-01-2012,126.6870487
+Italy,Middle distillates,Consumption Pattern,,2021,10-03-2023,287.0720195
+Japan,Middle distillates,Consumption Pattern,,2021,19-06-2021,531.4348532
+South Korea,Middle distillates,Consumption Pattern,,2021,07-01-2001,802.8865958
+Latvia,Middle distillates,Consumption Pattern,,2021,03-01-2018,158.0536609
+Lithuania,Middle distillates,Consumption Pattern,,2021,24-07-2009,222.6196159
+Luxembourg,Middle distillates,Consumption Pattern,,2021,20-09-2021,978.6718656
+Mexico,Middle distillates,Consumption Pattern,,2021,29-07-2014,903.655465
+Netherlands,Middle distillates,Consumption Pattern,,2021,15-11-2016,630.1374374
+Norway,Middle distillates,Consumption Pattern,,2021,24-12-2020,487.5635625
+New Zealand,Middle distillates,Consumption Pattern,,2021,14-08-2013,842.1241635
+Poland,Middle distillates,Consumption Pattern,,2021,23-09-2020,971.5573867
+Portugal,Middle distillates,Consumption Pattern,,2021,27-06-2004,828.6097316
+Slovakia,Middle distillates,Consumption Pattern,,2021,01-08-2015,736.8365572
+Slovenia,Middle distillates,Consumption Pattern,,2021,14-06-2008,152.3598022
+Spain,Middle distillates,Consumption Pattern,,2021,07-10-2007,896.8267393
+Sweden,Middle distillates,Consumption Pattern,,2021,21-05-2020,997.4053882
+Switzerland,Middle distillates,Consumption Pattern,,2021,21-03-2022,616.298627
+Türkiye,Middle distillates,Consumption Pattern,,2021,17-08-2002,317.4950603
+United Kingdom,Middle distillates,Consumption Pattern,,2021,18-01-2011,244.2940376
+United States,Middle distillates,Consumption Pattern,,2021,02-03-2008,831.1017102
+Australia,Residual fuel oil,Consumption Pattern,,2021,26-12-2020,844.1711344
+Austria,Residual fuel oil,Consumption Pattern,,2021,31-01-2010,711.2050688
+Belgium,Residual fuel oil,Consumption Pattern,,2021,26-07-2010,949.6520475
+Canada,Residual fuel oil,Consumption Pattern,,2021,13-12-2007,488.1254002
+Chile,Residual fuel oil,Consumption Pattern,,2021,24-04-2002,337.2898553
+Czech Republic,Residual fuel oil,Consumption Pattern,,2021,08-10-2004,553.5401838
+Denmark,Residual fuel oil,Consumption Pattern,,2021,07-01-2018,375.4580576
+Estonia,Residual fuel oil,Consumption Pattern,,2021,01-11-2023,946.7907172
+Finland,Residual fuel oil,Consumption Pattern,,2021,08-11-2024,502.1050059
+France,Residual fuel oil,Consumption Pattern,,2021,03-07-2025,696.5657314
+Germany,Residual fuel oil,Consumption Pattern,,2021,24-08-2001,237.908213
+Greece,Residual fuel oil,Consumption Pattern,,2021,17-02-2014,370.143496
+Hungary,Residual fuel oil,Consumption Pattern,,2021,23-07-2024,754.4753125
+Iceland,Residual fuel oil,Consumption Pattern,,2021,12-02-2014,411.4362212
+Ireland,Residual fuel oil,Consumption Pattern,,2021,03-11-2008,251.6208843
+Israel,Residual fuel oil,Consumption Pattern,,2021,01-10-2021,491.1058496
+Italy,Residual fuel oil,Consumption Pattern,,2021,22-10-2013,368.0206347
+Japan,Residual fuel oil,Consumption Pattern,,2021,13-03-2008,978.8346549
+South Korea,Residual fuel oil,Consumption Pattern,,2021,04-10-2006,810.9685163
+Latvia,Residual fuel oil,Consumption Pattern,,2021,26-05-2023,140.808819
+Lithuania,Residual fuel oil,Consumption Pattern,,2021,23-05-2013,434.3123408
+Luxembourg,Residual fuel oil,Consumption Pattern,,2021,19-05-2016,852.7732764
+Mexico,Residual fuel oil,Consumption Pattern,,2021,31-10-2022,665.5757453
+Netherlands,Residual fuel oil,Consumption Pattern,,2021,02-03-2018,648.2871631
+Norway,Residual fuel oil,Consumption Pattern,,2021,08-05-2015,743.9103396
+New Zealand,Residual fuel oil,Consumption Pattern,,2021,08-03-2018,257.6336421
+Poland,Residual fuel oil,Consumption Pattern,,2021,15-01-2012,384.863785
+Portugal,Residual fuel oil,Consumption Pattern,,2021,19-05-2011,946.591727
+Slovakia,Residual fuel oil,Consumption Pattern,,2021,25-12-2008,573.1687753
+Slovenia,Residual fuel oil,Consumption Pattern,,2021,18-12-2017,996.0933969
+Spain,Residual fuel oil,Consumption Pattern,,2021,07-02-2009,904.723255
+Sweden,Residual fuel oil,Consumption Pattern,,2021,31-05-2007,422.2828308
+Switzerland,Residual fuel oil,Consumption Pattern,,2021,09-11-2015,750.9485407
+Türkiye,Residual fuel oil,Consumption Pattern,,2021,26-11-2022,481.0506266
+United Kingdom,Residual fuel oil,Consumption Pattern,,2021,12-12-2009,617.0878494
+United States,Residual fuel oil,Consumption Pattern,,2021,14-09-2006,501.5241469
+Australia,Residual fuel oil,Consumption Pattern,,2021,25-05-2024,413.1537117
+Austria,Residual fuel oil,Consumption Pattern,,2021,28-07-2004,252.7050452
+Belgium,Residual fuel oil,Consumption Pattern,,2021,15-02-2013,623.9510967
+Canada,Residual fuel oil,Consumption Pattern,,2021,02-01-2022,947.3218979
+Chile,Residual fuel oil,Consumption Pattern,,2021,18-08-2016,489.6664981
+Czech Republic,Residual fuel oil,Consumption Pattern,,2021,15-12-2015,953.1965907
+Denmark,Residual fuel oil,Consumption Pattern,,2021,22-05-2001,498.3632941
+Estonia,Residual fuel oil,Consumption Pattern,,2021,19-03-2005,450.1385179
+Finland,Residual fuel oil,Consumption Pattern,,2021,12-07-2022,103.6465028
+France,Residual fuel oil,Consumption Pattern,,2021,30-01-2004,521.3169635
+Germany,Residual fuel oil,Consumption Pattern,,2021,08-02-2009,869.5423291
+Greece,Residual fuel oil,Consumption Pattern,,2021,12-09-2001,677.1944623
+Hungary,Residual fuel oil,Consumption Pattern,,2021,12-12-2020,651.1759257
+Iceland,Residual fuel oil,Consumption Pattern,,2021,30-06-2006,928.1262705
+Ireland,Residual fuel oil,Consumption Pattern,,2021,11-04-2009,728.962309
+Israel,Residual fuel oil,Consumption Pattern,,2021,30-12-2007,265.9346801
+Italy,Residual fuel oil,Consumption Pattern,,2021,19-07-2005,817.5932501
+Japan,Residual fuel oil,Consumption Pattern,,2021,05-09-2018,400.6768149
+South Korea,Residual fuel oil,Consumption Pattern,,2021,01-11-2014,281.6998772
+Latvia,Residual fuel oil,Consumption Pattern,,2021,07-10-2010,104.3837087
+Lithuania,Residual fuel oil,Consumption Pattern,,2021,04-09-2023,895.1821706
+Luxembourg,Residual fuel oil,Consumption Pattern,,2021,16-07-2018,194.5900291
+Mexico,Residual fuel oil,Consumption Pattern,,2021,18-10-2011,852.8018828
+Netherlands,Residual fuel oil,Consumption Pattern,,2021,05-06-2006,614.9542637
+Norway,Residual fuel oil,Consumption Pattern,,2021,18-05-2016,156.0345424
+New Zealand,Residual fuel oil,Consumption Pattern,,2021,15-03-2016,862.9111878
+Poland,Residual fuel oil,Consumption Pattern,,2021,09-08-2020,933.4509621
+Portugal,Residual fuel oil,Consumption Pattern,,2021,01-03-2010,449.2520403
+Slovakia,Residual fuel oil,Consumption Pattern,,2021,30-01-2015,232.1283239
+Slovenia,Residual fuel oil,Consumption Pattern,,2021,21-03-2002,757.3703314
+Spain,Residual fuel oil,Consumption Pattern,,2021,09-12-2010,549.467623
+Sweden,Residual fuel oil,Consumption Pattern,,2021,26-11-2008,546.4288079
+Switzerland,Residual fuel oil,Consumption Pattern,,2021,18-06-2008,475.9514492
+Türkiye,Residual fuel oil,Consumption Pattern,,2021,23-11-2014,235.4360532
+United Kingdom,Residual fuel oil,Consumption Pattern,,2021,04-08-2006,943.2310694
+United States,Residual fuel oil,Consumption Pattern,,2021,08-02-2021,264.8501835
+Australia,Crude oil,Industrial Production,,2022,02-03-2015,986.3131241
+Austria,Crude oil,Industrial Production,,2022,03-06-2011,509.6892877
+Belgium,Crude oil,Industrial Production,,2022,28-10-2014,327.9884177
+Canada,Crude oil,Industrial Production,,2022,30-05-2019,706.7534112
+Chile,Crude oil,Industrial Production,,2022,13-11-2019,237.4641329
+Czech Republic,Crude oil,Industrial Production,,2022,06-03-2019,102.5521546
+Denmark,Crude oil,Industrial Production,,2022,26-10-2025,194.4789921
+Estonia,Crude oil,Industrial Production,,2022,03-05-2020,871.4012167
+Finland,Crude oil,Industrial Production,,2022,15-02-2005,820.2458912
+France,Crude oil,Industrial Production,,2022,04-05-2003,148.4412591
+Germany,Crude oil,Industrial Production,,2022,06-03-2014,575.7909447
+Greece,Crude oil,Industrial Production,,2022,02-04-2022,713.4388362
+Hungary,Crude oil,Industrial Production,,2022,13-10-2010,955.3358219
+Iceland,Crude oil,Industrial Production,,2022,30-05-2001,781.9714049
+Ireland,Crude oil,Industrial Production,,2022,26-01-2014,313.1739335
+Israel,Crude oil,Industrial Production,,2022,09-07-2021,350.4359
+Italy,Crude oil,Industrial Production,,2022,18-03-2007,623.6121226
+Japan,Crude oil,Industrial Production,,2022,27-08-2011,742.3526569
+South Korea,Crude oil,Industrial Production,,2022,15-07-2004,701.16586
+Latvia,Crude oil,Industrial Production,,2022,16-09-2001,460.7152281
+Lithuania,Crude oil,Industrial Production,,2022,20-01-2012,136.5366048
+Luxembourg,Crude oil,Industrial Production,,2022,24-12-2004,599.6651059
+Mexico,Crude oil,Industrial Production,,2022,30-07-2012,854.1775616
+Netherlands,Crude oil,Industrial Production,,2022,30-12-2019,992.6750749
+Norway,Crude oil,Industrial Production,,2022,10-09-2009,684.3626269
+New Zealand,Crude oil,Industrial Production,,2022,26-09-2023,330.0204701
+Poland,Crude oil,Industrial Production,,2022,24-09-2015,772.6756937
+Portugal,Crude oil,Industrial Production,,2022,14-10-2022,700.3213921
+Slovakia,Crude oil,Industrial Production,,2022,12-09-2006,930.6894791
+Slovenia,Crude oil,Industrial Production,,2022,04-05-2004,455.0262269
+Spain,Crude oil,Industrial Production,,2022,11-05-2008,306.167898
+Sweden,Crude oil,Industrial Production,,2022,01-06-2016,290.6636481
+Switzerland,Crude oil,Industrial Production,,2022,29-04-2016,995.7379188
+Türkiye,Crude oil,Industrial Production,,2022,31-08-2014,982.0404508
+United Kingdom,Crude oil,Industrial Production,,2022,13-04-2023,327.9987845
+United States,Crude oil,Industrial Production,,2022,05-07-2013,544.5792904
+Australia,Crude oil,Industrial Production,,2023,24-10-2020,968.4842665
+Austria,Crude oil,Industrial Production,,2023,19-06-2010,370.3599146
+Belgium,Crude oil,Industrial Production,,2023,25-06-2002,988.3100751
+Canada,Crude oil,Industrial Production,,2023,07-03-2024,525.6094535
+Chile,Crude oil,Industrial Production,,2023,24-10-2006,962.449658
+Czech Republic,Crude oil,Industrial Production,,2023,19-03-2019,398.832809
+Denmark,Crude oil,Industrial Production,,2023,21-02-2004,582.93156
+Estonia,Crude oil,Industrial Production,,2023,13-12-2015,722.8400932
+Finland,Crude oil,Industrial Production,,2023,20-02-2001,742.3441527
+France,Crude oil,Industrial Production,,2023,05-07-2018,159.7580343
+Germany,Crude oil,Industrial Production,,2023,26-05-2025,335.7114686
+Greece,Crude oil,Industrial Production,,2023,20-09-2006,618.9259494
+Hungary,Crude oil,Industrial Production,,2023,10-12-2021,874.5737835
+Iceland,Crude oil,Industrial Production,,2023,15-02-2017,292.3965512
+Ireland,Crude oil,Industrial Production,,2023,10-12-2002,703.2006593
+Israel,Crude oil,Industrial Production,,2023,04-05-2021,420.4782521
+Italy,Crude oil,Industrial Production,,2023,25-04-2017,730.2200419
+Japan,Crude oil,Industrial Production,,2023,17-01-2016,218.9571793
+South Korea,Crude oil,Industrial Production,,2023,14-02-2017,248.7015394
+Latvia,Crude oil,Industrial Production,,2023,11-11-2006,146.2580396
+Lithuania,Crude oil,Industrial Production,,2023,10-12-2008,631.7057602
+Luxembourg,Crude oil,Industrial Production,,2023,10-02-2003,927.8484708
+Mexico,Crude oil,Industrial Production,,2023,16-07-2015,243.8865106
+Netherlands,Crude oil,Industrial Production,,2023,26-03-2005,188.4939795
+Norway,Crude oil,Industrial Production,,2023,15-04-2011,866.2784539
+New Zealand,Crude oil,Industrial Production,,2023,25-10-2015,525.0231087
+Poland,Crude oil,Industrial Production,,2023,11-12-2019,277.0029724
+Portugal,Crude oil,Industrial Production,,2023,17-05-2015,108.3728644
+Slovakia,Crude oil,Industrial Production,,2023,17-04-2015,978.0481705
+Slovenia,Crude oil,Industrial Production,,2023,29-05-2006,606.5328033
+Spain,Crude oil,Industrial Production,,2023,08-04-2018,580.6823237
+Sweden,Crude oil,Industrial Production,,2023,06-04-2006,233.9860541
+Switzerland,Crude oil,Industrial Production,,2023,13-03-2010,193.572939
+Türkiye,Crude oil,Industrial Production,,2023,15-08-2015,694.7477487
+United Kingdom,Crude oil,Industrial Production,,2023,24-06-2007,585.5527308
+United States,Crude oil,Industrial Production,,2023,24-12-2014,864.237852
+Australia,Liquified Petroleum Gas,Net Deliveries,,2022,13-08-2014,348.8848491
+Austria,Liquified Petroleum Gas,Net Deliveries,,2022,19-11-2011,470.0762052
+Belgium,Liquified Petroleum Gas,Net Deliveries,,2022,07-03-2005,979.8208101
+Canada,Liquified Petroleum Gas,Net Deliveries,,2022,28-07-2022,625.1641517
+Chile,Liquified Petroleum Gas,Net Deliveries,,2022,09-06-2018,949.2495414
+Czech Republic,Liquified Petroleum Gas,Net Deliveries,,2022,09-05-2019,743.1589794
+Denmark,Liquified Petroleum Gas,Net Deliveries,,2022,05-03-2025,559.4201889
+Estonia,Liquified Petroleum Gas,Net Deliveries,,2022,16-01-2021,478.7200866
+Finland,Liquified Petroleum Gas,Net Deliveries,,2022,22-10-2012,614.6037106
+France,Liquified Petroleum Gas,Net Deliveries,,2022,13-04-2022,982.1808418
+Germany,Liquified Petroleum Gas,Net Deliveries,,2022,25-04-2004,793.7476403
+Greece,Liquified Petroleum Gas,Net Deliveries,,2022,14-03-2006,536.7907357
+Hungary,Liquified Petroleum Gas,Net Deliveries,,2022,13-01-2022,638.1248687
+Iceland,Liquified Petroleum Gas,Net Deliveries,,2022,01-01-2021,216.2419163
+Ireland,Liquified Petroleum Gas,Net Deliveries,,2022,11-01-2012,761.316091
+Israel,Liquified Petroleum Gas,Net Deliveries,,2022,23-07-2018,323.1429332
+Italy,Liquified Petroleum Gas,Net Deliveries,,2022,10-01-2006,929.7790081
+Japan,Liquified Petroleum Gas,Net Deliveries,,2022,31-10-2009,613.493069
+South Korea,Liquified Petroleum Gas,Net Deliveries,,2022,16-09-2006,163.0688996
+Latvia,Liquified Petroleum Gas,Net Deliveries,,2022,15-02-2018,482.3086286
+Lithuania,Liquified Petroleum Gas,Net Deliveries,,2022,19-04-2004,571.3170832
+Luxembourg,Liquified Petroleum Gas,Net Deliveries,,2022,26-05-2020,399.880335
+Mexico,Liquified Petroleum Gas,Net Deliveries,,2022,10-10-2013,236.6419707
+Netherlands,Liquified Petroleum Gas,Net Deliveries,,2022,14-04-2002,195.5502647
+Norway,Liquified Petroleum Gas,Net Deliveries,,2022,13-10-2013,354.8745822
+New Zealand,Liquified Petroleum Gas,Net Deliveries,,2022,20-05-2025,371.436906
+Poland,Liquified Petroleum Gas,Net Deliveries,,2022,27-01-2020,120.4544536
+Portugal,Liquified Petroleum Gas,Net Deliveries,,2022,13-01-2019,826.8434027
+Slovakia,Liquified Petroleum Gas,Net Deliveries,,2022,25-06-2013,581.8648275
+Slovenia,Liquified Petroleum Gas,Net Deliveries,,2022,28-06-2018,119.9098002
+Spain,Liquified Petroleum Gas,Net Deliveries,,2022,23-02-2001,974.7915701
+Sweden,Liquified Petroleum Gas,Net Deliveries,,2022,02-06-2015,743.1584545
+Switzerland,Liquified Petroleum Gas,Net Deliveries,,2022,12-03-2002,294.9515727
+Türkiye,Liquified Petroleum Gas,Net Deliveries,,2022,07-06-2023,576.8880986
+United Kingdom,Liquified Petroleum Gas,Net Deliveries,,2022,07-06-2020,680.9116616
+United States,Liquified Petroleum Gas,Net Deliveries,,2022,30-11-2010,989.1085033
+Australia,Liquified Petroleum Gas,Net Deliveries,,2023,01-01-2020,212.4289781
+Austria,Liquified Petroleum Gas,Net Deliveries,,2023,23-03-2020,636.1912989
+Belgium,Liquified Petroleum Gas,Net Deliveries,,2023,06-11-2023,174.051603
+Canada,Liquified Petroleum Gas,Net Deliveries,,2023,11-01-2010,477.8957059
+Chile,Liquified Petroleum Gas,Net Deliveries,,2023,20-06-2021,267.4313779
+Czech Republic,Liquified Petroleum Gas,Net Deliveries,,2023,28-04-2013,480.4496126
+Denmark,Liquified Petroleum Gas,Net Deliveries,,2023,10-12-2009,180.2107513
+Estonia,Liquified Petroleum Gas,Net Deliveries,,2023,12-02-2024,846.4292155
+Finland,Liquified Petroleum Gas,Net Deliveries,,2023,30-09-2002,178.9302519
+France,Liquified Petroleum Gas,Net Deliveries,,2023,27-02-2013,853.1968829
+Germany,Liquified Petroleum Gas,Net Deliveries,,2023,12-09-2019,496.5894587
+Greece,Liquified Petroleum Gas,Net Deliveries,,2023,30-09-2002,161.0575664
+Hungary,Liquified Petroleum Gas,Net Deliveries,,2023,13-11-2020,867.4247184
+Iceland,Liquified Petroleum Gas,Net Deliveries,,2023,04-05-2004,569.3004613
+Ireland,Liquified Petroleum Gas,Net Deliveries,,2023,05-03-2014,924.9298072
+Israel,Liquified Petroleum Gas,Net Deliveries,,2023,28-11-2012,641.3296553
+Italy,Liquified Petroleum Gas,Net Deliveries,,2023,08-03-2004,397.9016001
+Japan,Liquified Petroleum Gas,Net Deliveries,,2023,27-02-2024,499.9408105
+South Korea,Liquified Petroleum Gas,Net Deliveries,,2023,30-07-2003,464.3549664
+Latvia,Liquified Petroleum Gas,Net Deliveries,,2023,17-05-2003,840.1634927
+Lithuania,Liquified Petroleum Gas,Net Deliveries,,2023,20-11-2017,667.1886551
+Luxembourg,Liquified Petroleum Gas,Net Deliveries,,2023,11-04-2010,325.6355332
+Mexico,Liquified Petroleum Gas,Net Deliveries,,2023,01-08-2022,151.1459858
+Netherlands,Liquified Petroleum Gas,Net Deliveries,,2023,11-10-2020,899.139797
+Norway,Liquified Petroleum Gas,Net Deliveries,,2023,05-05-2008,616.0224809
+New Zealand,Liquified Petroleum Gas,Net Deliveries,,2023,23-12-2021,498.3157966
+Poland,Liquified Petroleum Gas,Net Deliveries,,2023,06-03-2017,204.4358788
+Portugal,Liquified Petroleum Gas,Net Deliveries,,2023,10-03-2025,295.0895505
+Slovakia,Liquified Petroleum Gas,Net Deliveries,,2023,23-09-2006,876.0123976
+Slovenia,Liquified Petroleum Gas,Net Deliveries,,2023,01-08-2011,621.2054509
+Spain,Liquified Petroleum Gas,Net Deliveries,,2023,26-04-2006,152.1225633
+Sweden,Liquified Petroleum Gas,Net Deliveries,,2023,18-06-2021,326.4673936
+Switzerland,Liquified Petroleum Gas,Net Deliveries,,2023,01-02-2004,124.2951249
+Türkiye,Liquified Petroleum Gas,Net Deliveries,,2023,14-01-2009,726.2586042
+United Kingdom,Liquified Petroleum Gas,Net Deliveries,,2023,01-02-2024,718.8839165
+United States,Liquified Petroleum Gas,Net Deliveries,,2023,20-03-2016,355.1297008
+Australia,Naphtha,Net Deliveries,,2022,29-05-2023,437.6383181
+Austria,Naphtha,Net Deliveries,,2022,12-07-2013,406.2677637
+Belgium,Naphtha,Net Deliveries,,2022,31-08-2017,553.3301279
+Canada,Naphtha,Net Deliveries,,2022,02-10-2008,866.5783843
+Chile,Naphtha,Net Deliveries,,2022,09-06-2013,997.7354186
+Czech Republic,Naphtha,Net Deliveries,,2022,27-05-2016,988.6305119
+Denmark,Naphtha,Net Deliveries,,2022,11-09-2025,465.9223771
+Estonia,Naphtha,Net Deliveries,,2022,03-10-2012,925.97276
+Finland,Naphtha,Net Deliveries,,2022,30-07-2007,238.2676949
+France,Naphtha,Net Deliveries,,2022,25-01-2019,628.4256002
+Germany,Naphtha,Net Deliveries,,2022,17-06-2003,954.9239312
+Greece,Naphtha,Net Deliveries,,2022,09-11-2025,287.9080082
+Hungary,Naphtha,Net Deliveries,,2022,20-03-2017,337.4488473
+Iceland,Naphtha,Net Deliveries,,2022,23-07-2001,349.3837686
+Ireland,Naphtha,Net Deliveries,,2022,20-05-2008,179.8399568
+Israel,Naphtha,Net Deliveries,,2022,30-04-2012,516.977396
+Italy,Naphtha,Net Deliveries,,2022,12-06-2019,620.699761
+Japan,Naphtha,Net Deliveries,,2022,25-10-2011,591.3126293
+South Korea,Naphtha,Net Deliveries,,2022,01-01-2021,526.4533007
+Latvia,Naphtha,Net Deliveries,,2022,01-04-2010,165.6232772
+Lithuania,Naphtha,Net Deliveries,,2022,30-09-2017,538.1861612
+Luxembourg,Naphtha,Net Deliveries,,2022,25-02-2013,891.692257
+Mexico,Naphtha,Net Deliveries,,2022,16-10-2021,897.6839423
+Netherlands,Naphtha,Net Deliveries,,2022,07-11-2004,211.5695595
+Norway,Naphtha,Net Deliveries,,2022,04-05-2005,779.6254127
+New Zealand,Naphtha,Net Deliveries,,2022,19-04-2015,129.4917826
+Poland,Naphtha,Net Deliveries,,2022,15-09-2019,868.5587257
+Portugal,Naphtha,Net Deliveries,,2022,02-10-2004,234.3486494
+Slovakia,Naphtha,Net Deliveries,,2022,04-01-2005,893.5128878
+Slovenia,Naphtha,Net Deliveries,,2022,02-07-2010,474.3823998
+Spain,Naphtha,Net Deliveries,,2022,17-01-2008,614.389599
+Sweden,Naphtha,Net Deliveries,,2022,09-02-2022,194.8487881
+Switzerland,Naphtha,Net Deliveries,,2022,04-03-2006,344.4594242
+Türkiye,Naphtha,Net Deliveries,,2022,15-12-2015,138.1844498
+United Kingdom,Naphtha,Net Deliveries,,2022,18-05-2023,849.1270159
+United States,Naphtha,Net Deliveries,,2022,07-05-2004,137.5981402
+Australia,Naphtha,Net Deliveries,,2023,18-07-2008,443.0056956
+Austria,Naphtha,Net Deliveries,,2023,06-08-2009,885.1149938
+Belgium,Naphtha,Net Deliveries,,2023,28-11-2013,868.3421009
+Canada,Naphtha,Net Deliveries,,2023,10-05-2012,726.6801936
+Chile,Naphtha,Net Deliveries,,2023,15-09-2007,452.4499213
+Czech Republic,Naphtha,Net Deliveries,,2023,15-09-2020,434.6193352
+Denmark,Naphtha,Net Deliveries,,2023,14-05-2010,735.8465796
+Estonia,Naphtha,Net Deliveries,,2023,03-10-2012,195.8502888
+Finland,Naphtha,Net Deliveries,,2023,11-05-2005,120.3650592
+France,Naphtha,Net Deliveries,,2023,30-07-2004,550.088636
+Germany,Naphtha,Net Deliveries,,2023,16-03-2011,483.6665929
+Greece,Naphtha,Net Deliveries,,2023,10-01-2022,165.7899962
+Hungary,Naphtha,Net Deliveries,,2023,06-05-2014,864.0444929
+Iceland,Naphtha,Net Deliveries,,2023,17-05-2016,456.1226864
+Ireland,Naphtha,Net Deliveries,,2023,22-08-2009,876.5019764
+Israel,Naphtha,Net Deliveries,,2023,18-10-2016,955.009348
+Italy,Naphtha,Net Deliveries,,2023,17-08-2003,520.3385594
+Japan,Naphtha,Net Deliveries,,2023,26-11-2007,747.1999205
+South Korea,Naphtha,Net Deliveries,,2023,02-04-2020,925.8737792
+Latvia,Naphtha,Net Deliveries,,2023,07-05-2005,779.4131125
+Lithuania,Naphtha,Net Deliveries,,2023,31-05-2005,360.3112874
+Luxembourg,Naphtha,Net Deliveries,,2023,13-06-2004,774.3352244
+Mexico,Naphtha,Net Deliveries,,2023,11-11-2020,378.8575332
+Netherlands,Naphtha,Net Deliveries,,2023,29-12-2009,174.7065849
+Norway,Naphtha,Net Deliveries,,2023,13-10-2016,650.8563489
+New Zealand,Naphtha,Net Deliveries,,2023,06-04-2021,468.0826337
+Poland,Naphtha,Net Deliveries,,2023,22-04-2005,185.0375824
+Portugal,Naphtha,Net Deliveries,,2023,19-08-2023,512.924377
+Slovakia,Naphtha,Net Deliveries,,2023,14-02-2024,303.7585143
+Slovenia,Naphtha,Net Deliveries,,2023,11-03-2018,534.1525002
+Spain,Naphtha,Net Deliveries,,2023,31-03-2025,536.5440595
+Sweden,Naphtha,Net Deliveries,,2023,25-10-2017,175.184557
+Switzerland,Naphtha,Net Deliveries,,2023,01-11-2021,959.2190549
+Türkiye,Naphtha,Net Deliveries,,2023,15-05-2024,697.4226743
+United Kingdom,Naphtha,Net Deliveries,,2023,29-08-2023,897.4530543
+United States,Naphtha,Net Deliveries,,2023,19-03-2014,988.1783552
+Australia,Total gas oil production,Net Deliveries,,2022,06-09-2020,505.198435
+Austria,Total gas oil production,Net Deliveries,,2022,18-03-2023,585.4009867
+Belgium,Total gas oil production,Net Deliveries,,2022,24-02-2010,959.0855997
+Canada,Total gas oil production,Net Deliveries,,2022,29-08-2002,704.655602
+Chile,Total gas oil production,Net Deliveries,,2022,29-04-2001,868.3036221
+Czech Republic,Total gas oil production,Net Deliveries,,2022,20-06-2007,162.119985
+Denmark,Total gas oil production,Net Deliveries,,2022,24-05-2010,602.6087861
+Estonia,Total gas oil production,Net Deliveries,,2022,31-03-2016,635.8573289
+Finland,Total gas oil production,Net Deliveries,,2022,29-07-2015,333.1979919
+France,Total gas oil production,Net Deliveries,,2022,10-06-2003,787.3381041
+Germany,Total gas oil production,Net Deliveries,,2022,29-03-2013,475.0079867
+Greece,Total gas oil production,Net Deliveries,,2022,15-11-2013,601.0532359
+Hungary,Total gas oil production,Net Deliveries,,2022,28-08-2003,952.3884146
+Iceland,Total gas oil production,Net Deliveries,,2022,10-05-2025,531.0362496
+Ireland,Total gas oil production,Net Deliveries,,2022,04-06-2004,266.8594016
+Israel,Total gas oil production,Net Deliveries,,2022,20-02-2008,983.4191321
+Italy,Total gas oil production,Net Deliveries,,2022,18-10-2010,817.243381
+Japan,Total gas oil production,Net Deliveries,,2022,24-02-2019,148.2722766
+South Korea,Total gas oil production,Net Deliveries,,2022,02-10-2018,320.6365519
+Latvia,Total gas oil production,Net Deliveries,,2022,13-07-2015,472.8251931
+Lithuania,Total gas oil production,Net Deliveries,,2022,17-09-2014,437.3177931
+Luxembourg,Total gas oil production,Net Deliveries,,2022,27-12-2005,412.104984
+Mexico,Total gas oil production,Net Deliveries,,2022,24-09-2019,168.9590082
+Netherlands,Total gas oil production,Net Deliveries,,2022,31-05-2005,352.3725336
+Norway,Total gas oil production,Net Deliveries,,2022,09-09-2004,529.5321264
+New Zealand,Total gas oil production,Net Deliveries,,2022,05-07-2017,593.0392871
+Poland,Total gas oil production,Net Deliveries,,2022,31-08-2025,307.624125
+Portugal,Total gas oil production,Net Deliveries,,2022,04-03-2011,231.5674694
+Slovakia,Total gas oil production,Net Deliveries,,2022,28-12-2025,319.6531058
+Slovenia,Total gas oil production,Net Deliveries,,2022,02-01-2010,101.7571044
+Spain,Total gas oil production,Net Deliveries,,2022,28-04-2012,567.7972405
+Sweden,Total gas oil production,Net Deliveries,,2022,29-06-2020,809.9264988
+Switzerland,Total gas oil production,Net Deliveries,,2022,17-08-2022,185.254761
+Türkiye,Total gas oil production,Net Deliveries,,2022,16-06-2024,471.5526357
+United Kingdom,Total gas oil production,Net Deliveries,,2022,14-06-2007,689.6932474
+United States,Total gas oil production,Net Deliveries,,2022,08-12-2010,748.5466101
+Australia,Total gas oil production,Net Deliveries,,2023,10-02-2017,688.9093834
+Austria,Total gas oil production,Net Deliveries,,2023,11-01-2003,502.410145
+Belgium,Total gas oil production,Net Deliveries,,2023,16-07-2006,579.1152451
+Canada,Total gas oil production,Net Deliveries,,2023,22-05-2019,382.3703118
+Chile,Total gas oil production,Net Deliveries,,2023,06-10-2022,983.6517116
+Czech Republic,Total gas oil production,Net Deliveries,,2023,01-10-2010,658.7513426
+Denmark,Total gas oil production,Net Deliveries,,2023,09-07-2006,985.2921514
+Estonia,Total gas oil production,Net Deliveries,,2023,18-10-2012,421.7641768
+Finland,Total gas oil production,Net Deliveries,,2023,04-02-2007,539.5180221
+France,Total gas oil production,Net Deliveries,,2023,12-12-2009,848.3792747
+Germany,Total gas oil production,Net Deliveries,,2023,05-12-2005,568.4511222
+Greece,Total gas oil production,Net Deliveries,,2023,23-06-2015,167.8932155
+Hungary,Total gas oil production,Net Deliveries,,2023,10-12-2006,313.7958717
+Iceland,Total gas oil production,Net Deliveries,,2023,31-08-2024,704.4907344
+Ireland,Total gas oil production,Net Deliveries,,2023,15-11-2004,282.6622774
+Israel,Total gas oil production,Net Deliveries,,2023,07-04-2019,271.5607618
+Italy,Total gas oil production,Net Deliveries,,2023,22-07-2005,861.5327076
+Japan,Total gas oil production,Net Deliveries,,2023,03-11-2024,437.6435609
+South Korea,Total gas oil production,Net Deliveries,,2023,26-02-2017,271.3529109
+Latvia,Total gas oil production,Net Deliveries,,2023,09-08-2025,434.4887696
+Lithuania,Total gas oil production,Net Deliveries,,2023,28-09-2015,937.1581593
+Luxembourg,Total gas oil production,Net Deliveries,,2023,11-08-2025,133.6725851
+Mexico,Total gas oil production,Net Deliveries,,2023,11-03-2003,730.0210658
+Netherlands,Total gas oil production,Net Deliveries,,2023,07-09-2017,820.300372
+Norway,Total gas oil production,Net Deliveries,,2023,28-03-2005,520.5052789
+New Zealand,Total gas oil production,Net Deliveries,,2023,05-01-2001,897.1725761
+Poland,Total gas oil production,Net Deliveries,,2023,11-02-2023,999.8273281
+Portugal,Total gas oil production,Net Deliveries,,2023,07-11-2025,565.3546273
+Slovakia,Total gas oil production,Net Deliveries,,2023,30-06-2016,597.2651407
+Slovenia,Total gas oil production,Net Deliveries,,2023,16-09-2019,172.5475654
+Spain,Total gas oil production,Net Deliveries,,2023,12-02-2008,165.6518846
+Sweden,Total gas oil production,Net Deliveries,,2023,16-07-2019,269.0344931
+Switzerland,Total gas oil production,Net Deliveries,,2023,30-01-2017,567.6499155
+Türkiye,Total gas oil production,Net Deliveries,,2023,31-01-2009,993.7381273
+United Kingdom,Total gas oil production,Net Deliveries,,2023,15-09-2012,615.8834556
+United States,Total gas oil production,Net Deliveries,,2023,16-12-2011,220.6890502
+Australia,Total kerosene production,Net Deliveries,,2022,14-05-2006,673.323746
+Austria,Total kerosene production,Net Deliveries,,2022,20-04-2006,309.9786548
+Belgium,Total kerosene production,Net Deliveries,,2022,10-05-2023,519.7533384
+Canada,Total kerosene production,Net Deliveries,,2022,26-07-2013,201.3835975
+Chile,Total kerosene production,Net Deliveries,,2022,03-06-2006,685.0606649
+Czech Republic,Total kerosene production,Net Deliveries,,2022,14-07-2018,950.8831463
+Denmark,Total kerosene production,Net Deliveries,,2022,01-06-2005,557.4547048
+Estonia,Total kerosene production,Net Deliveries,,2022,11-09-2004,243.8914563
+Finland,Total kerosene production,Net Deliveries,,2022,27-08-2013,883.751923
+France,Total kerosene production,Net Deliveries,,2022,21-01-2006,370.608874
+Germany,Total kerosene production,Net Deliveries,,2022,31-10-2003,173.0652615
+Greece,Total kerosene production,Net Deliveries,,2022,09-03-2009,700.455675
+Hungary,Total kerosene production,Net Deliveries,,2022,11-12-2001,628.7548519
+Iceland,Total kerosene production,Net Deliveries,,2022,25-04-2016,192.7804668
+Ireland,Total kerosene production,Net Deliveries,,2022,30-04-2010,327.3266957
+Israel,Total kerosene production,Net Deliveries,,2022,08-04-2019,651.9388713
+Italy,Total kerosene production,Net Deliveries,,2022,19-10-2016,553.8939956
+Japan,Total kerosene production,Net Deliveries,,2022,22-05-2025,724.7177832
+South Korea,Total kerosene production,Net Deliveries,,2022,25-04-2023,998.7623401
+Latvia,Total kerosene production,Net Deliveries,,2022,05-02-2020,915.3215651
+Lithuania,Total kerosene production,Net Deliveries,,2022,28-02-2022,276.9498062
+Luxembourg,Total kerosene production,Net Deliveries,,2022,31-08-2023,230.4756972
+Mexico,Total kerosene production,Net Deliveries,,2022,30-06-2009,200.9689131
+Netherlands,Total kerosene production,Net Deliveries,,2022,09-12-2010,721.2174958
+Norway,Total kerosene production,Net Deliveries,,2022,02-11-2022,587.258435
+New Zealand,Total kerosene production,Net Deliveries,,2022,15-05-2005,580.7739642
+Poland,Total kerosene production,Net Deliveries,,2022,17-10-2013,475.3747193
+Portugal,Total kerosene production,Net Deliveries,,2022,24-04-2016,806.9890904
+Slovakia,Total kerosene production,Net Deliveries,,2022,29-10-2013,260.8793203
+Slovenia,Total kerosene production,Net Deliveries,,2022,23-03-2003,420.1366878
+Spain,Total kerosene production,Net Deliveries,,2022,14-05-2006,769.9538132
+Sweden,Total kerosene production,Net Deliveries,,2022,16-12-2006,990.8917406
+Switzerland,Total kerosene production,Net Deliveries,,2022,07-09-2025,630.787732
+Türkiye,Total kerosene production,Net Deliveries,,2022,28-04-2018,992.0595382
+United Kingdom,Total kerosene production,Net Deliveries,,2022,16-02-2009,116.5364367
+United States,Total kerosene production,Net Deliveries,,2022,27-02-2009,207.7583002
+Australia,Total kerosene production,Net Deliveries,,2023,10-08-2011,485.7415007
+Austria,Total kerosene production,Net Deliveries,,2023,09-11-2009,616.8453881
+Belgium,Total kerosene production,Net Deliveries,,2023,04-08-2015,513.4773153
+Canada,Total kerosene production,Net Deliveries,,2023,19-08-2011,277.2298915
+Chile,Total kerosene production,Net Deliveries,,2023,09-05-2019,893.4156421
+Czech Republic,Total kerosene production,Net Deliveries,,2023,31-03-2019,324.600755
+Denmark,Total kerosene production,Net Deliveries,,2023,18-10-2025,315.4320912
+Estonia,Total kerosene production,Net Deliveries,,2023,07-04-2018,224.0484259
+Finland,Total kerosene production,Net Deliveries,,2023,06-08-2014,686.1933119
+France,Total kerosene production,Net Deliveries,,2023,08-03-2006,719.1357691
+Germany,Total kerosene production,Net Deliveries,,2023,19-06-2017,543.7054456
+Greece,Total kerosene production,Net Deliveries,,2023,05-10-2019,765.4652744
+Hungary,Total kerosene production,Net Deliveries,,2023,27-06-2013,877.7977336
+Iceland,Total kerosene production,Net Deliveries,,2023,16-02-2006,721.2860592
+Ireland,Total kerosene production,Net Deliveries,,2023,25-08-2001,993.5406325
+Israel,Total kerosene production,Net Deliveries,,2023,25-07-2023,824.7960661
+Italy,Total kerosene production,Net Deliveries,,2023,11-10-2002,855.8615499
+Japan,Total kerosene production,Net Deliveries,,2023,26-09-2022,266.7069753
+South Korea,Total kerosene production,Net Deliveries,,2023,02-12-2005,927.2417097
+Latvia,Total kerosene production,Net Deliveries,,2023,03-12-2002,333.0668245
+Lithuania,Total kerosene production,Net Deliveries,,2023,13-10-2006,417.4274869
+Luxembourg,Total kerosene production,Net Deliveries,,2023,07-05-2008,972.445928
+Mexico,Total kerosene production,Net Deliveries,,2023,07-04-2025,530.7067971
+Netherlands,Total kerosene production,Net Deliveries,,2023,09-02-2001,493.3391746
+Norway,Total kerosene production,Net Deliveries,,2023,31-10-2003,120.8445338
+New Zealand,Total kerosene production,Net Deliveries,,2023,25-06-2015,338.8574264
+Poland,Total kerosene production,Net Deliveries,,2023,03-01-2021,482.2042286
+Portugal,Total kerosene production,Net Deliveries,,2023,28-07-2001,951.9169706
+Slovakia,Total kerosene production,Net Deliveries,,2023,11-02-2007,689.7642978
+Slovenia,Total kerosene production,Net Deliveries,,2023,06-10-2007,514.1227324
+Spain,Total kerosene production,Net Deliveries,,2023,19-06-2006,903.8996783
+Sweden,Total kerosene production,Net Deliveries,,2023,28-11-2008,717.1342411
+Switzerland,Total kerosene production,Net Deliveries,,2023,05-08-2015,672.4928826
+Türkiye,Total kerosene production,Net Deliveries,,2023,28-06-2005,872.1002028
+United Kingdom,Total kerosene production,Net Deliveries,,2023,16-11-2005,496.1148945
+United States,Total kerosene production,Net Deliveries,,2023,17-05-2006,784.0773611
+Australia,Gasoline and diesel,Net Deliveries,,2022,12-10-2004,149.8247593
+Austria,Gasoline and diesel,Net Deliveries,,2022,02-02-2011,903.074873
+Belgium,Gasoline and diesel,Net Deliveries,,2022,12-07-2020,435.3273551
+Canada,Gasoline and diesel,Net Deliveries,,2022,06-10-2003,325.1573553
+Chile,Gasoline and diesel,Net Deliveries,,2022,23-05-2017,453.5563165
+Czech Republic,Gasoline and diesel,Net Deliveries,,2022,22-11-2012,384.4119206
+Denmark,Gasoline and diesel,Net Deliveries,,2022,16-02-2024,795.0634283
+Estonia,Gasoline and diesel,Net Deliveries,,2022,17-03-2001,233.6104715
+Finland,Gasoline and diesel,Net Deliveries,,2022,02-02-2009,689.1073619
+France,Gasoline and diesel,Net Deliveries,,2022,02-10-2002,412.264982
+Germany,Gasoline and diesel,Net Deliveries,,2022,08-03-2011,413.1388383
+Greece,Gasoline and diesel,Net Deliveries,,2022,20-08-2006,991.7751531
+Hungary,Gasoline and diesel,Net Deliveries,,2022,15-08-2001,612.9300522
+Iceland,Gasoline and diesel,Net Deliveries,,2022,30-05-2010,771.3483632
+Ireland,Gasoline and diesel,Net Deliveries,,2022,17-09-2022,879.3135281
+Israel,Gasoline and diesel,Net Deliveries,,2022,23-03-2020,707.3280118
+Italy,Gasoline and diesel,Net Deliveries,,2022,25-05-2013,708.2907809
+Japan,Gasoline and diesel,Net Deliveries,,2022,16-09-2021,540.994061
+South Korea,Gasoline and diesel,Net Deliveries,,2022,11-07-2020,613.5452223
+Latvia,Gasoline and diesel,Net Deliveries,,2022,15-05-2012,976.2240362
+Lithuania,Gasoline and diesel,Net Deliveries,,2022,12-07-2011,841.6197292
+Luxembourg,Gasoline and diesel,Net Deliveries,,2022,03-05-2022,518.4235847
+Mexico,Gasoline and diesel,Net Deliveries,,2022,14-02-2016,270.2025793
+Netherlands,Gasoline and diesel,Net Deliveries,,2022,07-06-2013,645.1771014
+Norway,Gasoline and diesel,Net Deliveries,,2022,26-08-2004,255.776527
+New Zealand,Gasoline and diesel,Net Deliveries,,2022,11-04-2017,574.5247755
+Poland,Gasoline and diesel,Net Deliveries,,2022,01-12-2009,274.0341773
+Portugal,Gasoline and diesel,Net Deliveries,,2022,11-09-2005,194.5358347
+Slovakia,Gasoline and diesel,Net Deliveries,,2022,09-10-2003,192.8810544
+Slovenia,Gasoline and diesel,Net Deliveries,,2022,01-09-2007,880.3304331
+Spain,Gasoline and diesel,Net Deliveries,,2022,02-06-2020,539.3642875
+Sweden,Gasoline and diesel,Net Deliveries,,2022,31-07-2004,662.1784296
+Switzerland,Gasoline and diesel,Net Deliveries,,2022,24-12-2014,589.2500895
+Türkiye,Gasoline and diesel,Net Deliveries,,2022,10-05-2004,523.5838141
+United Kingdom,Gasoline and diesel,Net Deliveries,,2022,27-07-2011,514.8901342
+United States,Gasoline and diesel,Net Deliveries,,2022,03-08-2012,380.4805686
+Australia,Gasoline and diesel,Net Deliveries,,2023,11-07-2002,215.2597488
+Austria,Gasoline and diesel,Net Deliveries,,2023,02-02-2020,370.4110024
+Belgium,Gasoline and diesel,Net Deliveries,,2023,23-09-2018,506.3131601
+Canada,Gasoline and diesel,Net Deliveries,,2023,27-10-2003,892.2898048
+Chile,Gasoline and diesel,Net Deliveries,,2023,09-06-2004,722.1306472
+Czech Republic,Gasoline and diesel,Net Deliveries,,2023,02-07-2017,679.0540583
+Denmark,Gasoline and diesel,Net Deliveries,,2023,16-02-2014,366.4587712
+Estonia,Gasoline and diesel,Net Deliveries,,2023,30-01-2003,853.5483344
+Finland,Gasoline and diesel,Net Deliveries,,2023,25-04-2020,563.4269256
+France,Gasoline and diesel,Net Deliveries,,2023,09-08-2013,509.010971
+Germany,Gasoline and diesel,Net Deliveries,,2023,22-10-2015,250.2325207
+Greece,Gasoline and diesel,Net Deliveries,,2023,14-02-2018,249.1597665
+Hungary,Gasoline and diesel,Net Deliveries,,2023,05-11-2020,165.9131948
+Iceland,Gasoline and diesel,Net Deliveries,,2023,08-09-2005,437.1591011
+Ireland,Gasoline and diesel,Net Deliveries,,2023,27-07-2010,641.3143911
+Israel,Gasoline and diesel,Net Deliveries,,2023,14-06-2004,527.8999707
+Italy,Gasoline and diesel,Net Deliveries,,2023,30-04-2020,194.5575146
+Japan,Gasoline and diesel,Net Deliveries,,2023,03-02-2018,165.9131951
+South Korea,Gasoline and diesel,Net Deliveries,,2023,14-01-2022,166.6920147
+Latvia,Gasoline and diesel,Net Deliveries,,2023,07-11-2023,872.6709246
+Lithuania,Gasoline and diesel,Net Deliveries,,2023,21-06-2009,510.3595995
+Luxembourg,Gasoline and diesel,Net Deliveries,,2023,03-10-2003,722.2601393
+Mexico,Gasoline and diesel,Net Deliveries,,2023,26-02-2006,488.6375566
+Netherlands,Gasoline and diesel,Net Deliveries,,2023,04-09-2015,675.4161612
+Norway,Gasoline and diesel,Net Deliveries,,2023,29-04-2007,232.4596246
+New Zealand,Gasoline and diesel,Net Deliveries,,2023,27-12-2007,146.799715
+Poland,Gasoline and diesel,Net Deliveries,,2023,03-01-2021,511.2294318
+Portugal,Gasoline and diesel,Net Deliveries,,2023,13-04-2022,774.1631611
+Slovakia,Gasoline and diesel,Net Deliveries,,2023,03-01-2012,632.0122053
+Slovenia,Gasoline and diesel,Net Deliveries,,2023,08-02-2013,534.6956218
+Spain,Gasoline and diesel,Net Deliveries,,2023,25-04-2014,974.009627
+Sweden,Gasoline and diesel,Net Deliveries,,2023,17-11-2019,793.6362491
+Switzerland,Gasoline and diesel,Net Deliveries,,2023,25-08-2004,115.7643994
+Türkiye,Gasoline and diesel,Net Deliveries,,2023,10-12-2020,738.1804702
+United Kingdom,Gasoline and diesel,Net Deliveries,,2023,08-10-2010,846.2969588
+United States,Gasoline and diesel,Net Deliveries,,2023,09-11-2019,932.172277
+Australia,Residual fuel oil,Net Deliveries,,2022,21-03-2007,852.6870252
+Austria,Residual fuel oil,Net Deliveries,,2022,11-03-2021,271.9028725
+Belgium,Residual fuel oil,Net Deliveries,,2022,30-10-2013,695.715307
+Canada,Residual fuel oil,Net Deliveries,,2022,24-09-2021,381.7381193
+Chile,Residual fuel oil,Net Deliveries,,2022,06-11-2009,529.976491
+Czech Republic,Residual fuel oil,Net Deliveries,,2022,02-12-2013,450.8081247
+Denmark,Residual fuel oil,Net Deliveries,,2022,05-03-2015,697.0431027
+Estonia,Residual fuel oil,Net Deliveries,,2022,26-11-2020,801.3518798
+Finland,Residual fuel oil,Net Deliveries,,2022,26-01-2023,362.281512
+France,Residual fuel oil,Net Deliveries,,2022,11-05-2005,921.0976373
+Germany,Residual fuel oil,Net Deliveries,,2022,04-09-2014,546.0683252
+Greece,Residual fuel oil,Net Deliveries,,2022,24-03-2013,864.6753936
+Hungary,Residual fuel oil,Net Deliveries,,2022,01-10-2024,791.8977449
+Iceland,Residual fuel oil,Net Deliveries,,2022,05-11-2009,424.6455795
+Ireland,Residual fuel oil,Net Deliveries,,2022,31-07-2005,111.2650858
+Israel,Residual fuel oil,Net Deliveries,,2022,20-03-2023,559.9698681
+Italy,Residual fuel oil,Net Deliveries,,2022,18-04-2021,717.3525413
+Japan,Residual fuel oil,Net Deliveries,,2022,29-07-2013,745.6643833
+South Korea,Residual fuel oil,Net Deliveries,,2022,16-02-2009,304.9811002
+Latvia,Residual fuel oil,Net Deliveries,,2022,09-08-2020,282.844922
+Lithuania,Residual fuel oil,Net Deliveries,,2022,29-04-2003,801.3199767
+Luxembourg,Residual fuel oil,Net Deliveries,,2022,26-03-2008,853.8002341
+Mexico,Residual fuel oil,Net Deliveries,,2022,16-08-2005,675.9180909
+Netherlands,Residual fuel oil,Net Deliveries,,2022,31-03-2020,513.7065519
+Norway,Residual fuel oil,Net Deliveries,,2022,28-04-2009,309.9321584
+New Zealand,Residual fuel oil,Net Deliveries,,2022,25-05-2025,862.8892257
+Poland,Residual fuel oil,Net Deliveries,,2022,13-04-2012,598.0525919
+Portugal,Residual fuel oil,Net Deliveries,,2022,02-08-2009,611.7619887
+Slovakia,Residual fuel oil,Net Deliveries,,2022,17-08-2022,586.0825186
+Slovenia,Residual fuel oil,Net Deliveries,,2022,15-07-2004,700.8579456
+Spain,Residual fuel oil,Net Deliveries,,2022,02-03-2019,640.9401207
+Sweden,Residual fuel oil,Net Deliveries,,2022,05-10-2012,114.1147947
+Switzerland,Residual fuel oil,Net Deliveries,,2022,04-07-2021,191.0074327
+Türkiye,Residual fuel oil,Net Deliveries,,2022,11-03-2021,933.4711521
+United Kingdom,Residual fuel oil,Net Deliveries,,2022,07-06-2012,297.1132974
+United States,Residual fuel oil,Net Deliveries,,2022,10-03-2014,321.9502845
+Australia,Residual fuel oil,Net Deliveries,,2023,14-04-2024,523.0111181
+Austria,Residual fuel oil,Net Deliveries,,2023,28-01-2014,155.1314097
+Belgium,Residual fuel oil,Net Deliveries,,2023,15-07-2021,410.9603218
+Canada,Residual fuel oil,Net Deliveries,,2023,31-10-2011,130.6730746
+Chile,Residual fuel oil,Net Deliveries,,2023,13-01-2001,971.0146632
+Czech Republic,Residual fuel oil,Net Deliveries,,2023,09-09-2017,764.9118442
+Denmark,Residual fuel oil,Net Deliveries,,2023,15-08-2005,164.5302405
+Estonia,Residual fuel oil,Net Deliveries,,2023,16-01-2015,659.7957602
+Finland,Residual fuel oil,Net Deliveries,,2023,25-11-2025,184.1672069
+France,Residual fuel oil,Net Deliveries,,2023,15-11-2005,998.9158423
+Germany,Residual fuel oil,Net Deliveries,,2023,03-08-2014,523.043993
+Greece,Residual fuel oil,Net Deliveries,,2023,24-08-2001,937.3037671
+Hungary,Residual fuel oil,Net Deliveries,,2023,16-04-2008,420.8835195
+Iceland,Residual fuel oil,Net Deliveries,,2023,21-09-2009,477.9903352
+Ireland,Residual fuel oil,Net Deliveries,,2023,02-12-2024,107.5007988
+Israel,Residual fuel oil,Net Deliveries,,2023,21-10-2022,596.3807079
+Italy,Residual fuel oil,Net Deliveries,,2023,22-05-2011,906.3463925
+Japan,Residual fuel oil,Net Deliveries,,2023,16-03-2020,941.2887896
+South Korea,Residual fuel oil,Net Deliveries,,2023,14-12-2006,854.8171371
+Latvia,Residual fuel oil,Net Deliveries,,2023,08-10-2023,609.8433613
+Lithuania,Residual fuel oil,Net Deliveries,,2023,25-06-2011,895.9688444
+Luxembourg,Residual fuel oil,Net Deliveries,,2023,24-06-2023,207.2671611
+Mexico,Residual fuel oil,Net Deliveries,,2023,22-03-2008,442.8043167
+Netherlands,Residual fuel oil,Net Deliveries,,2023,09-06-2013,872.7674476
+Norway,Residual fuel oil,Net Deliveries,,2023,23-03-2001,537.2205403
+New Zealand,Residual fuel oil,Net Deliveries,,2023,02-04-2015,547.8645566
+Poland,Residual fuel oil,Net Deliveries,,2023,08-01-2024,785.1471677
+Portugal,Residual fuel oil,Net Deliveries,,2023,01-01-2011,303.2508418
+Slovakia,Residual fuel oil,Net Deliveries,,2023,13-11-2018,519.9441857
+Slovenia,Residual fuel oil,Net Deliveries,,2023,09-07-2012,593.3845752
+Spain,Residual fuel oil,Net Deliveries,,2023,26-12-2022,233.8335401
+Sweden,Residual fuel oil,Net Deliveries,,2023,06-05-2004,620.7277405
+Switzerland,Residual fuel oil,Net Deliveries,,2023,30-10-2006,584.8715517
+Türkiye,Residual fuel oil,Net Deliveries,,2023,19-06-2014,422.3938846
+United Kingdom,Residual fuel oil,Net Deliveries,,2023,10-03-2001,682.7836317
+United States,Residual fuel oil,Net Deliveries,,2023,02-09-2003,610.0090835
+Australia,Other oil products,Net Deliveries,,2022,20-10-2016,814.008182
+Austria,Other oil products,Net Deliveries,,2022,11-07-2023,595.1549139
+Belgium,Other oil products,Net Deliveries,,2022,01-04-2021,269.9434605
+Canada,Other oil products,Net Deliveries,,2022,16-08-2015,632.6808827
+Chile,Other oil products,Net Deliveries,,2022,07-05-2010,937.7370467
+Czech Republic,Other oil products,Net Deliveries,,2022,30-06-2003,391.5526884
+Denmark,Other oil products,Net Deliveries,,2022,10-11-2009,892.8441117
+Estonia,Other oil products,Net Deliveries,,2022,07-04-2013,756.2877239
+Finland,Other oil products,Net Deliveries,,2022,11-01-2006,397.9385526
+France,Other oil products,Net Deliveries,,2022,01-12-2001,556.2357924
+Germany,Other oil products,Net Deliveries,,2022,09-07-2024,531.3804523
+Greece,Other oil products,Net Deliveries,,2022,20-07-2005,716.2537353
+Hungary,Other oil products,Net Deliveries,,2022,21-01-2008,329.3286463
+Iceland,Other oil products,Net Deliveries,,2022,01-10-2013,333.682712
+Ireland,Other oil products,Net Deliveries,,2022,18-07-2020,105.6646609
+Israel,Other oil products,Net Deliveries,,2022,21-12-2011,408.9320209
+Italy,Other oil products,Net Deliveries,,2022,03-06-2011,937.4196409
+Japan,Other oil products,Net Deliveries,,2022,14-07-2015,937.5635177
+South Korea,Other oil products,Net Deliveries,,2022,15-11-2019,403.9860496
+Latvia,Other oil products,Net Deliveries,,2022,13-07-2011,266.0377882
+Lithuania,Other oil products,Net Deliveries,,2022,25-01-2024,487.6288364
+Luxembourg,Other oil products,Net Deliveries,,2022,02-07-2024,177.4749995
+Mexico,Other oil products,Net Deliveries,,2022,04-03-2024,761.4519379
+Netherlands,Other oil products,Net Deliveries,,2022,05-12-2009,441.2424956
+Norway,Other oil products,Net Deliveries,,2022,21-09-2007,715.027964
+New Zealand,Other oil products,Net Deliveries,,2022,26-05-2012,512.7304924
+Poland,Other oil products,Net Deliveries,,2022,06-03-2012,664.8088809
+Portugal,Other oil products,Net Deliveries,,2022,26-07-2005,567.1704417
+Slovakia,Other oil products,Net Deliveries,,2022,23-08-2017,943.7842502
+Slovenia,Other oil products,Net Deliveries,,2022,03-12-2016,205.4153241
+Spain,Other oil products,Net Deliveries,,2022,09-01-2025,394.9204127
+Sweden,Other oil products,Net Deliveries,,2022,03-07-2025,433.0646083
+Switzerland,Other oil products,Net Deliveries,,2022,22-01-2022,787.6211604
+Türkiye,Other oil products,Net Deliveries,,2022,25-08-2007,302.1502066
+United Kingdom,Other oil products,Net Deliveries,,2022,07-08-2025,852.494723
+United States,Other oil products,Net Deliveries,,2022,11-09-2024,889.9828133
+Australia,Other oil products,Net Deliveries,,2023,15-08-2011,247.1237247
+Austria,Other oil products,Net Deliveries,,2023,20-02-2020,165.44951
+Belgium,Other oil products,Net Deliveries,,2023,27-06-2025,339.5671012
+Canada,Other oil products,Net Deliveries,,2023,03-01-2025,945.4173528
+Chile,Other oil products,Net Deliveries,,2023,15-05-2021,523.7294667
+Czech Republic,Other oil products,Net Deliveries,,2023,15-03-2018,646.3417874
+Denmark,Other oil products,Net Deliveries,,2023,15-02-2003,519.6933771
+Estonia,Other oil products,Net Deliveries,,2023,13-09-2022,305.7454006
+Finland,Other oil products,Net Deliveries,,2023,20-11-2001,884.64606
+France,Other oil products,Net Deliveries,,2023,03-02-2019,897.3455411
+Germany,Other oil products,Net Deliveries,,2023,16-01-2005,179.7576686
+Greece,Other oil products,Net Deliveries,,2023,08-05-2016,349.5215299
+Hungary,Other oil products,Net Deliveries,,2023,01-03-2020,742.7082778
+Iceland,Other oil products,Net Deliveries,,2023,25-02-2020,665.1486921
+Ireland,Other oil products,Net Deliveries,,2023,06-12-2007,302.1082977
+Israel,Other oil products,Net Deliveries,,2023,30-05-2023,621.7588764
+Italy,Other oil products,Net Deliveries,,2023,08-06-2013,986.0294894
+Japan,Other oil products,Net Deliveries,,2023,14-03-2023,483.7201106
+South Korea,Other oil products,Net Deliveries,,2023,09-04-2007,721.4298427
+Latvia,Other oil products,Net Deliveries,,2023,27-09-2008,230.375263
+Lithuania,Other oil products,Net Deliveries,,2023,15-08-2003,396.8590116
+Luxembourg,Other oil products,Net Deliveries,,2023,30-04-2018,690.9812625
+Mexico,Other oil products,Net Deliveries,,2023,23-07-2021,430.8475607
+Netherlands,Other oil products,Net Deliveries,,2023,24-08-2025,371.3555847
+Norway,Other oil products,Net Deliveries,,2023,10-08-2020,222.4027447
+New Zealand,Other oil products,Net Deliveries,,2023,11-08-2005,424.815864
+Poland,Other oil products,Net Deliveries,,2023,04-04-2007,356.8098448
+Portugal,Other oil products,Net Deliveries,,2023,29-01-2006,396.0647701
+Slovakia,Other oil products,Net Deliveries,,2023,26-12-2007,809.3234765
+Slovenia,Other oil products,Net Deliveries,,2023,17-05-2010,638.188303
+Spain,Other oil products,Net Deliveries,,2023,22-05-2005,691.0784646
+Sweden,Other oil products,Net Deliveries,,2023,15-05-2001,730.9850933
+Switzerland,Other oil products,Net Deliveries,,2023,28-12-2011,919.0804429
+Türkiye,Other oil products,Net Deliveries,,2023,20-05-2005,727.0803599
+United Kingdom,Other oil products,Net Deliveries,,2023,14-03-2014,532.3979814
+United States,Other oil products,Net Deliveries,,2023,23-11-2016,971.8057023
+Australia,Total oil products production,Net Deliveries,,2022,27-03-2009,804.8118006
+Austria,Total oil products production,Net Deliveries,,2022,24-07-2024,596.093361
+Belgium,Total oil products production,Net Deliveries,,2022,08-12-2009,948.4231489
+Canada,Total oil products production,Net Deliveries,,2022,05-01-2014,373.3143161
+Chile,Total oil products production,Net Deliveries,,2022,25-12-2002,266.6461755
+Czech Republic,Total oil products production,Net Deliveries,,2022,19-12-2003,117.7496366
+Denmark,Total oil products production,Net Deliveries,,2022,22-01-2004,249.3760744
+Estonia,Total oil products production,Net Deliveries,,2022,23-11-2019,729.4908227
+Finland,Total oil products production,Net Deliveries,,2022,20-05-2025,825.3113273
+France,Total oil products production,Net Deliveries,,2022,23-06-2021,487.3982015
+Germany,Total oil products production,Net Deliveries,,2022,17-03-2024,749.0473102
+Greece,Total oil products production,Net Deliveries,,2022,03-12-2022,295.4522895
+Hungary,Total oil products production,Net Deliveries,,2022,06-10-2025,306.0504817
+Iceland,Total oil products production,Net Deliveries,,2022,19-01-2001,433.8189541
+Ireland,Total oil products production,Net Deliveries,,2022,07-08-2011,579.4179294
+Israel,Total oil products production,Net Deliveries,,2022,26-10-2025,451.0522643
+Italy,Total oil products production,Net Deliveries,,2022,27-12-2023,617.010548
+Japan,Total oil products production,Net Deliveries,,2022,12-05-2008,140.7244482
+South Korea,Total oil products production,Net Deliveries,,2022,27-07-2024,466.0042475
+Latvia,Total oil products production,Net Deliveries,,2022,07-02-2019,247.1258394
+Lithuania,Total oil products production,Net Deliveries,,2022,06-07-2015,131.6015174
+Luxembourg,Total oil products production,Net Deliveries,,2022,27-09-2012,888.7088236
+Mexico,Total oil products production,Net Deliveries,,2022,27-02-2013,800.9381229
+Netherlands,Total oil products production,Net Deliveries,,2022,09-05-2008,644.4754628
+Norway,Total oil products production,Net Deliveries,,2022,13-05-2012,610.4267234
+New Zealand,Total oil products production,Net Deliveries,,2022,16-11-2009,449.7383048
+Poland,Total oil products production,Net Deliveries,,2022,03-06-2017,626.1390771
+Portugal,Total oil products production,Net Deliveries,,2022,11-03-2005,552.7139474
+Slovakia,Total oil products production,Net Deliveries,,2022,01-10-2009,582.617033
+Slovenia,Total oil products production,Net Deliveries,,2022,04-08-2008,479.6464757
+Spain,Total oil products production,Net Deliveries,,2022,11-10-2004,131.9333641
+Sweden,Total oil products production,Net Deliveries,,2022,24-03-2014,554.1622465
+Switzerland,Total oil products production,Net Deliveries,,2022,18-05-2020,947.9211175
+Türkiye,Total oil products production,Net Deliveries,,2022,13-11-2022,735.3376229
+United Kingdom,Total oil products production,Net Deliveries,,2022,10-08-2010,147.939938
+United States,Total oil products production,Net Deliveries,,2022,03-12-2003,574.4963734
+Australia,Total oil products production,Net Deliveries,,2023,11-02-2015,996.6452216
+Austria,Total oil products production,Net Deliveries,,2023,27-05-2013,594.5517663
+Belgium,Total oil products production,Net Deliveries,,2023,21-05-2021,149.4658936
+Canada,Total oil products production,Net Deliveries,,2023,17-08-2010,665.3399807
+Chile,Total oil products production,Net Deliveries,,2023,27-03-2022,501.8326502
+Czech Republic,Total oil products production,Net Deliveries,,2023,08-05-2002,485.5614535
+Denmark,Total oil products production,Net Deliveries,,2023,07-06-2011,871.5116573
+Estonia,Total oil products production,Net Deliveries,,2023,15-10-2004,580.6962063
+Finland,Total oil products production,Net Deliveries,,2023,15-08-2018,465.3763607
+France,Total oil products production,Net Deliveries,,2023,01-07-2016,830.8934288
+Germany,Total oil products production,Net Deliveries,,2023,04-12-2004,923.8105127
+Greece,Total oil products production,Net Deliveries,,2023,18-06-2024,178.2032404
+Hungary,Total oil products production,Net Deliveries,,2023,04-05-2014,640.3086162
+Iceland,Total oil products production,Net Deliveries,,2023,18-07-2015,799.6044008
+Ireland,Total oil products production,Net Deliveries,,2023,08-05-2010,958.6709561
+Israel,Total oil products production,Net Deliveries,,2023,01-11-2007,102.9466736
+Italy,Total oil products production,Net Deliveries,,2023,17-04-2007,263.8342037
+Japan,Total oil products production,Net Deliveries,,2023,21-03-2008,735.8186454
+South Korea,Total oil products production,Net Deliveries,,2023,31-08-2010,934.9760053
+Latvia,Total oil products production,Net Deliveries,,2023,19-06-2012,560.1174412
+Lithuania,Total oil products production,Net Deliveries,,2023,15-07-2012,596.228807
+Luxembourg,Total oil products production,Net Deliveries,,2023,18-07-2001,854.6625718
+Mexico,Total oil products production,Net Deliveries,,2023,31-03-2018,701.8881153
+Netherlands,Total oil products production,Net Deliveries,,2023,27-09-2011,580.5994902
+Norway,Total oil products production,Net Deliveries,,2023,24-11-2017,269.8426898
+New Zealand,Total oil products production,Net Deliveries,,2023,19-09-2014,239.4447568
+Poland,Total oil products production,Net Deliveries,,2023,04-03-2013,117.0774487
+Portugal,Total oil products production,Net Deliveries,,2023,23-05-2002,547.4745262
+Slovakia,Total oil products production,Net Deliveries,,2023,11-05-2016,135.9203372
+Slovenia,Total oil products production,Net Deliveries,,2023,05-11-2023,112.1543697
+Spain,Total oil products production,Net Deliveries,,2023,26-12-2003,855.9580207
+Sweden,Total oil products production,Net Deliveries,,2023,15-02-2005,282.2129111
+Switzerland,Total oil products production,Net Deliveries,,2023,05-04-2016,695.7808027
+Türkiye,Total oil products production,Net Deliveries,,2023,11-09-2003,934.728637
+United Kingdom,Total oil products production,Net Deliveries,,2023,29-01-2008,998.6453958
+United States,Total oil products production,Net Deliveries,,2023,25-04-2002,664.4090338
+Australia,Total oil production,Consumption Pattern,,2022,14-09-2007,314.3237961
+Austria,Total oil production,Consumption Pattern,,2022,07-09-2018,592.403145
+Belgium,Total oil production,Consumption Pattern,,2022,11-12-2002,614.5762151
+Canada,Total oil production,Consumption Pattern,,2022,18-04-2024,537.4433608
+Chile,Total oil production,Consumption Pattern,,2022,06-12-2009,740.0012172
+Czech Republic,Total oil production,Consumption Pattern,,2022,10-07-2010,101.6056485
+Denmark,Total oil production,Consumption Pattern,,2022,16-11-2008,193.776216
+Estonia,Total oil production,Consumption Pattern,,2022,28-01-2017,771.2675228
+Finland,Total oil production,Consumption Pattern,,2022,22-04-2023,779.6511415
+France,Total oil production,Consumption Pattern,,2022,23-10-2024,572.9963332
+Germany,Total oil production,Consumption Pattern,,2022,18-12-2002,999.685692
+Greece,Total oil production,Consumption Pattern,,2022,13-03-2005,272.5162474
+Hungary,Total oil production,Consumption Pattern,,2022,17-02-2010,381.6974858
+Iceland,Total oil production,Consumption Pattern,,2022,20-10-2004,973.9815478
+Ireland,Total oil production,Consumption Pattern,,2022,09-08-2010,604.9183696
+Israel,Total oil production,Consumption Pattern,,2022,22-03-2013,629.858002
+Italy,Total oil production,Consumption Pattern,,2022,12-01-2002,219.4772123
+Japan,Total oil production,Consumption Pattern,,2022,30-06-2008,268.6633223
+South Korea,Total oil production,Consumption Pattern,,2022,03-10-2009,521.8606827
+Latvia,Total oil production,Consumption Pattern,,2022,25-07-2020,453.2839927
+Lithuania,Total oil production,Consumption Pattern,,2022,21-11-2007,946.5586555
+Luxembourg,Total oil production,Consumption Pattern,,2022,11-12-2011,498.8943681
+Mexico,Total oil production,Consumption Pattern,,2022,14-07-2007,885.1564281
+Netherlands,Total oil production,Consumption Pattern,,2022,08-11-2002,359.4575843
+Norway,Total oil production,Consumption Pattern,,2022,22-02-2019,424.1314878
+New Zealand,Total oil production,Consumption Pattern,,2022,08-03-2014,654.3886463
+Poland,Total oil production,Consumption Pattern,,2022,14-02-2013,648.9281768
+Portugal,Total oil production,Consumption Pattern,,2022,16-06-2017,183.7827076
+Slovakia,Total oil production,Consumption Pattern,,2022,31-03-2010,366.4209249
+Slovenia,Total oil production,Consumption Pattern,,2022,22-07-2022,461.7184721
+Spain,Total oil production,Consumption Pattern,,2022,10-10-2025,130.418963
+Sweden,Total oil production,Consumption Pattern,,2022,21-12-2015,305.8811426
+Switzerland,Total oil production,Consumption Pattern,,2022,27-05-2004,629.4948063
+Türkiye,Total oil production,Consumption Pattern,,2022,07-10-2012,897.3190059
+United Kingdom,Total oil production,Consumption Pattern,,2022,13-02-2007,253.110538
+United States,Total oil production,Consumption Pattern,,2022,04-03-2005,493.4224541
+Australia,Total oil production,Consumption Pattern,,2023,10-03-2014,915.137113
+Austria,Total oil production,Consumption Pattern,,2023,01-05-2024,980.8763144
+Belgium,Total oil production,Consumption Pattern,,2023,28-12-2008,211.6596179
+Canada,Total oil production,Consumption Pattern,,2023,20-03-2009,222.2482235
+Chile,Total oil production,Consumption Pattern,,2023,10-03-2024,889.3718841
+Czech Republic,Total oil production,Consumption Pattern,,2023,21-10-2005,443.9326274
+Denmark,Total oil production,Consumption Pattern,,2023,23-03-2004,513.6669515
+Estonia,Total oil production,Consumption Pattern,,2023,05-05-2015,571.279563
+Finland,Total oil production,Consumption Pattern,,2023,07-12-2011,753.2348248
+France,Total oil production,Consumption Pattern,,2023,12-03-2018,968.3058423
+Germany,Total oil production,Consumption Pattern,,2023,22-05-2001,799.4230082
+Greece,Total oil production,Consumption Pattern,,2023,24-07-2024,316.0306427
+Hungary,Total oil production,Consumption Pattern,,2023,06-10-2016,654.6965384
+Iceland,Total oil production,Consumption Pattern,,2023,15-05-2010,273.6588811
+Ireland,Total oil production,Consumption Pattern,,2023,28-05-2006,163.9765175
+Israel,Total oil production,Consumption Pattern,,2023,31-12-2016,328.4218963
+Italy,Total oil production,Consumption Pattern,,2023,29-05-2018,588.6777705
+Japan,Total oil production,Consumption Pattern,,2023,09-07-2021,168.6338104
+South Korea,Total oil production,Consumption Pattern,,2023,15-11-2016,768.7762267
+Latvia,Total oil production,Consumption Pattern,,2023,11-06-2001,419.6791078
+Lithuania,Total oil production,Consumption Pattern,,2023,06-07-2013,843.6939792
+Luxembourg,Total oil production,Consumption Pattern,,2023,25-06-2008,416.2169489
+Mexico,Total oil production,Consumption Pattern,,2023,10-03-2017,687.5961288
+Netherlands,Total oil production,Consumption Pattern,,2023,18-05-2010,193.6256838
+Norway,Total oil production,Consumption Pattern,,2023,19-07-2020,665.8207999
+New Zealand,Total oil production,Consumption Pattern,,2023,30-05-2023,655.5945946
+Poland,Total oil production,Consumption Pattern,,2023,29-12-2018,325.0811968
+Portugal,Total oil production,Consumption Pattern,,2023,21-10-2011,109.9352903
+Slovakia,Total oil production,Consumption Pattern,,2023,28-12-2007,685.0956071
+Slovenia,Total oil production,Consumption Pattern,,2023,05-02-2008,146.7813151
+Spain,Total oil production,Consumption Pattern,,2023,23-09-2016,448.8114108
+Sweden,Total oil production,Consumption Pattern,,2023,29-01-2014,801.6110963
+Switzerland,Total oil production,Consumption Pattern,,2023,14-08-2014,300.5826903
+Türkiye,Total oil production,Consumption Pattern,,2023,28-03-2022,627.8858097
+United Kingdom,Total oil production,Consumption Pattern,,2023,24-09-2012,102.7393726
+United States,Total oil production,Consumption Pattern,,2023,19-01-2025,337.3581531
+Australia,Crude oil,Consumption Pattern,,2022,01-04-2014,782.9124441
+Austria,Crude oil,Consumption Pattern,,2022,15-10-2005,173.438523
+Belgium,Crude oil,Consumption Pattern,,2022,30-07-2007,593.6254035
+Canada,Crude oil,Consumption Pattern,,2022,24-08-2024,687.6505287
+Chile,Crude oil,Consumption Pattern,,2022,15-03-2015,400.9375262
+Czech Republic,Crude oil,Consumption Pattern,,2022,04-04-2005,834.3700275
+Denmark,Crude oil,Consumption Pattern,,2022,09-05-2007,758.0095369
+Estonia,Crude oil,Consumption Pattern,,2022,04-01-2024,289.1955069
+Finland,Crude oil,Consumption Pattern,,2022,21-04-2010,665.9705938
+France,Crude oil,Consumption Pattern,,2022,15-12-2014,422.3928818
+Germany,Crude oil,Consumption Pattern,,2022,05-10-2004,214.0305681
+Greece,Crude oil,Consumption Pattern,,2022,07-09-2014,130.7798806
+Hungary,Crude oil,Consumption Pattern,,2022,13-05-2010,520.5314075
+Iceland,Crude oil,Consumption Pattern,,2022,07-04-2006,638.1781036
+Ireland,Crude oil,Consumption Pattern,,2022,17-06-2003,696.4059391
+Israel,Crude oil,Consumption Pattern,,2022,30-03-2011,598.37675
+Italy,Crude oil,Consumption Pattern,,2022,13-08-2023,625.5569459
+Japan,Crude oil,Consumption Pattern,,2022,19-04-2024,684.6701878
+South Korea,Crude oil,Consumption Pattern,,2022,13-07-2001,884.7601417
+Latvia,Crude oil,Consumption Pattern,,2022,17-07-2025,979.2704929
+Lithuania,Crude oil,Consumption Pattern,,2022,25-07-2006,458.2710804
+Luxembourg,Crude oil,Consumption Pattern,,2022,18-04-2015,832.3235551
+Mexico,Crude oil,Consumption Pattern,,2022,26-04-2018,298.9477696
+Netherlands,Crude oil,Consumption Pattern,,2022,20-11-2019,584.1166358
+Norway,Crude oil,Consumption Pattern,,2022,18-10-2014,625.9253609
+New Zealand,Crude oil,Consumption Pattern,,2022,06-02-2023,142.3639486
+Poland,Crude oil,Consumption Pattern,,2022,18-01-2008,365.2433882
+Portugal,Crude oil,Consumption Pattern,,2022,02-03-2014,872.1959585
+Slovakia,Crude oil,Consumption Pattern,,2022,15-04-2011,104.0853157
+Slovenia,Crude oil,Consumption Pattern,,2022,16-10-2006,894.5846838
+Spain,Crude oil,Consumption Pattern,,2022,03-06-2014,849.5514031
+Sweden,Crude oil,Consumption Pattern,,2022,13-02-2013,314.2066729
+Switzerland,Crude oil,Consumption Pattern,,2022,09-04-2017,661.4109307
+Türkiye,Crude oil,Consumption Pattern,,2022,06-01-2009,813.2530939
+United Kingdom,Crude oil,Consumption Pattern,,2022,18-04-2010,987.8612073
+United States,Crude oil,Consumption Pattern,,2022,24-03-2022,263.2336418
+Australia,Crude oil,Consumption Pattern,,2023,21-07-2018,423.9651826
+Austria,Crude oil,Consumption Pattern,,2023,06-05-2004,464.5481737
+Belgium,Crude oil,Consumption Pattern,,2023,13-09-2009,685.5474397
+Canada,Crude oil,Consumption Pattern,,2023,24-06-2013,262.3679203
+Chile,Crude oil,Consumption Pattern,,2023,03-01-2020,360.449953
+Czech Republic,Crude oil,Consumption Pattern,,2023,31-05-2010,503.3713503
+Denmark,Crude oil,Consumption Pattern,,2023,07-03-2017,547.5427017
+Estonia,Crude oil,Consumption Pattern,,2023,26-02-2017,511.584857
+Finland,Crude oil,Consumption Pattern,,2023,10-01-2013,787.4959659
+France,Crude oil,Consumption Pattern,,2023,05-07-2003,217.1210614
+Germany,Crude oil,Consumption Pattern,,2023,16-08-2021,184.433898
+Greece,Crude oil,Consumption Pattern,,2023,29-07-2021,761.9966854
+Hungary,Crude oil,Consumption Pattern,,2023,04-11-2015,409.249985
+Iceland,Crude oil,Consumption Pattern,,2023,12-04-2023,216.531363
+Ireland,Crude oil,Consumption Pattern,,2023,25-10-2021,403.9420539
+Israel,Crude oil,Consumption Pattern,,2023,17-06-2008,382.6748482
+Italy,Crude oil,Consumption Pattern,,2023,27-10-2009,139.9833263
+Japan,Crude oil,Consumption Pattern,,2023,10-08-2004,305.0071691
+South Korea,Crude oil,Consumption Pattern,,2023,07-06-2017,627.7450373
+Latvia,Crude oil,Consumption Pattern,,2023,24-02-2007,399.8832615
+Lithuania,Crude oil,Consumption Pattern,,2023,21-03-2022,900.1520841
+Luxembourg,Crude oil,Consumption Pattern,,2023,21-11-2013,574.3907767
+Mexico,Crude oil,Consumption Pattern,,2023,12-01-2010,467.1196979
+Netherlands,Crude oil,Consumption Pattern,,2023,27-05-2015,986.939416
+Norway,Crude oil,Consumption Pattern,,2023,16-07-2023,938.2378464
+New Zealand,Crude oil,Consumption Pattern,,2023,25-12-2001,536.1498167
+Poland,Crude oil,Consumption Pattern,,2023,23-01-2008,447.5266377
+Portugal,Crude oil,Consumption Pattern,,2023,25-02-2006,753.7036922
+Slovakia,Crude oil,Consumption Pattern,,2023,02-10-2003,155.3340843
+Slovenia,Crude oil,Consumption Pattern,,2023,20-05-2020,185.2571141
+Spain,Crude oil,Consumption Pattern,,2023,29-09-2002,841.0992227
+Sweden,Crude oil,Consumption Pattern,,2023,22-07-2005,206.4218966
+Switzerland,Crude oil,Consumption Pattern,,2023,03-10-2019,961.9747075
+Türkiye,Crude oil,Consumption Pattern,,2023,05-06-2006,529.9975387
+United Kingdom,Crude oil,Consumption Pattern,,2023,27-12-2009,347.4806071
+United States,Crude oil,Consumption Pattern,,2023,03-12-2019,765.8511083
+Australia,Total oil products production,Consumption Pattern,,2022,12-05-2008,146.7095546
+Austria,Total oil products production,Consumption Pattern,,2022,17-09-2020,741.4999481
+Belgium,Total oil products production,Consumption Pattern,,2022,04-05-2016,200.3114698
+Canada,Total oil products production,Consumption Pattern,,2022,08-07-2009,116.6737081
+Chile,Total oil products production,Consumption Pattern,,2022,10-08-2020,724.8083272
+Czech Republic,Total oil products production,Consumption Pattern,,2022,08-11-2006,178.1317186
+Denmark,Total oil products production,Consumption Pattern,,2022,31-03-2006,870.8023892
+Estonia,Total oil products production,Consumption Pattern,,2022,21-04-2021,195.911513
+Finland,Total oil products production,Consumption Pattern,,2022,27-03-2008,549.8742317
+France,Total oil products production,Consumption Pattern,,2022,24-08-2004,597.101325
+Germany,Total oil products production,Consumption Pattern,,2022,29-10-2010,316.0721924
+Greece,Total oil products production,Consumption Pattern,,2022,21-05-2025,396.4708611
+Hungary,Total oil products production,Consumption Pattern,,2022,04-02-2012,253.0693404
+Iceland,Total oil products production,Consumption Pattern,,2022,13-12-2005,511.8566761
+Ireland,Total oil products production,Consumption Pattern,,2022,17-01-2009,465.4642773
+Israel,Total oil products production,Consumption Pattern,,2022,10-05-2024,602.36923
+Italy,Total oil products production,Consumption Pattern,,2022,30-05-2004,977.1747516
+Japan,Total oil products production,Consumption Pattern,,2022,23-03-2023,283.2411038
+South Korea,Total oil products production,Consumption Pattern,,2022,30-04-2024,702.209269
+Latvia,Total oil products production,Consumption Pattern,,2022,07-07-2006,508.5791627
+Lithuania,Total oil products production,Consumption Pattern,,2022,20-01-2017,105.4326101
+Luxembourg,Total oil products production,Consumption Pattern,,2022,05-11-2007,939.3770772
+Mexico,Total oil products production,Consumption Pattern,,2022,14-01-2014,140.3337039
+Netherlands,Total oil products production,Consumption Pattern,,2022,22-06-2013,775.1014454
+Norway,Total oil products production,Consumption Pattern,,2022,12-03-2016,824.4814543
+New Zealand,Total oil products production,Consumption Pattern,,2022,28-08-2001,795.3688206
+Poland,Total oil products production,Consumption Pattern,,2022,26-06-2019,563.7178884
+Portugal,Total oil products production,Consumption Pattern,,2022,14-12-2016,563.4643734
+Slovakia,Total oil products production,Consumption Pattern,,2022,25-12-2021,226.1326464
+Slovenia,Total oil products production,Consumption Pattern,,2022,13-05-2014,446.8814034
+Spain,Total oil products production,Consumption Pattern,,2022,21-08-2006,429.3882609
+Sweden,Total oil products production,Consumption Pattern,,2022,16-05-2008,381.8413767
+Switzerland,Total oil products production,Consumption Pattern,,2022,14-11-2017,472.873759
+Türkiye,Total oil products production,Consumption Pattern,,2022,07-09-2021,382.2597789
+United Kingdom,Total oil products production,Consumption Pattern,,2022,20-09-2007,489.0246429
+United States,Total oil products production,Consumption Pattern,,2022,01-07-2008,391.8568771
+Australia,Total oil products production,Consumption Pattern,,2023,02-06-2004,210.135286
+Austria,Total oil products production,Consumption Pattern,,2023,31-05-2010,393.5255937
+Belgium,Total oil products production,Consumption Pattern,,2023,21-10-2018,582.3089257
+Canada,Total oil products production,Consumption Pattern,,2023,16-07-2003,156.9844859
+Chile,Total oil products production,Consumption Pattern,,2023,27-04-2021,553.0506797
+Czech Republic,Total oil products production,Consumption Pattern,,2023,18-03-2009,156.5541524
+Denmark,Total oil products production,Consumption Pattern,,2023,30-06-2021,224.1688369
+Estonia,Total oil products production,Consumption Pattern,,2023,21-08-2005,564.3456016
+Finland,Total oil products production,Consumption Pattern,,2023,29-07-2011,576.5910023
+France,Total oil products production,Consumption Pattern,,2023,04-11-2024,471.5371689
+Germany,Total oil products production,Consumption Pattern,,2023,22-06-2009,348.0554365
+Greece,Total oil products production,Consumption Pattern,,2023,29-10-2009,457.3942212
+Hungary,Total oil products production,Consumption Pattern,,2023,29-05-2002,602.0974821
+Iceland,Total oil products production,Consumption Pattern,,2023,07-04-2001,516.6408665
+Ireland,Total oil products production,Consumption Pattern,,2023,05-11-2010,862.7093346
+Israel,Total oil products production,Consumption Pattern,,2023,30-08-2007,611.9950809
+Italy,Total oil products production,Consumption Pattern,,2023,29-03-2010,271.7963246
+Japan,Total oil products production,Consumption Pattern,,2023,05-05-2011,293.4237433
+South Korea,Total oil products production,Consumption Pattern,,2023,28-11-2018,405.6759979
+Latvia,Total oil products production,Consumption Pattern,,2023,16-06-2020,563.4661952
+Lithuania,Total oil products production,Consumption Pattern,,2023,05-01-2010,106.8039323
+Luxembourg,Total oil products production,Consumption Pattern,,2023,18-07-2003,266.2818355
+Mexico,Total oil products production,Consumption Pattern,,2023,09-07-2001,133.7330926
+Netherlands,Total oil products production,Consumption Pattern,,2023,31-08-2024,284.4262094
+Norway,Total oil products production,Consumption Pattern,,2023,02-10-2001,997.8019933
+New Zealand,Total oil products production,Consumption Pattern,,2023,12-08-2004,867.4686365
+Poland,Total oil products production,Consumption Pattern,,2023,29-03-2001,120.0521877
+Portugal,Total oil products production,Consumption Pattern,,2023,12-03-2009,110.0360567
+Slovakia,Total oil products production,Consumption Pattern,,2023,14-08-2004,395.1783204
+Slovenia,Total oil products production,Consumption Pattern,,2023,21-12-2016,447.7548773
+Spain,Total oil products production,Consumption Pattern,,2023,19-04-2005,774.2129959
+Sweden,Total oil products production,Consumption Pattern,,2023,06-09-2010,437.9187996
+Switzerland,Total oil products production,Consumption Pattern,,2023,02-01-2010,257.2832429
+Türkiye,Total oil products production,Consumption Pattern,,2023,06-09-2007,142.3808226
+United Kingdom,Total oil products production,Consumption Pattern,,2023,13-03-2008,694.9846482
+United States,Total oil products production,Consumption Pattern,,2023,16-09-2010,318.22565
+Australia,Total gas oil production,Consumption Pattern,,2022,03-09-2017,797.0524089
+Austria,Total gas oil production,Consumption Pattern,,2022,13-03-2001,528.9903176
+Belgium,Total gas oil production,Consumption Pattern,,2022,29-09-2020,251.3224459
+Canada,Total gas oil production,Consumption Pattern,,2022,28-08-2015,205.0167778
+Chile,Total gas oil production,Consumption Pattern,,2022,25-09-2003,871.8758637
+Czech Republic,Total gas oil production,Consumption Pattern,,2022,30-05-2025,504.2788603
+Denmark,Total gas oil production,Consumption Pattern,,2022,22-05-2020,906.5589517
+Estonia,Total gas oil production,Consumption Pattern,,2022,10-07-2020,810.3707252
+Finland,Total gas oil production,Consumption Pattern,,2022,25-08-2005,359.1744192
+France,Total gas oil production,Consumption Pattern,,2022,12-02-2007,980.1664276
+Germany,Total gas oil production,Consumption Pattern,,2022,12-06-2012,657.8275123
+Greece,Total gas oil production,Consumption Pattern,,2022,09-06-2002,478.7308187
+Hungary,Total gas oil production,Consumption Pattern,,2022,10-06-2012,494.3521983
+Iceland,Total gas oil production,Consumption Pattern,,2022,18-01-2002,895.2100156
+Ireland,Total gas oil production,Consumption Pattern,,2022,21-12-2007,506.9387705
+Israel,Total gas oil production,Consumption Pattern,,2022,08-10-2020,538.1257044
+Italy,Total gas oil production,Consumption Pattern,,2022,11-03-2007,854.8869337
+Japan,Total gas oil production,Consumption Pattern,,2022,14-07-2008,363.2791872
+South Korea,Total gas oil production,Consumption Pattern,,2022,15-01-2010,522.3307001
+Latvia,Total gas oil production,Consumption Pattern,,2022,31-01-2005,988.4594717
+Lithuania,Total gas oil production,Consumption Pattern,,2022,31-01-2016,865.5247359
+Luxembourg,Total gas oil production,Consumption Pattern,,2022,10-09-2001,962.7378963
+Mexico,Total gas oil production,Consumption Pattern,,2022,26-06-2019,399.1757951
+Netherlands,Total gas oil production,Consumption Pattern,,2022,21-09-2024,140.0960915
+Norway,Total gas oil production,Consumption Pattern,,2022,19-12-2024,331.6335162
+New Zealand,Total gas oil production,Consumption Pattern,,2022,06-01-2011,124.8658689
+Poland,Total gas oil production,Consumption Pattern,,2022,02-01-2017,667.6693138
+Portugal,Total gas oil production,Consumption Pattern,,2022,12-05-2010,405.8068815
+Slovakia,Total gas oil production,Consumption Pattern,,2022,04-07-2004,770.9592617
+Slovenia,Total gas oil production,Consumption Pattern,,2022,11-09-2012,556.2247924
+Spain,Total gas oil production,Consumption Pattern,,2022,24-02-2024,504.1417031
+Sweden,Total gas oil production,Consumption Pattern,,2022,15-11-2004,443.2002163
+Switzerland,Total gas oil production,Consumption Pattern,,2022,26-12-2012,920.5403005
+Türkiye,Total gas oil production,Consumption Pattern,,2022,09-11-2006,211.7121059
+United Kingdom,Total gas oil production,Consumption Pattern,,2022,08-01-2012,649.5761845
+United States,Total gas oil production,Consumption Pattern,,2022,22-06-2009,748.7807347
+Australia,Total gas oil production,Consumption Pattern,,2023,26-11-2023,845.0005207
+Austria,Total gas oil production,Consumption Pattern,,2023,23-05-2002,627.7512026
+Belgium,Total gas oil production,Consumption Pattern,,2023,07-10-2003,382.1554255
+Canada,Total gas oil production,Consumption Pattern,,2023,20-08-2019,551.2404344
+Chile,Total gas oil production,Consumption Pattern,,2023,29-10-2022,258.1907239
+Czech Republic,Total gas oil production,Consumption Pattern,,2023,08-10-2022,389.2062045
+Denmark,Total gas oil production,Consumption Pattern,,2023,26-01-2017,140.5987516
+Estonia,Total gas oil production,Consumption Pattern,,2023,20-05-2009,956.86098
+Finland,Total gas oil production,Consumption Pattern,,2023,10-09-2018,734.2010637
+France,Total gas oil production,Consumption Pattern,,2023,19-07-2016,241.5292746
+Germany,Total gas oil production,Consumption Pattern,,2023,02-04-2015,366.6609434
+Greece,Total gas oil production,Consumption Pattern,,2023,08-04-2012,364.1901932
+Hungary,Total gas oil production,Consumption Pattern,,2023,08-05-2025,387.7478657
+Iceland,Total gas oil production,Consumption Pattern,,2023,18-03-2015,272.9206446
+Ireland,Total gas oil production,Consumption Pattern,,2023,22-12-2015,313.1313466
+Israel,Total gas oil production,Consumption Pattern,,2023,25-04-2005,270.9443726
+Italy,Total gas oil production,Consumption Pattern,,2023,11-05-2012,202.8377242
+Japan,Total gas oil production,Consumption Pattern,,2023,30-04-2013,592.4554553
+South Korea,Total gas oil production,Consumption Pattern,,2023,16-06-2018,533.0141177
+Latvia,Total gas oil production,Consumption Pattern,,2023,26-03-2004,139.2006563
+Lithuania,Total gas oil production,Consumption Pattern,,2023,09-03-2011,505.3774924
+Luxembourg,Total gas oil production,Consumption Pattern,,2023,17-02-2019,191.819577
+Mexico,Total gas oil production,Consumption Pattern,,2023,25-07-2012,779.1650013
+Netherlands,Total gas oil production,Consumption Pattern,,2023,13-10-2013,901.0507592
+Norway,Total gas oil production,Consumption Pattern,,2023,27-10-2024,604.5213147
+New Zealand,Total gas oil production,Consumption Pattern,,2023,06-06-2014,934.0049303
+Poland,Total gas oil production,Consumption Pattern,,2023,16-11-2003,354.2934948
+Portugal,Total gas oil production,Consumption Pattern,,2023,08-07-2019,131.1377867
+Slovakia,Total gas oil production,Consumption Pattern,,2023,07-03-2017,142.3131826
+Slovenia,Total gas oil production,Consumption Pattern,,2023,06-11-2024,373.1764957
+Spain,Total gas oil production,Consumption Pattern,,2023,14-01-2014,297.4663717
+Sweden,Total gas oil production,Consumption Pattern,,2023,22-07-2007,528.5136478
+Switzerland,Total gas oil production,Consumption Pattern,,2023,16-12-2011,838.1246395
+Türkiye,Total gas oil production,Consumption Pattern,,2023,09-08-2015,761.9429594
+United Kingdom,Total gas oil production,Consumption Pattern,,2023,05-10-2015,658.5563666
+United States,Total gas oil production,Consumption Pattern,,2023,15-06-2011,908.8501278
+Australia,Middle distillates,Consumption Pattern,,2022,21-06-2023,889.7633483
+Austria,Middle distillates,Consumption Pattern,,2022,24-10-2021,191.3144367
+Belgium,Middle distillates,Consumption Pattern,,2022,02-10-2023,857.6315513
+Canada,Middle distillates,Consumption Pattern,,2022,08-02-2016,941.2827021
+Chile,Middle distillates,Consumption Pattern,,2022,29-10-2013,274.2710183
+Czech Republic,Middle distillates,Consumption Pattern,,2022,28-06-2015,514.6618405
+Denmark,Middle distillates,Consumption Pattern,,2022,03-06-2021,856.7901304
+Estonia,Middle distillates,Consumption Pattern,,2022,05-04-2006,161.9445928
+Finland,Middle distillates,Consumption Pattern,,2022,14-10-2004,126.9290455
+France,Middle distillates,Consumption Pattern,,2022,20-06-2015,233.872659
+Germany,Middle distillates,Consumption Pattern,,2022,24-11-2008,973.114603
+Greece,Middle distillates,Consumption Pattern,,2022,09-11-2001,962.9559272
+Hungary,Middle distillates,Consumption Pattern,,2022,13-09-2009,730.7590082
+Iceland,Middle distillates,Consumption Pattern,,2022,24-02-2015,713.3333158
+Ireland,Middle distillates,Consumption Pattern,,2022,17-04-2005,852.2305856
+Israel,Middle distillates,Consumption Pattern,,2022,19-02-2015,118.8099908
+Italy,Middle distillates,Consumption Pattern,,2022,17-04-2024,844.2875542
+Japan,Middle distillates,Consumption Pattern,,2022,25-05-2014,816.0200062
+South Korea,Middle distillates,Consumption Pattern,,2022,26-06-2017,817.2979523
+Latvia,Middle distillates,Consumption Pattern,,2022,30-07-2025,579.4143009
+Lithuania,Middle distillates,Consumption Pattern,,2022,23-10-2014,637.1411664
+Luxembourg,Middle distillates,Consumption Pattern,,2022,22-12-2013,118.0077734
+Mexico,Middle distillates,Consumption Pattern,,2022,22-10-2002,704.2759144
+Netherlands,Middle distillates,Consumption Pattern,,2022,20-01-2006,216.2075513
+Norway,Middle distillates,Consumption Pattern,,2022,23-09-2016,446.6102269
+New Zealand,Middle distillates,Consumption Pattern,,2022,27-12-2016,737.9980617
+Poland,Middle distillates,Consumption Pattern,,2022,08-04-2012,990.198943
+Portugal,Middle distillates,Consumption Pattern,,2022,06-11-2002,210.0490771
+Slovakia,Middle distillates,Consumption Pattern,,2022,03-12-2012,197.632474
+Slovenia,Middle distillates,Consumption Pattern,,2022,29-08-2020,833.6132219
+Spain,Middle distillates,Consumption Pattern,,2022,11-03-2003,802.3969582
+Sweden,Middle distillates,Consumption Pattern,,2022,09-05-2025,700.0147699
+Switzerland,Middle distillates,Consumption Pattern,,2022,02-04-2023,398.28498
+Türkiye,Middle distillates,Consumption Pattern,,2022,03-03-2010,918.492578
+United Kingdom,Middle distillates,Consumption Pattern,,2022,09-11-2015,769.227559
+United States,Middle distillates,Consumption Pattern,,2022,24-09-2001,786.2206511
+Australia,Middle distillates,Consumption Pattern,,2023,10-07-2012,606.9121103
+Austria,Middle distillates,Consumption Pattern,,2023,23-10-2020,233.742232
+Belgium,Middle distillates,Consumption Pattern,,2023,11-09-2010,109.2910329
+Canada,Middle distillates,Consumption Pattern,,2023,21-10-2017,832.1791736
+Chile,Middle distillates,Consumption Pattern,,2023,24-04-2014,908.6899033
+Czech Republic,Middle distillates,Consumption Pattern,,2023,17-03-2012,226.3064702
+Denmark,Middle distillates,Consumption Pattern,,2023,27-09-2016,547.7309118
+Estonia,Middle distillates,Consumption Pattern,,2023,17-12-2003,282.4813654
+Finland,Middle distillates,Consumption Pattern,,2023,07-02-2023,257.6369934
+France,Middle distillates,Consumption Pattern,,2023,21-09-2003,692.743708
+Germany,Middle distillates,Consumption Pattern,,2023,30-08-2005,596.7483717
+Greece,Middle distillates,Consumption Pattern,,2023,13-08-2021,703.6208268
+Hungary,Middle distillates,Consumption Pattern,,2023,31-10-2023,488.5471674
+Iceland,Middle distillates,Consumption Pattern,,2023,25-12-2008,629.8098816
+Ireland,Middle distillates,Consumption Pattern,,2023,21-03-2012,929.7579426
+Israel,Middle distillates,Consumption Pattern,,2023,27-02-2016,508.9085332
+Italy,Middle distillates,Consumption Pattern,,2023,25-10-2015,263.5948284
+Japan,Middle distillates,Consumption Pattern,,2023,19-10-2022,174.0153067
+South Korea,Middle distillates,Consumption Pattern,,2023,03-01-2015,704.326877
+Latvia,Middle distillates,Consumption Pattern,,2023,18-03-2022,993.6463695
+Lithuania,Middle distillates,Consumption Pattern,,2023,04-12-2021,447.2750311
+Luxembourg,Middle distillates,Consumption Pattern,,2023,26-02-2011,134.0884307
+Mexico,Middle distillates,Consumption Pattern,,2023,13-01-2004,701.4899041
+Netherlands,Middle distillates,Consumption Pattern,,2023,14-03-2018,713.8578741
+Norway,Middle distillates,Consumption Pattern,,2023,21-02-2001,695.5532788
+New Zealand,Middle distillates,Consumption Pattern,,2023,06-08-2014,885.1519049
+Poland,Middle distillates,Consumption Pattern,,2023,09-07-2016,899.7769248
+Portugal,Middle distillates,Consumption Pattern,,2023,25-04-2004,137.3844659
+Slovakia,Middle distillates,Consumption Pattern,,2023,20-12-2013,344.0444419
+Slovenia,Middle distillates,Consumption Pattern,,2023,26-10-2002,924.7286617
+Spain,Middle distillates,Consumption Pattern,,2023,12-06-2005,854.0618894
+Sweden,Middle distillates,Consumption Pattern,,2023,30-06-2021,250.9690697
+Switzerland,Middle distillates,Consumption Pattern,,2023,19-05-2021,973.4237952
+Türkiye,Middle distillates,Consumption Pattern,,2023,09-10-2010,384.8629281
+United Kingdom,Middle distillates,Consumption Pattern,,2023,04-04-2012,345.2562388
+United States,Middle distillates,Consumption Pattern,,2023,13-05-2010,256.3194738
+Australia,Residual fuel oil,Consumption Pattern,,2022,25-09-2018,794.7257483
+Austria,Residual fuel oil,Consumption Pattern,,2022,11-01-2011,663.6905999
+Belgium,Residual fuel oil,Consumption Pattern,,2022,24-01-2014,833.3703843
+Canada,Residual fuel oil,Consumption Pattern,,2022,12-09-2012,550.1133186
+Chile,Residual fuel oil,Consumption Pattern,,2022,17-09-2022,527.4176697
+Czech Republic,Residual fuel oil,Consumption Pattern,,2022,15-12-2022,237.5449031
+Denmark,Residual fuel oil,Consumption Pattern,,2022,27-07-2024,813.1221036
+Estonia,Residual fuel oil,Consumption Pattern,,2022,04-03-2004,802.5247506
+Finland,Residual fuel oil,Consumption Pattern,,2022,13-11-2006,768.4828299
+France,Residual fuel oil,Consumption Pattern,,2022,28-10-2017,871.3152685
+Germany,Residual fuel oil,Consumption Pattern,,2022,13-02-2007,675.3086634
+Greece,Residual fuel oil,Consumption Pattern,,2022,18-10-2025,417.2632917
+Hungary,Residual fuel oil,Consumption Pattern,,2022,08-10-2008,643.6883375
+Iceland,Residual fuel oil,Consumption Pattern,,2022,24-12-2004,139.6192275
+Ireland,Residual fuel oil,Consumption Pattern,,2022,15-11-2020,464.2760319
+Israel,Residual fuel oil,Consumption Pattern,,2022,25-06-2008,995.1974497
+Italy,Residual fuel oil,Consumption Pattern,,2022,03-10-2015,740.8349975
+Japan,Residual fuel oil,Consumption Pattern,,2022,01-08-2022,755.5473554
+South Korea,Residual fuel oil,Consumption Pattern,,2022,07-07-2006,155.8906721
+Latvia,Residual fuel oil,Consumption Pattern,,2022,25-05-2011,794.3075263
+Lithuania,Residual fuel oil,Consumption Pattern,,2022,31-05-2020,560.1666464
+Luxembourg,Residual fuel oil,Consumption Pattern,,2022,10-07-2010,558.2550648
+Mexico,Residual fuel oil,Consumption Pattern,,2022,09-06-2008,256.9252216
+Netherlands,Residual fuel oil,Consumption Pattern,,2022,09-05-2021,699.8358505
+Norway,Residual fuel oil,Consumption Pattern,,2022,29-03-2012,326.4146976
+New Zealand,Residual fuel oil,Consumption Pattern,,2022,28-05-2021,260.986959
+Poland,Residual fuel oil,Consumption Pattern,,2022,17-07-2008,707.5090268
+Portugal,Residual fuel oil,Consumption Pattern,,2022,22-02-2012,135.3863487
+Slovakia,Residual fuel oil,Consumption Pattern,,2022,15-09-2009,132.3187386
+Slovenia,Residual fuel oil,Consumption Pattern,,2022,07-10-2003,963.8034687
+Spain,Residual fuel oil,Consumption Pattern,,2022,19-09-2009,460.7210011
+Sweden,Residual fuel oil,Consumption Pattern,,2022,09-08-2017,808.8599463
+Switzerland,Residual fuel oil,Consumption Pattern,,2022,25-08-2003,710.1336728
+Türkiye,Residual fuel oil,Consumption Pattern,,2022,12-07-2009,726.8642469
+United Kingdom,Residual fuel oil,Consumption Pattern,,2022,28-11-2012,151.4585702
+United States,Residual fuel oil,Consumption Pattern,,2022,09-12-2023,681.8801169
+Australia,Residual fuel oil,Consumption Pattern,,2023,09-08-2020,106.5359572
+Austria,Residual fuel oil,Consumption Pattern,,2023,01-10-2018,316.936714
+Belgium,Residual fuel oil,Consumption Pattern,,2023,27-09-2024,298.9498811
+Canada,Residual fuel oil,Consumption Pattern,,2023,12-08-2003,492.7475797
+Chile,Residual fuel oil,Consumption Pattern,,2023,09-05-2004,624.820923
+Czech Republic,Residual fuel oil,Consumption Pattern,,2023,22-08-2020,225.3797887
+Denmark,Residual fuel oil,Consumption Pattern,,2023,23-11-2022,809.5873264
+Estonia,Residual fuel oil,Consumption Pattern,,2023,01-05-2021,410.6986941
+Finland,Residual fuel oil,Consumption Pattern,,2023,27-04-2018,345.5645553
+France,Residual fuel oil,Consumption Pattern,,2023,22-10-2001,301.3662716
+Germany,Residual fuel oil,Consumption Pattern,,2023,13-02-2013,703.1061687
+Greece,Residual fuel oil,Consumption Pattern,,2023,18-11-2003,406.9482712
+Hungary,Residual fuel oil,Consumption Pattern,,2023,09-08-2023,607.6923392
+Iceland,Residual fuel oil,Consumption Pattern,,2023,27-09-2005,874.4308813
+Ireland,Residual fuel oil,Consumption Pattern,,2023,21-02-2024,642.239057
+Israel,Residual fuel oil,Consumption Pattern,,2023,14-01-2023,760.2839596
+Italy,Residual fuel oil,Consumption Pattern,,2023,22-10-2002,388.6512141
+Japan,Residual fuel oil,Consumption Pattern,,2023,14-05-2004,546.2736734
+South Korea,Residual fuel oil,Consumption Pattern,,2023,12-08-2014,235.6694956
+Latvia,Residual fuel oil,Consumption Pattern,,2023,09-02-2007,438.5966495
+Lithuania,Residual fuel oil,Consumption Pattern,,2023,31-12-2019,339.7033459
+Luxembourg,Residual fuel oil,Consumption Pattern,,2023,22-07-2024,139.9299821
+Mexico,Residual fuel oil,Consumption Pattern,,2023,04-05-2010,853.5274135
+Netherlands,Residual fuel oil,Consumption Pattern,,2023,13-12-2022,516.835323
+Norway,Residual fuel oil,Consumption Pattern,,2023,25-05-2009,789.4939223
+New Zealand,Residual fuel oil,Consumption Pattern,,2023,13-01-2014,120.9344975
+Poland,Residual fuel oil,Consumption Pattern,,2023,12-04-2016,928.9726222
+Portugal,Residual fuel oil,Consumption Pattern,,2023,11-07-2012,409.9096976
+Slovakia,Residual fuel oil,Consumption Pattern,,2023,27-06-2013,974.4162978
+Slovenia,Residual fuel oil,Consumption Pattern,,2023,23-03-2019,298.4204301
+Spain,Residual fuel oil,Consumption Pattern,,2023,19-01-2021,696.3932085
+Sweden,Residual fuel oil,Consumption Pattern,,2023,26-10-2019,235.5910025
+Switzerland,Residual fuel oil,Consumption Pattern,,2023,17-08-2009,128.0999606
+Türkiye,Residual fuel oil,Consumption Pattern,,2023,09-01-2010,296.6685605
+United Kingdom,Residual fuel oil,Consumption Pattern,,2023,27-12-2012,361.0535514
+United States,Residual fuel oil,Consumption Pattern,,2023,04-10-2001,713.7816602
+Australia,Total oil production,Storage Channelization,,2023,12-03-2016,247.4895333
+Austria,Total oil production,Storage Channelization,,2023,09-11-2002,433.6655381
+Belgium,Total oil production,Storage Channelization,,2023,14-10-2005,921.8174542
+Canada,Total oil production,Storage Channelization,,2023,23-01-2013,574.0641139
+Chile,Total oil production,Storage Channelization,,2023,11-02-2020,943.8578573
+Czech Republic,Total oil production,Storage Channelization,,2023,11-03-2023,819.2544482
+Denmark,Total oil production,Storage Channelization,,2023,07-09-2004,845.590774
+Estonia,Total oil production,Storage Channelization,,2023,01-12-2001,633.2877367
+Finland,Total oil production,Storage Channelization,,2023,05-11-2007,328.9307802
+France,Total oil production,Storage Channelization,,2023,04-10-2024,483.830032
+Germany,Total oil production,Storage Channelization,,2023,10-10-2017,464.6932226
+Greece,Total oil production,Storage Channelization,,2023,24-04-2001,901.4342032
+Hungary,Total oil production,Storage Channelization,,2023,24-08-2004,387.8239914
+Iceland,Total oil production,Storage Channelization,,2023,16-04-2023,822.9521677
+Ireland,Total oil production,Storage Channelization,,2023,23-01-2018,883.5673644
+Israel,Total oil production,Storage Channelization,,2023,15-08-2001,507.1909243
+Italy,Total oil production,Storage Channelization,,2023,03-12-2011,456.4132813
+Japan,Total oil production,Storage Channelization,,2023,28-02-2014,241.2509706
+South Korea,Total oil production,Storage Channelization,,2023,15-11-2009,105.9380339
+Latvia,Total oil production,Storage Channelization,,2023,15-02-2009,228.639913
+Lithuania,Total oil production,Storage Channelization,,2023,26-10-2021,823.7414777
+Luxembourg,Total oil production,Storage Channelization,,2023,09-04-2019,638.1316893
+Mexico,Total oil production,Storage Channelization,,2023,19-10-2020,885.5124018
+Netherlands,Total oil production,Storage Channelization,,2023,26-11-2011,119.9730009
+Norway,Total oil production,Storage Channelization,,2023,23-12-2014,557.4213953
+New Zealand,Total oil production,Storage Channelization,,2023,22-10-2009,344.4328547
+Poland,Total oil production,Storage Channelization,,2023,30-04-2001,203.6983349
+Portugal,Total oil production,Storage Channelization,,2023,05-08-2004,476.4302949
+Slovakia,Total oil production,Storage Channelization,,2023,16-02-2002,265.4916723
+Slovenia,Total oil production,Storage Channelization,,2023,05-09-2023,491.3143989
+Spain,Total oil production,Storage Channelization,,2023,18-01-2020,726.788598
+Sweden,Total oil production,Storage Channelization,,2023,07-09-2019,465.0859699
+Switzerland,Total oil production,Storage Channelization,,2023,14-09-2006,773.4145082
+Türkiye,Total oil production,Storage Channelization,,2023,22-10-2019,727.2089482
+United Kingdom,Total oil production,Storage Channelization,,2023,22-06-2016,364.8831658
+United States,Total oil production,Storage Channelization,,2023,28-06-2007,510.5775827
+Australia,Crude oil,Storage Channelization,,2023,09-04-2011,558.2660858
+Austria,Crude oil,Storage Channelization,,2023,02-10-2011,511.6908555
+Belgium,Crude oil,Storage Channelization,,2023,07-05-2016,816.4901969
+Canada,Crude oil,Storage Channelization,,2023,22-01-2004,625.486183
+Chile,Crude oil,Storage Channelization,,2023,12-09-2006,145.1112262
+Czech Republic,Crude oil,Storage Channelization,,2023,27-05-2024,928.1950172
+Denmark,Crude oil,Storage Channelization,,2023,20-02-2011,521.3843905
+Estonia,Crude oil,Storage Channelization,,2023,29-12-2016,707.0488129
+Finland,Crude oil,Storage Channelization,,2023,03-04-2004,673.2620473
+France,Crude oil,Storage Channelization,,2023,10-08-2012,790.674457
+Germany,Crude oil,Storage Channelization,,2023,11-08-2005,700.292724
+Greece,Crude oil,Storage Channelization,,2023,03-07-2001,463.9410457
+Hungary,Crude oil,Storage Channelization,,2023,30-12-2004,895.2125068
+Iceland,Crude oil,Storage Channelization,,2023,13-09-2018,677.6049412
+Ireland,Crude oil,Storage Channelization,,2023,27-02-2005,287.0222681
+Israel,Crude oil,Storage Channelization,,2023,23-12-2016,781.2318803
+Italy,Crude oil,Storage Channelization,,2023,14-10-2009,847.0850559
+Japan,Crude oil,Storage Channelization,,2023,15-10-2023,331.8671348
+South Korea,Crude oil,Storage Channelization,,2023,21-08-2004,853.2985067
+Latvia,Crude oil,Storage Channelization,,2023,02-04-2002,350.7478685
+Lithuania,Crude oil,Storage Channelization,,2023,09-05-2003,161.2379523
+Luxembourg,Crude oil,Storage Channelization,,2023,15-03-2024,337.4442233
+Mexico,Crude oil,Storage Channelization,,2023,31-10-2011,226.9417014
+Netherlands,Crude oil,Storage Channelization,,2023,01-02-2006,833.2816738
+Norway,Crude oil,Storage Channelization,,2023,18-01-2013,859.0751843
+New Zealand,Crude oil,Storage Channelization,,2023,22-03-2016,861.3393228
+Poland,Crude oil,Storage Channelization,,2023,10-11-2010,845.3641974
+Portugal,Crude oil,Storage Channelization,,2023,08-02-2008,633.0988261
+Slovakia,Crude oil,Storage Channelization,,2023,06-03-2017,809.5906695
+Slovenia,Crude oil,Storage Channelization,,2023,14-05-2001,431.843918
+Spain,Crude oil,Storage Channelization,,2023,04-05-2016,947.188663
+Sweden,Crude oil,Storage Channelization,,2023,19-10-2009,346.8317809
+Switzerland,Crude oil,Storage Channelization,,2023,27-06-2001,165.1292016
+Türkiye,Crude oil,Storage Channelization,,2023,25-09-2019,377.2663191
+United Kingdom,Crude oil,Storage Channelization,,2023,09-03-2024,256.8819621
+United States,Crude oil,Storage Channelization,,2023,04-06-2010,604.5400987
+Australia,Total oil products production,Storage Channelization,,2023,22-03-2009,234.3955145
+Austria,Total oil products production,Storage Channelization,,2023,26-10-2023,427.6305679
+Belgium,Total oil products production,Storage Channelization,,2023,09-10-2015,467.7438263
+Canada,Total oil products production,Storage Channelization,,2023,28-02-2007,865.5970681
+Chile,Total oil products production,Storage Channelization,,2023,11-07-2024,656.5212211
+Czech Republic,Total oil products production,Storage Channelization,,2023,16-09-2019,813.2613415
+Denmark,Total oil products production,Storage Channelization,,2023,01-04-2022,489.3600727
+Estonia,Total oil products production,Storage Channelization,,2023,17-03-2024,906.8148099
+Finland,Total oil products production,Storage Channelization,,2023,30-03-2013,101.5193396
+France,Total oil products production,Storage Channelization,,2023,21-05-2005,171.9693759
+Germany,Total oil products production,Storage Channelization,,2023,02-05-2020,420.6978446
+Greece,Total oil products production,Storage Channelization,,2023,19-09-2002,417.2638751
+Hungary,Total oil products production,Storage Channelization,,2023,14-10-2020,475.4745946
+Iceland,Total oil products production,Storage Channelization,,2023,06-08-2010,939.4670216
+Ireland,Total oil products production,Storage Channelization,,2023,03-06-2025,500.521879
+Israel,Total oil products production,Storage Channelization,,2023,21-02-2012,110.1351113
+Italy,Total oil products production,Storage Channelization,,2023,01-11-2006,882.9056974
+Japan,Total oil products production,Storage Channelization,,2023,08-04-2008,518.2160401
+South Korea,Total oil products production,Storage Channelization,,2023,08-11-2020,687.6053421
+Latvia,Total oil products production,Storage Channelization,,2023,04-04-2004,101.4967143
+Lithuania,Total oil products production,Storage Channelization,,2023,11-03-2009,287.475218
+Luxembourg,Total oil products production,Storage Channelization,,2023,21-12-2012,766.0808264
+Mexico,Total oil products production,Storage Channelization,,2023,05-05-2024,482.2132987
+Netherlands,Total oil products production,Storage Channelization,,2023,23-11-2022,508.6013226
+Norway,Total oil products production,Storage Channelization,,2023,23-02-2018,887.851777
+New Zealand,Total oil products production,Storage Channelization,,2023,26-04-2013,667.6352508
+Poland,Total oil products production,Storage Channelization,,2023,22-01-2017,975.0221396
+Portugal,Total oil products production,Storage Channelization,,2023,17-11-2007,355.9229379
+Slovakia,Total oil products production,Storage Channelization,,2023,21-10-2015,244.4364096
+Slovenia,Total oil products production,Storage Channelization,,2023,11-05-2001,240.0223497
+Spain,Total oil products production,Storage Channelization,,2023,08-10-2012,672.6787512
+Sweden,Total oil products production,Storage Channelization,,2023,05-05-2018,229.0878737
+Switzerland,Total oil products production,Storage Channelization,,2023,03-12-2011,884.0597431
+Türkiye,Total oil products production,Storage Channelization,,2023,22-05-2019,609.5223642
+United Kingdom,Total oil products production,Storage Channelization,,2023,20-03-2002,245.2776487
+United States,Total oil products production,Storage Channelization,,2023,24-06-2021,549.9589961
+Australia,Total gas oil production,Storage Channelization,,2023,15-07-2018,112.2137816
+Austria,Total gas oil production,Storage Channelization,,2023,24-03-2021,176.5922337
+Belgium,Total gas oil production,Storage Channelization,,2023,10-06-2023,167.5269013
+Canada,Total gas oil production,Storage Channelization,,2023,30-01-2007,731.0141091
+Chile,Total gas oil production,Storage Channelization,,2023,06-09-2010,371.1042024
+Czech Republic,Total gas oil production,Storage Channelization,,2023,05-02-2001,239.6854155
+Denmark,Total gas oil production,Storage Channelization,,2023,20-06-2001,993.057174
+Estonia,Total gas oil production,Storage Channelization,,2023,06-02-2014,817.116775
+Finland,Total gas oil production,Storage Channelization,,2023,14-06-2009,822.6790592
+France,Total gas oil production,Storage Channelization,,2023,25-10-2004,215.4647058
+Germany,Total gas oil production,Storage Channelization,,2023,09-04-2021,306.3224615
+Greece,Total gas oil production,Storage Channelization,,2023,22-03-2016,351.5046214
+Hungary,Total gas oil production,Storage Channelization,,2023,06-05-2014,288.7842191
+Iceland,Total gas oil production,Storage Channelization,,2023,20-08-2009,836.5278387
+Ireland,Total gas oil production,Storage Channelization,,2023,07-03-2014,184.6412484
+Israel,Total gas oil production,Storage Channelization,,2023,23-10-2018,767.4119603
+Italy,Total gas oil production,Storage Channelization,,2023,07-02-2009,937.5812381
+Japan,Total gas oil production,Storage Channelization,,2023,02-09-2011,563.6709123
+South Korea,Total gas oil production,Storage Channelization,,2023,18-09-2014,876.9103225
+Latvia,Total gas oil production,Storage Channelization,,2023,18-03-2017,498.8358879
+Lithuania,Total gas oil production,Storage Channelization,,2023,04-07-2015,606.5910074
+Luxembourg,Total gas oil production,Storage Channelization,,2023,05-11-2004,347.5588544
+Mexico,Total gas oil production,Storage Channelization,,2023,25-01-2022,885.905933
+Netherlands,Total gas oil production,Storage Channelization,,2023,27-06-2008,296.5377259
+Norway,Total gas oil production,Storage Channelization,,2023,01-08-2004,649.8361121
+New Zealand,Total gas oil production,Storage Channelization,,2023,28-05-2016,362.5302018
+Poland,Total gas oil production,Storage Channelization,,2023,26-01-2002,580.6598876
+Portugal,Total gas oil production,Storage Channelization,,2023,29-03-2013,639.8441631
+Slovakia,Total gas oil production,Storage Channelization,,2023,29-05-2012,969.0765897
+Slovenia,Total gas oil production,Storage Channelization,,2023,26-09-2016,598.6538248
+Spain,Total gas oil production,Storage Channelization,,2023,20-06-2016,843.1101707
+Sweden,Total gas oil production,Storage Channelization,,2023,11-03-2014,369.2894588
+Switzerland,Total gas oil production,Storage Channelization,,2023,20-09-2020,390.3695722
+Türkiye,Total gas oil production,Storage Channelization,,2023,22-01-2003,933.2640963
+United Kingdom,Total gas oil production,Storage Channelization,,2023,22-03-2005,149.202761
+United States,Total gas oil production,Storage Channelization,,2023,21-09-2014,314.8538233
+Australia,Middle distillates,Storage Channelization,,2023,01-03-2003,809.0844087
+Austria,Middle distillates,Storage Channelization,,2023,05-04-2001,997.5130365
+Belgium,Middle distillates,Storage Channelization,,2023,22-05-2023,951.9259211
+Canada,Middle distillates,Storage Channelization,,2023,28-12-2012,761.3572827
+Chile,Middle distillates,Storage Channelization,,2023,23-09-2005,853.9898625
+Czech Republic,Middle distillates,Storage Channelization,,2023,05-08-2004,100.8517037
+Denmark,Middle distillates,Storage Channelization,,2023,29-05-2016,387.0370071
+Estonia,Middle distillates,Storage Channelization,,2023,09-05-2024,223.9515055
+Finland,Middle distillates,Storage Channelization,,2023,15-11-2004,220.5455869
+France,Middle distillates,Storage Channelization,,2023,07-06-2001,554.6832444
+Germany,Middle distillates,Storage Channelization,,2023,25-09-2023,685.1000423
+Greece,Middle distillates,Storage Channelization,,2023,14-02-2015,450.0394615
+Hungary,Middle distillates,Storage Channelization,,2023,14-11-2008,460.384795
+Iceland,Middle distillates,Storage Channelization,,2023,25-01-2025,724.032139
+Ireland,Middle distillates,Storage Channelization,,2023,03-03-2017,702.4862603
+Israel,Middle distillates,Storage Channelization,,2023,04-10-2021,281.6374916
+Italy,Middle distillates,Storage Channelization,,2023,22-07-2013,159.1134778
+Japan,Middle distillates,Storage Channelization,,2023,15-12-2006,975.8512556
+South Korea,Middle distillates,Storage Channelization,,2023,19-10-2023,272.0912887
+Latvia,Middle distillates,Storage Channelization,,2023,10-10-2013,778.1891658
+Lithuania,Middle distillates,Storage Channelization,,2023,08-04-2004,457.420825
+Luxembourg,Middle distillates,Storage Channelization,,2023,20-07-2017,275.5389515
+Mexico,Middle distillates,Storage Channelization,,2023,18-05-2003,421.9318094
+Netherlands,Middle distillates,Storage Channelization,,2023,24-06-2015,353.339149
+Norway,Middle distillates,Storage Channelization,,2023,01-10-2002,392.6298721
+New Zealand,Middle distillates,Storage Channelization,,2023,06-07-2018,981.3933062
+Poland,Middle distillates,Storage Channelization,,2023,07-12-2025,788.5815397
+Portugal,Middle distillates,Storage Channelization,,2023,13-11-2006,837.9362584
+Slovakia,Middle distillates,Storage Channelization,,2023,22-08-2005,170.0876367
+Slovenia,Middle distillates,Storage Channelization,,2023,07-06-2022,326.3763748
+Spain,Middle distillates,Storage Channelization,,2023,17-02-2021,659.4317117
+Sweden,Middle distillates,Storage Channelization,,2023,17-09-2008,549.4090126
+Switzerland,Middle distillates,Storage Channelization,,2023,14-03-2025,218.9269899
+Türkiye,Middle distillates,Storage Channelization,,2023,16-05-2003,181.5763952
+United Kingdom,Middle distillates,Storage Channelization,,2023,24-07-2014,809.5840879
+United States,Middle distillates,Storage Channelization,,2023,12-04-2018,855.1835241
+Australia,Residual fuel oil,Storage Channelization,,2023,13-10-2011,517.4951796
+Austria,Residual fuel oil,Storage Channelization,,2023,12-12-2024,968.4048263
+Belgium,Residual fuel oil,Storage Channelization,,2023,27-03-2004,972.4275789
+Canada,Residual fuel oil,Storage Channelization,,2023,27-04-2008,832.647818
+Chile,Residual fuel oil,Storage Channelization,,2023,08-06-2014,582.0590996
+Czech Republic,Residual fuel oil,Storage Channelization,,2023,27-08-2001,161.8810624
+Denmark,Residual fuel oil,Storage Channelization,,2023,01-05-2005,283.2539963
+Estonia,Residual fuel oil,Storage Channelization,,2023,10-04-2021,849.2353055
+Finland,Residual fuel oil,Storage Channelization,,2023,13-04-2009,413.2263473
+France,Residual fuel oil,Storage Channelization,,2023,22-05-2005,861.2908263
+Germany,Residual fuel oil,Storage Channelization,,2023,19-11-2023,441.8981152
+Greece,Residual fuel oil,Storage Channelization,,2023,20-07-2023,566.5992248
+Hungary,Residual fuel oil,Storage Channelization,,2023,05-02-2023,777.0014834
+Iceland,Residual fuel oil,Storage Channelization,,2023,17-03-2005,116.8813056
+Ireland,Residual fuel oil,Storage Channelization,,2023,17-04-2020,334.3194528
+Israel,Residual fuel oil,Storage Channelization,,2023,12-09-2021,929.8857251
+Italy,Residual fuel oil,Storage Channelization,,2023,05-02-2008,231.1527869
+Japan,Residual fuel oil,Storage Channelization,,2023,16-10-2009,788.2854942
+South Korea,Residual fuel oil,Storage Channelization,,2023,12-08-2024,901.3633523
+Latvia,Residual fuel oil,Storage Channelization,,2023,10-06-2010,886.6024736
+Lithuania,Residual fuel oil,Storage Channelization,,2023,22-08-2011,154.590919
+Luxembourg,Residual fuel oil,Storage Channelization,,2023,29-10-2004,168.0153377
+Mexico,Residual fuel oil,Storage Channelization,,2023,05-11-2009,400.3125562
+Netherlands,Residual fuel oil,Storage Channelization,,2023,29-07-2006,753.6496853
+Norway,Residual fuel oil,Storage Channelization,,2023,05-08-2003,223.6353981
+New Zealand,Residual fuel oil,Storage Channelization,,2023,04-10-2007,259.7013181
+Poland,Residual fuel oil,Storage Channelization,,2023,14-03-2008,957.4212154
+Portugal,Residual fuel oil,Storage Channelization,,2023,12-05-2022,542.0990734
+Slovakia,Residual fuel oil,Storage Channelization,,2023,02-03-2015,691.3591441
+Slovenia,Residual fuel oil,Storage Channelization,,2023,21-02-2001,849.5805839
+Spain,Residual fuel oil,Storage Channelization,,2023,04-09-2025,828.6834425
+Sweden,Residual fuel oil,Storage Channelization,,2023,06-07-2001,351.4445982
+Switzerland,Residual fuel oil,Storage Channelization,,2023,14-06-2014,424.1650571
+Türkiye,Residual fuel oil,Storage Channelization,,2023,04-01-2021,624.8922764
+United Kingdom,Residual fuel oil,Storage Channelization,,2023,03-12-2011,883.6396322
+United States,Residual fuel oil,Storage Channelization,,2023,28-08-2011,872.8096061
